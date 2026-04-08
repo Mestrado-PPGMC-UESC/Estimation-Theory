@@ -22,7 +22,6 @@ def ajustar_quadratico(x, y):
 
     return a, b, c
 
-import numpy as np
 
 def ajustar_linear_restrito(x, y):
     H = np.column_stack((x, np.ones(len(x))))
