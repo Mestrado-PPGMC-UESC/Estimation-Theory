@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-from auxiliar import calcular_erro_relativo
+from auxiliar import calcular_erro_absoluto
 
 def criar_grafico(S, I, R, titulo, limite=None):
     plt.figure(figsize=(10, 6))
@@ -36,7 +36,7 @@ def plotar_comparacao(S, I, R, S_estimado, I_estimado, R_estimado):
     variaveis = [('Suscetíveis', S, S_estimado),('Infectados', I, I_estimado),('Recuperados', R, R_estimado)]
 
     for nome, original, estimado in variaveis:
-        erro = calcular_erro_relativo(original, estimado)
+        erro = calcular_erro_absoluto(original, estimado)
 
         plt.figure(figsize=(12, 5))
 
@@ -72,8 +72,8 @@ def plotar_comparacao_2(S, I, R,S_estimado, I_estimado, R_estimado,S_estimado_re
     ]
 
     for nome, original, estimado, estimado_reduzido in variaveis:
-        erro_estimado = calcular_erro_relativo(original, estimado)
-        erro_reduzido = calcular_erro_relativo(original, estimado_reduzido)
+        erro_estimado = calcular_erro_absoluto(original, estimado)
+        erro_reduzido = calcular_erro_absoluto(original, estimado_reduzido)
 
         plt.figure(figsize=(14, 5))
 
@@ -91,12 +91,12 @@ def plotar_comparacao_2(S, I, R,S_estimado, I_estimado, R_estimado,S_estimado_re
 
         # Comparação dos erros relativos
         plt.subplot(1, 2, 2)
-        plt.plot(erro_estimado, label='Erro Relativo Completo')
-        plt.plot(erro_reduzido, label='Erro Relativo Reduzido')
+        plt.plot(erro_estimado, label='Erro Abosluto Completo')
+        plt.plot(erro_reduzido, label='Erro Abosluto Reduzido')
 
         plt.xlabel('Tempo')
-        plt.ylabel('Erro Relativo')
-        plt.title(f'Erro Relativo - {nome}')
+        plt.ylabel('Erro Abosluto')
+        plt.title(f'Erro Abosluto - {nome}')
         plt.legend()
         plt.grid(True)
 
