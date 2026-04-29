@@ -1,7 +1,7 @@
 # Makefile
 
 install:
-	pip install -r requirements.txt
+	py -m pip install -r requirements.txt
 
 run:
 	python main.py

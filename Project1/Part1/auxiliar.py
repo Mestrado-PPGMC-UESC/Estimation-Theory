@@ -1,6 +1,6 @@
 import numpy as np
 
-def calcular_erro_relativo(original, estimado):
+def calcular_erro_absoluto(original, estimado):
     return (
        np.abs(original - estimado)
         
