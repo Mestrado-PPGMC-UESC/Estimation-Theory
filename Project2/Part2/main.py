@@ -16,11 +16,32 @@ modelo = ModeloPopulacional(
 )
 
 numero_passos = 100
-estado_inicial = 100
 
-analise_inicial_populacional(numero_passos, estado_inicial, modelo)
-analise_erro_processo_populacional(numero_passos, estado_inicial, modelo)
-analise_erro_observacao_populacional(numero_passos, estado_inicial, modelo)
-analise_kalman_filtrado_populacional(numero_passos, estado_inicial, modelo)
-analise_kalman_preditivo_populacional(numero_passos, estado_inicial, modelo)
-analise_kalman_preditivo_corretivo_populacional(numero_passos, estado_inicial, modelo)
+estado_real_inicial = 100
+estado_estimado_inicial = 90
+
+analise_inicial_populacional(numero_passos, estado_real_inicial, modelo)
+analise_erro_processo_populacional(numero_passos, estado_real_inicial, modelo)
+analise_erro_observacao_populacional(numero_passos, estado_real_inicial, modelo)
+
+
+analise_kalman_filtrado_populacional(
+    numero_passos,
+    estado_real_inicial,
+    estado_estimado_inicial,
+    modelo
+)
+
+analise_kalman_preditivo_populacional(
+    numero_passos,
+    estado_real_inicial,
+    estado_estimado_inicial,
+    modelo
+)
+
+analise_kalman_preditivo_corretivo_populacional(
+    numero_passos,
+    estado_real_inicial,
+    estado_estimado_inicial,
+    modelo
+)

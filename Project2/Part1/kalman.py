@@ -1,11 +1,15 @@
 import numpy as np
 
-def estimativa_filtrada(observacoes, modelo, estado_inicial):
-    """
-    Calcula a estimativa filtrada do Filtro de Kalman.
+import numpy as np
 
-    A estimativa filtrada corresponde a x_hat(k|k), isto é,
-    a estimativa do estado após incorporar a medição do instante k.
+
+def estimativa_filtrada(observacoes, modelo, estado_inicial=None):
+    """
+    Calcula a estimativa filtrada do Filtro de Kalman usando exatamente
+    a forma recursiva apresentada no material do professor.
+
+    Retorna x_hat(k|k), isto é, a estimativa do estado após incorporar
+    a medição do instante k.
     """
 
     numero_passos = len(observacoes)
@@ -18,54 +22,68 @@ def estimativa_filtrada(observacoes, modelo, estado_inicial):
 
     b = (mu - 0.5 * sigma**2) * dt
 
-    A = np.array([
+    # F_k: matriz de transição de estados
+    F = np.array([
         [1, b],
         [0, 1]
     ])
 
-    C = np.array([[1, eta_r]])
+    # H_k: matriz de observação
+    H = np.array([[1, eta_r]])
 
+    # Q_k: covariância do ruído de processo
     Q = np.array([
         [sigma**2 * dt, 0],
         [0, 0]
     ])
 
+    # R_k: covariância do ruído de observação
     R = np.array([[q**2]])
 
-    x_estimado = np.array([
-        [estado_inicial],
-        [1]
-    ])
-
-    P = np.eye(2)
-
-    I = np.eye(2)
+    R_inv = np.linalg.inv(R)
 
     estimativas_filtradas = np.zeros(numero_passos)
 
-    for k in range(numero_passos):
+    # ============================================================
+    # Passo 0: Inicialização
+    # P(0|0) = (P0^(-1) + H0^T R0^(-1) H0)^(-1)
+    # x_hat(0|0) = P(0|0) H0^T R0^(-1) y0
+    # ============================================================
 
-        # ============================================================
-        # Passo 1: Predição
-        # x_hat(k|k-1) e P(k|k-1)
-        # ============================================================
-        x_predito = A @ x_estimado
-        P_predito = A @ P @ A.T + Q
+    P0 = np.eye(2)
 
-        # ============================================================
-        # Passo 2: Correção
-        # x_hat(k|k) e P(k|k)
-        # ============================================================
-        y_predito = C @ x_predito
-        inovacao = observacoes[k] - y_predito
+    y0 = np.array([[observacoes[0]]])
 
-        S = C @ P_predito @ C.T + R
-        K = P_predito @ C.T @ np.linalg.inv(S)
+    P = np.linalg.inv(
+        np.linalg.inv(P0) + H.T @ R_inv @ H
+    )
 
-        x_estimado = x_predito + K @ inovacao
-        P = (I - K @ C) @ P_predito
+    x_estimado = P @ H.T @ R_inv @ y0
 
-        estimativas_filtradas[k] = x_estimado[0, 0]
+    estimativas_filtradas[0] = x_estimado[0, 0]
+
+    # ============================================================
+    # Passo 1: Atualização Recursiva
+    # ============================================================
+
+    for k in range(numero_passos - 1):
+
+        y_proximo = np.array([[observacoes[k + 1]]])
+
+        P_predito = F @ P @ F.T + Q
+
+        P = np.linalg.inv(
+            np.linalg.inv(P_predito) + H.T @ R_inv @ H
+        )
+
+        inovacao = y_proximo - H @ F @ x_estimado
+
+        x_estimado = (
+            F @ x_estimado
+            + P @ H.T @ R_inv @ inovacao
+        )
+
+        estimativas_filtradas[k + 1] = x_estimado[0, 0]
 
     return estimativas_filtradas
 

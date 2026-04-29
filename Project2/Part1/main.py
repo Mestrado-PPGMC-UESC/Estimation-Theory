@@ -35,30 +35,29 @@ def main():
     analise_multiplas_sementes_observacao(numero_passos, estado_inicial, modelo,1000)
 
 
+    estado_real_inicial = 10
+    estado_estimado_inicial = 8  # chute inicial do filtro
+
     analise_kalman_filtrado_multiplas_sementes(
         numero_passos,
-        estado_inicial,
-        modelo,
-        numero_iteracoes=1000,
-        seed_plot=42
+        estado_real_inicial,
+        estado_estimado_inicial,
+        modelo
     )
 
     analise_kalman_preditivo_multiplas_sementes(
-    numero_passos,
-    estado_inicial,
-    modelo,
-    numero_iteracoes=1000,
-    seed_plot=42
-)
-    
+        numero_passos,
+        estado_real_inicial,
+        estado_estimado_inicial,
+        modelo
+    )
 
     analise_kalman_preditivo_corretivo_multiplas_sementes(
-    numero_passos,
-    estado_inicial,
-    modelo,
-    numero_iteracoes=1000,
-    seed_plot=42
-)
+        numero_passos,
+        estado_real_inicial,
+        estado_estimado_inicial,
+        modelo
+    )
 
 if __name__ == "__main__":
     main()

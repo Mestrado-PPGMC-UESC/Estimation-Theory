@@ -132,17 +132,17 @@ def analise_erro_observacao_populacional(
         "lista_nrmse_observacao": lista_nrmse
     }
 
-
 def analise_kalman_filtrado_populacional(
     numero_passos,
-    estado_inicial,
+    estado_real_inicial,
+    estado_estimado_inicial,
     modelo,
     numero_iteracoes=1000,
     seed_plot=42
 ):
     trajetoria_sem_ruido, trajetoria_com_ruido, observacoes = gerar_dados(
         numero_passos,
-        estado_inicial,
+        estado_real_inicial,
         modelo,
         semente_aleatoria=seed_plot
     )
@@ -150,7 +150,7 @@ def analise_kalman_filtrado_populacional(
     estimativas_filtradas = estimativa_filtrada(
         observacoes,
         modelo,
-        estado_inicial
+        estado_estimado_inicial
     )
 
     k = np.arange(len(estimativas_filtradas))
@@ -173,7 +173,7 @@ def analise_kalman_filtrado_populacional(
 
         _, trajetoria_com_ruido_i, observacoes_i = gerar_dados(
             numero_passos,
-            estado_inicial,
+            estado_real_inicial,
             modelo,
             semente_aleatoria=seed
         )
@@ -181,7 +181,7 @@ def analise_kalman_filtrado_populacional(
         estimativas_i = estimativa_filtrada(
             observacoes_i,
             modelo,
-            estado_inicial
+            estado_estimado_inicial
         )
 
         nrmse = calcular_nrmse(
@@ -206,17 +206,17 @@ def analise_kalman_filtrado_populacional(
         "estimativas_filtradas": estimativas_filtradas
     }
 
-
 def analise_kalman_preditivo_populacional(
     numero_passos,
-    estado_inicial,
+    estado_real_inicial,
+    estado_estimado_inicial,
     modelo,
     numero_iteracoes=1000,
     seed_plot=42
 ):
     trajetoria_sem_ruido, trajetoria_com_ruido, observacoes = gerar_dados(
         numero_passos,
-        estado_inicial,
+        estado_real_inicial,
         modelo,
         semente_aleatoria=seed_plot
     )
@@ -224,7 +224,7 @@ def analise_kalman_preditivo_populacional(
     estimativas_preditivas = estimativa_preditiva(
         observacoes,
         modelo,
-        estado_inicial
+        estado_estimado_inicial
     )
 
     k = np.arange(len(estimativas_preditivas))
@@ -247,7 +247,7 @@ def analise_kalman_preditivo_populacional(
 
         _, trajetoria_com_ruido_i, observacoes_i = gerar_dados(
             numero_passos,
-            estado_inicial,
+            estado_real_inicial,
             modelo,
             semente_aleatoria=seed
         )
@@ -255,7 +255,7 @@ def analise_kalman_preditivo_populacional(
         estimativas_i = estimativa_preditiva(
             observacoes_i,
             modelo,
-            estado_inicial
+            estado_estimado_inicial
         )
 
         nrmse = calcular_nrmse(
@@ -282,14 +282,15 @@ def analise_kalman_preditivo_populacional(
 
 def analise_kalman_preditivo_corretivo_populacional(
     numero_passos,
-    estado_inicial,
+    estado_real_inicial,
+    estado_estimado_inicial,
     modelo,
     numero_iteracoes=1000,
     seed_plot=42
 ):
     trajetoria_sem_ruido, trajetoria_com_ruido, observacoes = gerar_dados(
         numero_passos,
-        estado_inicial,
+        estado_real_inicial,
         modelo,
         semente_aleatoria=seed_plot
     )
@@ -297,7 +298,7 @@ def analise_kalman_preditivo_corretivo_populacional(
     estimativas_preditivas, estimativas_corrigidas = estimativa_preditiva_corretiva(
         observacoes,
         modelo,
-        estado_inicial
+        estado_estimado_inicial
     )
 
     k = np.arange(len(estimativas_corrigidas))
@@ -332,24 +333,22 @@ def analise_kalman_preditivo_corretivo_populacional(
     plt.grid(True)
     plt.show()
 
-    lista_nrmse_pred = []
     lista_nrmse_corr = []
 
     for seed in range(numero_iteracoes):
 
         _, trajetoria_com_ruido_i, observacoes_i = gerar_dados(
             numero_passos,
-            estado_inicial,
+            estado_real_inicial,
             modelo,
             semente_aleatoria=seed
         )
 
-        pred_i, corr_i = estimativa_preditiva_corretiva(
+        _, corr_i = estimativa_preditiva_corretiva(
             observacoes_i,
             modelo,
-            estado_inicial
+            estado_estimado_inicial
         )
-
 
         lista_nrmse_corr.append(
             calcular_nrmse(corr_i, trajetoria_com_ruido_i[:len(corr_i)])
@@ -357,14 +356,15 @@ def analise_kalman_preditivo_corretivo_populacional(
 
     lista_nrmse_corr = np.array(lista_nrmse_corr)
 
-
     media_corr = np.mean(lista_nrmse_corr)
+    desvio_corr = np.std(lista_nrmse_corr)
 
     print(f"Média NRMSE da preditiva-corretiva para {numero_iteracoes} sementes: {media_corr:.6f}")
+    print(f"Desvio padrão NRMSE da preditiva-corretiva: {desvio_corr:.6f}")
 
     return {
         "media_nrmse_corr": media_corr,
-        "lista_nrmse_pred": lista_nrmse_pred,
+        "desvio_nrmse_corr": desvio_corr,
         "lista_nrmse_corr": lista_nrmse_corr,
         "estimativas_preditivas": estimativas_preditivas,
         "estimativas_corrigidas": estimativas_corrigidas
