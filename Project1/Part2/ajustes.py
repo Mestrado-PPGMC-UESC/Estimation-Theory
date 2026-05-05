@@ -23,6 +23,19 @@ def ajustar_quadratico(x, y):
     return a, b, c
 
 
+def ajustar_cubico(x, y):
+    H = np.column_stack((x**3,sx**2, x, np.ones(len(x))))
+
+    theta = np.linalg.inv(H.T @ H) @ H.T @ y
+
+    a = theta[0]
+    b = theta[1]
+    c = theta[2]
+    d = theta[3]
+
+    return a, b, c, d
+
+
 def ajustar_linear_restrito(x, y):
     H = np.column_stack((x, np.ones(len(x))))
 
@@ -43,6 +56,7 @@ def ajustar_linear_restrito(x, y):
 
     a = solucao[0]
     b_coef = solucao[1]
+    
 
     return a, b_coef
 

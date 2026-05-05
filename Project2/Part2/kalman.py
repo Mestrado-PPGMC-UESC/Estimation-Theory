@@ -80,13 +80,13 @@ def passo_correcao(H, R, observacao, x_predito, P_predito):
 
     return x_corrigido, P_corrigido
 
-
 def estimativa_filtrada(observacoes, modelo, estado_inicial):
     """
-    Calcula a estimativa filtrada x_hat(k|k).
+    Calcula a estimativa filtrada x_hat(k|k)
+    usando a formulação filtrada do material do professor.
     """
 
-    F, H, Q, R, x_corrigido, P_corrigido = obter_matrizes_kalman(
+    F, H, Q, R, _, _ = obter_matrizes_kalman(
         modelo,
         estado_inicial
     )
@@ -94,26 +94,50 @@ def estimativa_filtrada(observacoes, modelo, estado_inicial):
     numero_passos = len(observacoes)
     estimativas_filtradas = np.zeros(numero_passos)
 
-    for k in range(numero_passos):
-        x_predito, P_predito = passo_predicao(
-            F,
-            Q,
-            x_corrigido,
-            P_corrigido
+    R_inv = np.linalg.inv(R)
+
+    # ============================================================
+    # Passo 0: Inicialização
+    # P(0|0) = (P0^(-1) + H.T R^(-1) H)^(-1)
+    # x_hat(0|0) = P(0|0) H.T R^(-1) y0
+    # ============================================================
+
+    P0 = np.eye(F.shape[0])
+
+    y0 = np.array([[observacoes[0]]])
+
+    P_corrigido = np.linalg.inv(
+        np.linalg.inv(P0) + H.T @ R_inv @ H
+    )
+
+    x_corrigido = P_corrigido @ H.T @ R_inv @ y0
+
+    estimativas_filtradas[0] = x_corrigido[0, 0]
+
+    # ============================================================
+    # Passo 1: Atualização recursiva
+    # ============================================================
+
+    for k in range(numero_passos - 1):
+
+        y_proximo = np.array([[observacoes[k + 1]]])
+
+        P_predito = F @ P_corrigido @ F.T + Q
+
+        P_corrigido = np.linalg.inv(
+            np.linalg.inv(P_predito) + H.T @ R_inv @ H
         )
 
-        x_corrigido, P_corrigido = passo_correcao(
-            H,
-            R,
-            observacoes[k],
-            x_predito,
-            P_predito
+        inovacao = y_proximo - H @ F @ x_corrigido
+
+        x_corrigido = (
+            F @ x_corrigido
+            + P_corrigido @ H.T @ R_inv @ inovacao
         )
 
-        estimativas_filtradas[k] = x_corrigido[0, 0]
+        estimativas_filtradas[k + 1] = x_corrigido[0, 0]
 
     return estimativas_filtradas
-
 
 def estimativa_preditiva(observacoes, modelo, estado_inicial):
     """
