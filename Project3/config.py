@@ -8,9 +8,9 @@ I0 = 0.9
 S0 = 0.1
 R0 = 0.0
 
-beta_chute=0.02
-alpha_chute=0.005
-k_chute=3
+beta_chute=0.035
+alpha_chute=0.025
+k_chute=0.9
 
 
 mu_fixo=1e-3
