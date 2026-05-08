@@ -165,6 +165,19 @@ def main():
 
     Plotador.plotar_convergencia(historico_beta_lm_adaptativo, historico_alpha_lm_adaptativo, historico_k_lm_adaptativo, historico_erro_lm_adaptativo, titulo="LM Adaptativo")
 
+    # -----------------------------
+    # 10. Modelo estimado 2
+    # -----------------------------
+
+
+
+    modelo_estimado = ModeloPropagacaoInformacao(beta_lm_adaptativo, alpha_lm_adaptativo, k_lm_adaptativo)
+
+    simulador_estimado = Simulador(modelo=modelo_estimado,numero_passos=numero_passos)
+
+    I_est, S_est, R_est = simulador_estimado.executar(I0=I0,S0=S0,R0=R0)
+
+    Plotador.plotar(I_est,S_est,R_est)
 
     # 9. Teste com diferentes valores iniciais de mu adaptativo
     # -----------------------------
@@ -200,6 +213,9 @@ def main():
             f"{mu_final:<14.6e}"
             f"{erro_final_lm_adaptativo:.6e}"
         )
+
+
+
 
 if __name__ == "__main__":
     main()

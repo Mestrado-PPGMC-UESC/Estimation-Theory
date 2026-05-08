@@ -1,0 +1,95 @@
+function plotador = Plotador()
+    
+    plotador = struct();
+    
+endfunction
+
+
+function plotar_sistema(plotador, I, S, R, titulo)
+    
+    clf();
+    
+    tempo = 0:length(I) - 1;
+    
+    plot(tempo, I, "r");
+    plot(tempo, S, "b");
+    plot(tempo, R, "g");
+    
+    xlabel("Tempo");
+    ylabel("Populacao");
+    title(titulo);
+
+    legend(["Ignorantes"; "Espalhadores"; "Refutadores"]);
+    
+    xgrid();
+    
+endfunction
+
+
+function plotar_convergencia(plotador, historico_beta, historico_alpha, historico_k, historico_erro, titulo)
+
+    iteracoes = 0:length(historico_erro)-1;
+
+    // Cria uma única janela
+    scf();
+
+    // ==========================
+    // Erro
+    // ==========================
+    subplot(2, 2, 1);
+
+    plot(iteracoes, historico_erro, "-");
+
+    title("Erro - " + titulo);
+
+    xlabel("Iteracao");
+    ylabel("Residuo");
+
+    xgrid();
+
+
+    // ==========================
+    // Beta
+    // ==========================
+    subplot(2, 2, 2);
+
+    plot(iteracoes, historico_beta, "-");
+
+    title("Beta - " + titulo);
+
+    xlabel("Iteracao");
+    ylabel("Beta");
+
+    xgrid();
+
+
+    // ==========================
+    // Alpha
+    // ==========================
+    subplot(2, 2, 3);
+
+    plot(iteracoes, historico_alpha, "-");
+
+    title("Alpha - " + titulo);
+
+    xlabel("Iteracao");
+    ylabel("Alpha");
+
+    xgrid();
+
+
+    // ==========================
+    // K
+    // ==========================
+    subplot(2, 2, 4);
+
+    plot(iteracoes, historico_k, "-");
+
+    title("K - " + titulo);
+
+    xlabel("Iteracao");
+    ylabel("K");
+
+    xgrid();
+
+endfunction
