@@ -5,13 +5,9 @@ function plotador = Plotador()
 endfunction
 
 
-function plotar_sistema(plotador, I, S, R, titulo,id_figura)
+function plotar_sistema(plotador, I, S, R, titulo)
     
-
-    // Cria/ativa uma janela específica
-    scf(id_figura);
-
-    clf(); // opcional: limpa só essa janela
+    clf();
     
     tempo = 0:length(I) - 1;
     
@@ -30,14 +26,12 @@ function plotar_sistema(plotador, I, S, R, titulo,id_figura)
 endfunction
 
 
-function plotar_convergencia(plotador, historico_beta, historico_alpha, historico_k, historico_erro, titulo,id_figura)
+function plotar_convergencia(plotador, historico_beta, historico_alpha, historico_k, historico_erro, titulo)
 
     iteracoes = 0:length(historico_erro)-1;
 
-    // Cria/ativa uma janela específica
-    scf(id_figura);
-
-    clf(); // opcional: limpa só essa janela
+    // Cria uma única janela
+    
 
     // ==========================
     // Erro

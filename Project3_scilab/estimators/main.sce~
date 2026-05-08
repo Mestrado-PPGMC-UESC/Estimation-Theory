@@ -7,7 +7,7 @@ exec("simulators/simulador.sci",-1);
 exec("visualization/plotador.sci",-1);
 exec("models/modelo_propagacao.sci",-1);
 exec("estimators/estimador_gauss_newton.sci",-1);
-exec("estimators/estimador_levenberg_marquardt.sci",-1);
+
 
 
 //DADOS
@@ -29,7 +29,7 @@ numero_passos = 500;
 max_iter = 500;
 tolerancia = 1e-8;
 epsilon = 1e-6;
-tau = 1e-3;
+
 // Chute inicial
 chutes_iniciais = [0.035; 0.025; 3.0]; //beta,alpha,k
 
@@ -92,36 +92,7 @@ plotar_sistema(plotador, I_est, S_est, R_est,"Propagação da Informação - Est
 
 plotar_convergencia(plotador, hist_beta, hist_alpha, hist_k, hist_erro, "Gauss-Newton",2);
 
-////////////////////////
-//5. Estimação por Levenberg
-////////////////////////
 
-estimador_lm = EstimadorLevenbergMarquardt(numero_passos, [I' S' R'], max_iter, tolerancia, epsilon, tau, chutes_iniciais);
 
-[parametros_lm, hist_beta_lm, hist_alpha_lm, hist_k_lm, hist_erro_lm, hist_mu_lm, iter_lm] = estimar_levenberg_marquardt(estimador_lm);
 
-////////////////////////
-//6. Resimulação com parâmetros estimados
-////////////////////////
 
-beta_estimado = parametros_lm(1);
-alpha_estimado = parametros_lm(2);
-k_estimado = parametros_lm(3);
-
-// Cria modelo estimado
-modelo_estimado = ModeloPropagacaoInformacao(beta_estimado, alpha_estimado, k_estimado);
-
-// Cria simulador estimado
-simulador_estimado = Simulador(modelo_estimado, numero_passos);
-
-// Executa simulação estimada
-[I_est, S_est, R_est] = executar(simulador_estimado, I0, S0, R0);
-
-// Plota resultado estimado
-plotar_sistema(plotador, I_est, S_est, R_est,"Propagação da Informação - Estimado Levenberg",3);
-
-////////////////////////
-//7. Convergência
-////////////////////////
-
-plotar_convergencia(plotador, hist_beta_lm, hist_alpha_lm, hist_k_lm, hist_erro_lm, "Levenberg",4);

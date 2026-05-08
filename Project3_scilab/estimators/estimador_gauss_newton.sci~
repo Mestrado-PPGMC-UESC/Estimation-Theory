@@ -89,7 +89,7 @@ function J = calcular_jacobiana_numerica_newton(estimador, parametros, residuo_b
 
         parametros_perturbados(j) = parametros_perturbados(j) + estimador.epsilon;
 
-        residuo_perturbado = calcular_residuo_newton(estimador, parametros_perturbados);
+        residuo_perturbado = calcular_residuo(estimador, parametros_perturbados);
 
         J(:, j) = (residuo_perturbado - residuo_base) / estimador.epsilon;
 

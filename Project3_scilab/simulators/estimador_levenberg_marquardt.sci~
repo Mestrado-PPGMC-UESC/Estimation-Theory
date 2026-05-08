@@ -102,9 +102,9 @@ function simulacao = simular_com_parametros_levenberg_marquardt(estimador, param
     modelo = ModeloPropagacaoInformacao(beta, alpha, k);
     simulador = Simulador(modelo, estimador.numero_passos);
 
-    [I, S, R] = executar(simulador,estimador.I0, estimador.S0, estimador.R0);
+    [I, S, R] = simulador.executar(simulador,estimador.I0, estimador.S0, estimador.R0);
 
-    simulacao = [I'S'R'];
+    simulacao = [I, S, R];
 
 endfunction
 
@@ -186,12 +186,12 @@ function parametros_teste = calcular_parametros_teste_levenberg_marquardt(estima
 
 endfunction
 
+
 function [parametros, parar] = atualizar_parametros_com_protecao_levenberg_marquardt(estimador, parametros, parametros_teste, delta, xi)
 
     parar = %f;
 
-    // Verifica NaN ou infinito
-    if or(isnan(parametros_teste)) | or(isinf(parametros_teste)) then
+    if or(~isfinite(parametros_teste)) then
         parar = %t;
         return;
     end
@@ -205,6 +205,7 @@ function [parametros, parar] = atualizar_parametros_com_protecao_levenberg_marqu
     end
 
 endfunction
+
 
 function [parametros, parar] = atualizar_parametros_sem_xi_levenberg_marquardt(estimador, parametros, parametros_teste, delta)
 
