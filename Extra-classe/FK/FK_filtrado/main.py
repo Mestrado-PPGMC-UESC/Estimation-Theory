@@ -24,7 +24,7 @@ Q = np.array([
 ])
 
 R = np.array([
-    [1.0]
+    [10.0]
 ])
 
 estados_reais = []
