@@ -29,54 +29,98 @@ class Plotador:
         plt.show()
 
     @staticmethod
-    def plotar_convergencia(historico_beta, historico_alpha, historico_k, historico_erro, titulo):
+    def plotar_convergencia(
+        historico_beta,
+        historico_alpha,
+        historico_k,
+        historico_delta,
+        titulo
+    ):
 
-        iteracoes = range(len(historico_erro))
+        iteracoes = range(len(historico_delta))
 
-        # Erro
-        plt.figure(figsize=(10, 6))
+        fig, axs = plt.subplots(2, 2, figsize=(14, 10))
 
-        plt.plot(iteracoes, historico_erro, marker="o")
+        # -----------------------------
+        # Delta
+        # -----------------------------
+        axs[0, 0].plot(iteracoes, historico_delta, marker="o")
 
-        plt.title(f"Convergência do Erro - {titulo}")
+        axs[0, 0].set_title(r"Norma de $\Delta \theta$")
 
-        plt.xlabel("Iteração")
+        axs[0, 0].set_xlabel("Iteração")
 
-        plt.ylabel("Norma do Resíduo")
+        axs[0, 0].set_ylabel(r"$||\Delta \theta||$")
 
-        plt.grid(True)
+        axs[0, 0].set_yscale("log")
 
-        plt.tight_layout()
+        axs[0, 0].grid(True)
 
-        plt.show()
-
+        # -----------------------------
         # Beta
-        plt.figure(figsize=(10, 6))
+        # -----------------------------
+        axs[0, 1].plot(iteracoes, historico_beta, marker="o")
 
-        plt.plot(iteracoes, historico_beta, marker="o")
+        axs[0, 1].set_title(r"Convergência de $\beta$")
 
-        plt.title(f"Convergência de beta - {titulo}")
+        axs[0, 1].set_xlabel("Iteração")
 
-        plt.xlabel("Iteração")
+        axs[0, 1].set_ylabel(r"$\beta$")
 
-        plt.ylabel("beta")
+        axs[0, 1].grid(True)
 
-        plt.grid(True)
-
-        plt.tight_layout()
-
-        plt.show()
-
+        # -----------------------------
         # Alpha
+        # -----------------------------
+        axs[1, 0].plot(iteracoes, historico_alpha, marker="o")
+
+        axs[1, 0].set_title(r"Convergência de $\alpha$")
+
+        axs[1, 0].set_xlabel("Iteração")
+
+        axs[1, 0].set_ylabel(r"$\alpha$")
+
+        axs[1, 0].grid(True)
+
+        # -----------------------------
+        # K
+        # -----------------------------
+        axs[1, 1].plot(iteracoes, historico_k, marker="o")
+
+        axs[1, 1].set_title(r"Convergência de $k$")
+
+        axs[1, 1].set_xlabel("Iteração")
+
+        axs[1, 1].set_ylabel(r"$k$")
+
+        axs[1, 1].grid(True)
+
+        fig.suptitle(
+            f"Convergência dos Parâmetros - {titulo}",
+            fontsize=16
+        )
+
+        plt.tight_layout()
+
+        plt.show()
+
+
+    @staticmethod
+    def plotar_mu(historico_mu, titulo):
+
+        iteracoes = range(len(historico_mu))
+
         plt.figure(figsize=(10, 6))
 
-        plt.plot(iteracoes, historico_alpha, marker="o")
+        plt.plot(iteracoes, historico_mu, marker="o")
 
-        plt.title(f"Convergência de alpha - {titulo}")
+        plt.title(f"Evolução do Fator de Amortecimento - {titulo}")
 
         plt.xlabel("Iteração")
 
-        plt.ylabel("alpha")
+        plt.ylabel(r"$\mu$")
+
+        plt.yscale("log")
 
         plt.grid(True)
 
@@ -84,18 +128,104 @@ class Plotador:
 
         plt.show()
 
-        # K
+    @staticmethod
+    def plotar_delta_theta_comparacao(
+        historico_delta_gn,
+        historico_delta_lm
+    ):
+
+        iteracoes_gn = range(len(historico_delta_gn))
+
+        iteracoes_lm = range(len(historico_delta_lm))
+
         plt.figure(figsize=(10, 6))
 
-        plt.plot(iteracoes, historico_k, marker="o")
+        plt.plot(
+            iteracoes_gn,
+            historico_delta_gn,
+            marker="o",
+            label="Gauss-Newton"
+        )
 
-        plt.title(f"Convergência de k - {titulo}")
+        plt.plot(
+            iteracoes_lm,
+            historico_delta_lm,
+            marker="s",
+            label="Levenberg-Marquardt"
+        )
+
+        plt.yscale("log")
 
         plt.xlabel("Iteração")
 
-        plt.ylabel("k")
+        plt.ylabel(r"$||\Delta \theta||$")
+
+        plt.title(r"Comparação da Convergência de $||\Delta \theta||$")
 
         plt.grid(True)
+
+        plt.legend()
+
+        plt.tight_layout()
+
+        plt.show()
+
+
+    @staticmethod
+    def plotar_analise_mu(
+        mus,
+        historico_iteracoes,
+        historico_delta_final
+    ):
+
+        fig, axs = plt.subplots(1, 2, figsize=(14, 5))
+
+        # ---------------------------------
+        # Iterações x mu
+        # ---------------------------------
+
+        axs[0].plot(
+            mus,
+            historico_iteracoes,
+            marker="o"
+        )
+
+        axs[0].set_xscale("log")
+
+        axs[0].set_title(r"Iterações vs $\mu_0$")
+
+        axs[0].set_xlabel(r"$\mu_0$")
+
+        axs[0].set_ylabel("Número de Iterações")
+
+        axs[0].grid(True)
+
+        # ---------------------------------
+        # Delta final x mu
+        # ---------------------------------
+
+        axs[1].plot(
+            mus,
+            historico_delta_final,
+            marker="o"
+        )
+
+        axs[1].set_xscale("log")
+
+        axs[1].set_yscale("log")
+
+        axs[1].set_title(r"$||\Delta \theta||$ final vs $\mu_0$")
+
+        axs[1].set_xlabel(r"$\mu_0$")
+
+        axs[1].set_ylabel(r"$||\Delta \theta||$ final")
+
+        axs[1].grid(True)
+
+        fig.suptitle(
+            r"Influência do Valor Inicial de $\mu$",
+            fontsize=16
+        )
 
         plt.tight_layout()
 

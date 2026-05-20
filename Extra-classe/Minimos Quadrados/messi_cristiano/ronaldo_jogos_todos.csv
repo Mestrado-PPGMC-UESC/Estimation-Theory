@@ -1,0 +1,614 @@
+﻿epoca,data,resultado,competicao,fase,time,mando,adversario,placar,minutos,gols_no_jogo,jogo,gols_acumulados
+1992,1993-05-25,V,MG1,A,Cruzeiro,(F),Caldense,0-1,90,0,1,0
+1992,1993-09-07,D,D1,A,Cruzeiro,(C),Corinthians,0-2,90,0,2,0
+1992,1993-09-12,V,D1,A,Cruzeiro,(F),Bahia,1-3,n/d,1,3,1
+1992,1993-09-18,D,D1,A,Cruzeiro,(C),Flamengo,1-2,90,1,4,2
+1992,1993-09-26,E,D1,A,Cruzeiro,(F),São Paulo,0-0,90,0,5,2
+1992,1993-09-29,E,RS,F,Cruzeiro,(C),São Paulo,0-0 (2-4)g.p.,120,0,6,2
+1992,1993-10-03,D,D1,A,Cruzeiro,(F),Internacional,3-0,90,0,7,2
+1992,1993-10-06,V,SCL,1F,Cruzeiro,(C),Colo-Colo,6-1,90,3,8,5
+1992,1993-10-06,D,D1,A,Cruzeiro,(F),Red Bull Bragantino,1-0,n/d,0,9,5
+1992,1993-10-09,V,D1,A,Cruzeiro,(C),Botafogo,3-0,90,1,10,6
+1992,1993-10-13,E,SCL,1F,Cruzeiro,(F),Colo-Colo,3-3,90,2,11,8
+1992,1993-10-17,V,D1,A,Cruzeiro,(F),Botafogo,0-1,90,1,12,9
+1992,1993-10-20,D,SCL,2F,Cruzeiro,(C),Nacional,1-2,90,1,13,10
+1992,1993-10-24,D,D1,A,Cruzeiro,(F),Flamengo,2-1,n/d,0,14,10
+1992,1993-10-27,V,SCL,2F,Cruzeiro,(F),Nacional,2-3 (4-2)g.p.,120,2,15,12
+1992,1993-10-31,V,D1,A,Cruzeiro,(C),Red Bull Bragantino,1-0,90,1,16,13
+1992,1993-11-05,E,D1,A,Cruzeiro,(C),São Paulo,1-1,90,1,17,14
+1992,1993-11-07,V,D1,A,Cruzeiro,(C),Bahia,6-0,90,5,18,19
+1992,1993-11-10,D,D1,A,Cruzeiro,(F),Corinthians,2-1,90,0,19,19
+1992,1993-11-14,V,D1,A,Cruzeiro,(C),Internacional,4-1,90,1,20,20
+1993,1994-01-30,V,MG1,R1,Cruzeiro,(F),Villa Nova-MG,2-4,90,1,21,21
+1993,1994-02-02,E,MG1,R8,Cruzeiro,(C),Democrata-GV,0-0,90,0,22,21
+1993,1994-02-05,V,MG1,R2,Cruzeiro,(C),Mamoré,2-0,90,1,23,22
+1993,1994-02-20,V,MG1,R5,Cruzeiro,(C),Valeriodoce,4-2,90,2,24,24
+1993,1994-02-23,V,MG1,R4,Cruzeiro,(F),Atl. Três Corações,0-2,90,2,25,26
+1993,1994-02-25,V,MG1,R6,Cruzeiro,(F),Alfenense,0-3,90,2,26,28
+1993,1994-02-27,V,MG1,R7,Cruzeiro,(F),Uberlândia,0-1,90,1,27,29
+1993,1994-03-02,D,CL,2,Cruzeiro,(F),Palmeiras,2-0,90,0,28,29
+1993,1994-03-06,V,MG1,R9,Cruzeiro,(F),Atlético Mineiro,1-3,90,3,29,32
+1993,1994-03-08,E,CL,2,Cruzeiro,(C),Vélez Sarsfield,1-1,90,1,30,33
+1993,1994-03-13,V,MG1,R10,Cruzeiro,(C),América Mineiro,2-0,n/d,0,31,33
+1993,1994-03-16,V,CL,2,Cruzeiro,(F),Boca Juniors,1-2,90,0,32,33
+1993,1994-03-23,V,AMI,JA,Brasil,(C),Argentina,2-0,10,0,33,33
+1993,1994-03-25,V,CL,2,Cruzeiro,(C),Palmeiras,2-1,80,0,34,33
+1993,1994-03-27,V,MG1,R12,Cruzeiro,(C),Villa Nova-MG,8-0,90,2,35,35
+1993,1994-03-31,D,CL,2,Cruzeiro,(F),Vélez Sarsfield,2-0,90,0,36,35
+1993,1994-04-03,E,MG1,R13,Cruzeiro,(F),Mamoré,1-1,90,1,37,36
+1993,1994-04-06,V,CL,2,Cruzeiro,(C),Boca Juniors,2-1,90,1,38,37
+1993,1994-04-10,V,MG1,R15,Cruzeiro,(C),Atl. Três Corações,4-1,90,0,39,37
+1993,1994-04-13,V,MG1,R3,Cruzeiro,(C),Caldense,3-1,90,2,40,39
+1993,1994-04-17,E,MG1,R16,Cruzeiro,(F),Valeriodoce,1-1,90,0,41,39
+1993,1994-04-21,D,CL,1/8,Cruzeiro,(F),Unión Española,1-0,90,0,42,39
+1993,1994-04-24,V,MG1,R18,Cruzeiro,(C),Uberlândia,4-0,90,3,43,42
+1993,1994-04-28,E,CL,1/8,Cruzeiro,(C),Unión Española,0-0,90,0,44,42
+1993,1994-05-01,E,MG1,R20,Cruzeiro,(C),Atlético Mineiro,1-1,90,0,45,42
+1993,1994-05-03,V,AMI,JA,Brasil,(C),Islândia,3-0,90,1,46,43
+1993,1994-05-08,V,MG1,R21,Cruzeiro,(F),América Mineiro,1-6,90,1,47,44
+1993,1994-05-15,V,MG1,R22,Cruzeiro,(C),CA Patrocinense,1-0,90,1,48,45
+1993,1994-06-07,V,AMI,JA,Brasil,(C),Honduras,8-2,29,0,49,45
+1994,1994-08-28,V,D1,R1,PSV,(F),Vitesse,2-4,86,1,50,46
+1994,1994-08-31,V,D1,R1,PSV,(C),Go Ahead Eagles,4-1,77,2,51,48
+1994,1994-09-13,D,EL,1R,PSV,(F),Bayer Leverkusen,5-4,80,3,52,51
+1994,1994-09-17,V,D1,R3,PSV,(C),FC Dordrecht,4-0,75,0,53,51
+1994,1994-09-21,E,D1,R4,PSV,(F),Sparta Rotterdam,1-1,90,1,54,52
+1994,1994-09-27,E,EL,1R,PSV,(C),Bayer Leverkusen,0-0,90,0,55,52
+1994,1994-10-05,V,KNVB,1R,PSV,(C),Roda,3-2 (a.p.),120,2,56,54
+1994,1994-10-15,V,D1,R7,PSV,(C),Heerenveen,3-1,90,1,57,55
+1994,1994-10-23,D,D1,R8,PSV,(C),Ajax,1-4,90,0,58,55
+1994,1994-10-26,D,D1,R9,PSV,(F),Willem II,2-1,90,0,59,55
+1994,1994-10-29,V,D1,R9,PSV,(C),FC Groningen,5-0,90,1,60,56
+1994,1994-11-01,D,D1,R10,PSV,(F),Roda,3-0,90,0,61,56
+1994,1994-11-06,V,D1,R11,PSV,(F),FC Utrecht,1-2,90,1,62,57
+1994,1994-11-09,V,D1,R11,PSV,(C),MVV,4-0,90,2,63,59
+1994,1994-11-19,E,D1,R12,PSV,(F),FC Volendam,0-0,90,0,64,59
+1994,1994-11-27,V,D1,R13,PSV,(C),Feyenoord,4-1,90,2,65,61
+1994,1994-12-04,E,D1,R14,PSV,(F),FC Twente,2-2,90,0,66,61
+1994,1994-12-06,E,D1,R15,PSV,(C),RKC Waalwijk,2-2,90,0,67,61
+1993,1994-12-22,V,AMI,JA,Brasil,(C),Iugoslávia,2-0,66,0,68,61
+1994,1995-01-22,D,D1,R18,PSV,(F),Ajax,1-0,90,0,69,61
+1994,1995-01-28,V,D1,R18,PSV,(C),Roda,5-0,90,2,70,63
+1994,1995-02-03,V,D1,R19,PSV,(F),FC Dordrecht,0-2,90,1,71,64
+1994,1995-02-11,V,D1,R20,PSV,(C),Vitesse,3-2,90,1,72,65
+1994,1995-02-15,V,D1,R21,PSV,(C),Sparta Rotterdam,4-0,72,2,73,67
+1994,1995-02-19,E,D1,R22,PSV,(F),Go Ahead Eagles,1-1,90,0,74,67
+1994,1995-03-04,V,D1,R22,PSV,(C),NEC,3-0,90,2,75,69
+1994,1995-03-07,V,D1,R23,PSV,(F),NAC Breda,1-2,90,0,76,69
+1994,1995-03-11,V,D1,R24,PSV,(F),Heerenveen,1-2,90,0,77,69
+1994,1995-03-18,V,D1,R25,PSV,(C),Willem II,3-2,90,1,78,70
+1994,1995-04-02,D,D1,R27,PSV,(F),FC Groningen,3-2,90,1,79,71
+1994,1995-04-09,V,D1,R28,PSV,(C),FC Utrecht,4-0,90,3,80,74
+1994,1995-04-14,V,D1,R29,PSV,(F),MVV,2-3,90,1,81,75
+1994,1995-04-29,E,D1,R30,PSV,(C),FC Volendam,1-1,90,0,82,75
+1994,1995-05-07,D,D1,R31,PSV,(F),Feyenoord,3-2,90,1,83,76
+1994,1995-05-13,V,D1,R32,PSV,(C),FC Twente,3-1,90,1,84,77
+1994,1995-05-16,V,AMI,JA,Brasil,(F),Israel,1-2,90,0,85,77
+1994,1995-05-21,V,D1,R33,PSV,(F),RKC Waalwijk,2-4,90,1,86,78
+1994,1995-05-28,D,D1,R34,PSV,(C),NAC Breda,2-4,90,2,87,80
+1994,1995-06-04,V,AMI,T,Brasil,(N),Suécia,1-0,90,0,88,80
+1994,1995-06-06,V,AMI,T,Brasil,(F),Japão,0-3,90,0,89,80
+1994,1995-06-11,V,AMI,T,Brasil,(F),Inglaterra,1-3,76,1,90,81
+1994,1995-07-07,V,CA,B,Brasil,(N),Equador,1-0,5,0,91,81
+1995/96,1995-08-27,D,D1,R2,PSV,(F),NAC Breda,3-0,32,0,92,81
+1995/96,1995-09-09,V,D1,R3,PSV,(C),Heerenveen,5-1,75,2,93,83
+1995/96,1995-09-12,E,EL,1R,PSV,(F),MyPa,1-1,90,1,94,84
+1995/96,1995-09-16,V,D1,R4,PSV,(F),Vitesse,0-1,31,0,95,84
+1995/96,1995-09-20,V,D1,R5,PSV,(C),FC Twente,3-0,90,2,96,86
+1995/96,1995-09-23,V,D1,R6,PSV,(F),FC Volendam,0-5,79,1,97,87
+1995/96,1995-09-26,V,EL,1R,PSV,(C),MyPa,7-1,90,4,98,91
+1995/96,1995-10-01,V,D1,R7,PSV,(C),Feyenoord,3-0,90,1,99,92
+1995/96,1995-10-04,E,D1,R8,PSV,(F),Roda,1-1,90,0,100,92
+1994,1995-10-10,V,AMI,JA,Brasil,(C),Uruguai,2-0,45,2,101,94
+1995/96,1995-10-28,V,D1,R12,PSV,(C),Willem II,2-0,26,0,102,94
+1995/96,1995-10-30,V,EL,2R,PSV,(C),Leeds United,3-0,90,0,103,94
+1995/96,1995-11-05,E,D1,R13,PSV,(F),Ajax,1-1,90,1,104,95
+1995/96,1995-11-18,V,D1,R14,PSV,(C),De Graafschap,8-0,90,3,105,98
+1995/96,1995-11-21,V,EL,3R,PSV,(C),Werder Bremen,2-1,73,1,106,99
+1995/96,1995-11-26,V,D1,R16,PSV,(F),NEC,0-5,90,2,107,101
+1995/96,1995-11-28,V,KNVB,1R,PSV,(F),FC Utrecht,0-2,90,1,108,102
+1995/96,1995-12-02,D,D1,R16,PSV,(C),Sparta Rotterdam,1-2,90,0,109,102
+1995/96,1995-12-05,E,EL,3R,PSV,(F),Werder Bremen,0-0,90,0,110,102
+1995/96,1996-01-24,V,KNVB,1/8,PSV,(F),De Graafschap,1-3,90,0,111,102
+1995/96,1996-04-28,D,D1,R33,PSV,(F),Sparta Rotterdam,2-1,45,0,112,102
+1995/96,1996-05-16,V,KNVB,F,PSV,(C),Sparta Rotterdam,5-2,15,0,113,102
+1996/97,1996-07-21,D,OLI,D,Brasil,(N),Japão,1-0,26,0,114,102
+1996/97,1996-07-23,V,OLI,D,Brasil,(N),Hungria,3-1,74,1,115,103
+1996/97,1996-07-25,V,OLI,D,Brasil,(N),Nigéria,1-0,83,1,116,104
+1996/97,1996-07-28,V,OLI,QF,Brasil,(N),Gana,4-2,90,2,117,106
+1996/97,1996-07-31,D,OLI,SF,Brasil,(N),Nigéria,4-3 (a.p.),85,0,118,106
+1996/97,1996-08-02,V,OLI,3/4,Brasil,(N),Portugal,5-0,79,1,119,107
+1996/97,1996-08-25,V,SC,F,Barcelona,(C),Atlético de Madrid,5-2,90,2,120,109
+1995/96,1996-08-27,E,AMI,JA,Brasil,(F),Rússia,2-2,88,1,121,110
+1995/96,1996-08-30,E,AMI,JA,Brasil,(F),Holanda,2-2,86,0,122,110
+1996/97,1996-08-31,V,D1,R1,Barcelona,(F),Real Oviedo,2-4,66,0,123,110
+1996/97,1996-09-06,V,D1,R2,Barcelona,(C),Espanyol,2-1,90,0,124,110
+1996/97,1996-09-12,V,TT,1R,Barcelona,(C),AEK Larnaca,2-0,90,2,125,112
+1996/97,1996-09-14,E,D1,R3,Barcelona,(F),Racing Santander,1-1,90,1,126,113
+1996/97,1996-09-21,V,D1,R4,Barcelona,(C),Real Sociedad,3-2,90,2,127,115
+1996/97,1996-09-28,V,D1,R5,Barcelona,(F),Real Zaragoza,3-5,89,2,128,117
+1996/97,1996-10-01,E,D1,R6,Barcelona,(C),Tenerife,1-1,90,0,129,117
+1996/97,1996-10-12,V,D1,R7,Barcelona,(F),SD Compostela,1-5,90,2,130,119
+1995/96,1996-10-15,V,AMI,JA,Brasil,(C),Lituânia,3-1,90,3,131,122
+1996/97,1996-10-19,V,D1,R8,Barcelona,(C),CD Logroñés,8-0,90,2,132,124
+1996/97,1996-10-22,V,D1,R9,Barcelona,(F),Sevilla,0-1,90,0,133,124
+1996/97,1996-10-25,V,D1,R10,Barcelona,(C),Valencia,3-2,90,3,134,127
+1996/97,1996-10-31,E,TT,2R,Barcelona,(F),Crvena Zvezda,1-1,76,0,135,127
+1996/97,1996-11-17,V,D1,R13,Barcelona,(C),Valladolid,6-1,59,1,136,128
+1996/97,1996-11-22,D,D1,R14,Barcelona,(F),Athletic Bilbao,2-1,90,0,137,128
+1996/97,1996-12-01,V,D1,R15,Barcelona,(C),CF Extremadura,3-0,74,0,138,128
+1996/97,1996-12-06,D,D1,R16,Barcelona,(F),Real Madrid,2-0,90,0,139,128
+1995/96,1996-12-18,V,AMI,JA,Brasil,(C),Bósnia-Herzgovina,1-0,90,1,140,129
+1996/97,1996-12-21,V,D1,R17,Barcelona,(C),Celta de Vigo,1-0,90,0,141,129
+1996/97,1997-01-03,V,D1,R18,Barcelona,(F),Deportivo,0-1,90,0,142,129
+1996/97,1997-01-12,D,D1,R19,Barcelona,(C),Hércules,2-3,90,1,143,130
+1996/97,1997-01-18,V,D1,R20,Barcelona,(F),Real Betis,2-4,90,1,144,131
+1996/97,1997-01-25,V,D1,R21,Barcelona,(C),Rayo Vallecano,6-0,68,2,145,133
+1996/97,1997-01-29,V,CR,1/8,Barcelona,(C),Real Madrid,3-2,90,1,146,134
+1996/97,1997-02-01,E,D1,R22,Barcelona,(C),Real Oviedo,2-2,90,1,147,135
+1996/97,1997-02-04,E,CR,1/8,Barcelona,(F),Real Madrid,1-1,90,0,148,135
+1996/97,1997-02-08,D,D1,R23,Barcelona,(F),Espanyol,2-0,90,0,149,135
+1996/97,1997-02-15,V,D1,R24,Barcelona,(C),Racing Santander,1-0,88,0,150,135
+1996/97,1997-02-19,D,D1,R25,Barcelona,(F),Real Sociedad,2-0,90,0,151,135
+1996/97,1997-02-22,V,D1,R26,Barcelona,(C),Real Zaragoza,4-1,90,3,152,138
+1996/97,1997-02-25,V,AMI,JA,Brasil,(C),Polônia,4-2,90,2,153,140
+1996/97,1997-02-28,D,D1,R27,Barcelona,(F),Tenerife,4-0,90,0,154,140
+1996/97,1997-03-06,V,TT,QF,Barcelona,(C),AIK,3-1,90,1,155,141
+1996/97,1997-03-08,V,D1,R28,Barcelona,(C),SD Compostela,3-0,64,1,156,142
+1996/97,1997-03-11,V,CR,QF,Barcelona,(C),Atlético de Madrid,5-4,90,3,157,145
+1996/97,1997-03-15,V,D1,R29,Barcelona,(F),CD Logroñés,0-1,90,0,158,145
+1996/97,1997-03-20,E,TT,QF,Barcelona,(F),AIK,1-1,74,1,159,146
+1996/97,1997-03-22,V,D1,R30,Barcelona,(C),Sevilla,4-0,90,1,160,147
+1996/97,1997-03-24,V,CR,SF,Barcelona,(F),Las Palmas,0-4,90,2,161,149
+1996/97,1997-03-29,E,D1,R31,Barcelona,(F),Valencia,1-1,90,1,162,150
+1996/97,1997-04-01,V,AMI,JA,Brasil,(C),Chile,4-0,70,2,163,152
+1996/97,1997-04-05,V,D1,R32,Barcelona,(C),Sporting Gijón,4-0,90,1,164,153
+1996/97,1997-04-10,E,TT,SF,Barcelona,(C),Fiorentina,1-1,90,0,165,153
+1996/97,1997-04-12,V,D1,R33,Barcelona,(F),Atlético de Madrid,2-5,90,3,166,156
+1996/97,1997-04-15,D,D1,R34,Barcelona,(F),Valladolid,3-1,90,1,167,157
+1996/97,1997-04-19,V,D1,R35,Barcelona,(C),Athletic Bilbao,2-0,78,1,168,158
+1996/97,1997-04-24,V,TT,SF,Barcelona,(F),Fiorentina,0-2,90,0,169,158
+1996/97,1997-04-29,V,AMI,JA,Brasil,(N),México,4-0,90,0,170,158
+1996/97,1997-05-04,V,D1,R36,Barcelona,(F),CF Extremadura,1-3,90,1,171,159
+1996/97,1997-05-09,V,D1,R37,Barcelona,(C),Real Madrid,1-0,90,1,172,160
+1996/97,1997-05-14,V,TT,F,Barcelona,(N),PSG,1-0,90,1,173,161
+1996/97,1997-05-18,V,D1,R38,Barcelona,(F),Celta de Vigo,1-3,90,1,174,162
+1996/97,1997-05-23,V,D1,R39,Barcelona,(C),Deportivo,1-0,90,1,175,163
+1996/97,1997-05-29,D,AMI,JA,Brasil,(F),Noruega,4-2,90,0,176,163
+1996/97,1997-06-13,V,CA,C,Brasil,(N),Costa Rica,5-0,90,2,177,165
+1996/97,1997-06-16,V,CA,C,Brasil,(N),México,3-2,90,0,178,165
+1996/97,1997-06-19,V,CA,C,Brasil,(N),Colômbia,2-0,61,0,179,165
+1996/97,1997-06-22,V,CA,QF,Brasil,(N),Paraguai,2-0,90,2,180,167
+1996/97,1997-06-26,V,CA,SF,Brasil,(N),Peru,7-0,58,0,181,167
+1996/97,1997-06-29,V,CA,F,Brasil,(N),Bolívia,1-3,90,1,182,168
+1996/97,1997-08-09,V,AMI,JA,Brasil,(F),Coreia do Sul,1-2,90,1,183,169
+1996/97,1997-08-12,V,AMI,JA,Brasil,(F),Japão,0-3,69,0,184,169
+1997/98,1997-08-30,V,SA,R1,Internazionale,(C),Brescia,2-1,90,0,185,169
+1997/98,1997-09-14,V,SA,R2,Internazionale,(F),Bologna,2-4,90,1,186,170
+1997/98,1997-09-16,V,EL,1R,Internazionale,(C),Neuchâtel Xamax,2-0,90,1,187,171
+1997/98,1997-09-20,V,SA,R3,Internazionale,(C),Fiorentina,3-2,90,1,188,172
+1997/98,1997-09-26,V,SA,R4,Internazionale,(F),Lecce,1-5,82,2,189,174
+1997/98,1997-09-30,V,EL,1R,Internazionale,(F),Neuchâtel Xamax,0-2,90,0,190,174
+1997/98,1997-10-04,E,SA,R5,Internazionale,(C),Lazio,1-1,90,1,191,175
+1997/98,1997-10-15,V,TI,1/8,Internazionale,(F),Piacenza,0-3,69,3,192,178
+1997/98,1997-10-17,V,SA,R6,Internazionale,(F),Napoli,0-2,90,0,193,178
+1997/98,1997-10-21,D,EL,2R,Internazionale,(C),Lyon,1-2,90,0,194,178
+1997/98,1997-10-31,V,SA,R7,Internazionale,(C),Parma,1-0,90,1,195,179
+1997/98,1997-11-04,V,EL,2R,Internazionale,(F),Lyon,1-3,88,0,196,179
+1997/98,1997-11-08,V,SA,R8,Internazionale,(F),Atalanta,1-2,90,0,197,179
+1997/98,1997-11-18,D,TI,1/8,Internazionale,(C),Piacenza,0-1,45,0,198,179
+1997/98,1997-11-21,E,SA,R9,Internazionale,(C),Milan,2-2,90,1,199,180
+1997/98,1997-11-25,D,EL,3R,Internazionale,(F),Strasbourg,2-0,70,0,200,180
+1997/98,1997-11-29,V,SA,R10,Internazionale,(F),Vicenza,1-3,90,1,201,181
+1997/98,1997-12-05,E,SA,R11,Internazionale,(F),Sampdoria,1-1,90,1,202,182
+1997/98,1997-12-09,V,EL,3R,Internazionale,(C),Strasbourg,3-0,90,1,203,183
+1996/97,1997-12-12,V,CC,A,Brasil,(N),Arábia Saudita,0-3,90,0,204,183
+1996/97,1997-12-14,E,CC,A,Brasil,(N),Austrália,0-0,90,0,205,183
+1996/97,1997-12-16,V,CC,A,Brasil,(N),México,3-2,45,0,206,183
+1996/97,1997-12-19,V,CC,SF,Brasil,(N),Rep. Tcheca,2-0,90,1,207,184
+1996/97,1997-12-21,V,CC,F,Brasil,(N),Austrália,6-0,90,3,208,187
+1997/98,1998-01-03,V,SA,R14,Internazionale,(C),Juventus,1-0,90,0,209,187
+1997/98,1998-01-08,D,TI,QF,Internazionale,(F),Milan,5-0,90,0,210,187
+1997/98,1998-01-10,V,SA,R15,Internazionale,(F),Piacenza,0-1,90,0,211,187
+1997/98,1998-01-17,D,SA,R16,Internazionale,(C),Bari,0-1,90,0,212,187
+1997/98,1998-01-21,V,TI,QF,Internazionale,(C),Milan,1-0,83,0,213,187
+1997/98,1998-01-24,E,SA,R17,Internazionale,(F),Empoli,1-1,90,0,214,187
+1997/98,1998-01-31,V,SA,R18,Internazionale,(F),Brescia,0-1,90,1,215,188
+1997/98,1998-02-07,D,SA,R19,Internazionale,(C),Bologna,0-1,90,0,216,188
+1997/98,1998-02-10,E,SA,R20,Internazionale,(F),Fiorentina,1-1,90,1,217,189
+1997/98,1998-02-14,V,SA,R21,Internazionale,(C),Lecce,5-0,90,3,218,192
+1997/98,1998-02-21,D,SA,R22,Internazionale,(F),Lazio,3-0,90,0,219,192
+1997/98,1998-02-27,V,SA,R23,Internazionale,(C),Napoli,2-0,90,1,220,193
+1997/98,1998-03-03,V,EL,QF,Internazionale,(C),Schalke 04,1-0,90,1,221,194
+1997/98,1998-03-07,D,SA,R24,Internazionale,(F),Parma,1-0,90,0,222,194
+1997/98,1998-03-13,V,SA,R25,Internazionale,(C),Atalanta,4-0,90,1,223,195
+1997/98,1998-03-17,E,EL,QF,Internazionale,(F),Schalke 04,1-1 (a.p.),112,0,224,195
+1997/98,1998-03-21,V,SA,R26,Internazionale,(F),Milan,0-3,90,1,225,196
+1997/98,1998-03-24,V,AMI,JA,Brasil,(N),Alemanha,1-2,90,1,226,197
+1997/98,1998-03-27,V,SA,R27,Internazionale,(C),Vicenza,2-1,90,1,227,198
+1997/98,1998-03-31,V,EL,SF,Internazionale,(C),Spartak Moskva,2-1,90,0,228,198
+1997/98,1998-04-04,V,SA,R28,Internazionale,(C),Sampdoria,3-0,90,1,229,199
+1997/98,1998-04-10,V,SA,R29,Internazionale,(F),Roma,1-2,90,2,230,201
+1997/98,1998-04-14,V,EL,SF,Internazionale,(F),Spartak Moskva,1-2,83,2,231,203
+1997/98,1998-04-18,V,SA,R30,Internazionale,(C),Udinese,2-0,90,1,232,204
+1997/98,1998-04-25,D,SA,R31,Internazionale,(F),Juventus,1-0,90,0,233,204
+1997/98,1998-04-29,D,AMI,JA,Brasil,(C),Argentina,0-1,90,0,234,204
+1997/98,1998-05-02,E,SA,R32,Internazionale,(C),Piacenza,0-0,90,0,235,204
+1997/98,1998-05-06,V,EL,F,Internazionale,(C),Lazio,3-0,90,1,236,205
+1997/98,1998-05-09,D,SA,R33,Internazionale,(F),Bari,2-1,90,1,237,206
+1997/98,1998-05-15,V,SA,R34,Internazionale,(C),Empoli,4-1,90,2,238,208
+1997/98,1998-06-03,V,AMI,JA,Brasil,(N),Andorra,3-0,90,0,239,208
+1997/98,1998-06-10,V,CM,A,Brasil,(N),Escócia,2-1,90,0,240,208
+1997/98,1998-06-16,V,CM,A,Brasil,(N),Marrocos,3-0,90,1,241,209
+1997/98,1998-06-23,D,CM,A,Brasil,(N),Noruega,1-2,90,0,242,209
+1997/98,1998-06-27,V,CM,1/8,Brasil,(N),Chile,4-1,90,2,243,211
+1997/98,1998-07-03,V,CM,QF,Brasil,(N),Dinamarca,3-2,90,0,244,211
+1997/98,1998-07-07,E,CM,SF,Brasil,(N),Holanda,1-1 (4-2)g.p.,120,1,245,212
+1997/98,1998-07-12,D,CM,F,Brasil,(N),França,0-3,90,0,246,212
+1998/99,1998-09-08,V,TI,2E,Internazionale,(C),Cesena FC,1-0,90,0,247,212
+1998/99,1998-09-16,D,UCL,C,Internazionale,(F),Real Madrid,2-0,72,0,248,212
+1998/99,1998-09-19,V,SA,R2,Internazionale,(C),Piacenza,1-0,90,1,249,213
+1998/99,1998-10-20,V,UCL,C,Internazionale,(C),Spartak Moskva,2-1,73,1,250,214
+1998/99,1998-10-24,D,SA,R6,Internazionale,(F),Juventus,1-0,90,0,251,214
+1998/99,1998-10-31,D,SA,R7,Internazionale,(C),Bari,2-3,32,1,252,215
+1998/99,1998-11-03,E,UCL,C,Internazionale,(F),Spartak Moskva,1-1,67,0,253,215
+1998/99,1998-11-07,E,SA,R8,Internazionale,(F),Milan,2-2,45,1,254,216
+1998/99,1998-11-25,V,UCL,C,Internazionale,(C),Real Madrid,3-1,90,0,255,216
+1998/99,1998-12-05,E,SA,R12,Internazionale,(F),Vicenza,1-1,24,0,256,216
+1998/99,1998-12-09,V,UCL,C,Internazionale,(F),Sturm Graz,0-2,61,0,257,216
+1998/99,1998-12-12,V,SA,R13,Internazionale,(F),Udinese,0-1,90,1,258,217
+1998/99,1998-12-19,V,SA,R14,Internazionale,(C),Roma,4-1,78,0,259,217
+1998/99,1999-01-05,D,SA,R15,Internazionale,(F),Parma,1-0,90,0,260,217
+1998/99,1999-01-09,V,SA,R16,Internazionale,(C),Venezia,6-2,90,2,261,219
+1998/99,1999-01-16,D,SA,R17,Internazionale,(F),Bologna,2-0,90,0,262,219
+1998/99,1999-03-09,D,TI,SF,Internazionale,(F),Parma,2-1,34,0,263,219
+1998/99,1999-03-12,E,SA,R25,Internazionale,(C),Milan,2-2,45,0,264,219
+1998/99,1999-03-17,E,UCL,QF,Internazionale,(C),Manchester United,1-1,59,0,265,219
+1998/99,1999-04-02,V,SA,R27,Internazionale,(C),Fiorentina,2-0,90,2,266,221
+1998/99,1999-04-10,D,SA,R28,Internazionale,(F),Salernitana,2-0,90,0,267,221
+1998/99,1999-04-17,E,SA,R29,Internazionale,(C),Vicenza,1-1,90,1,268,222
+1998/99,1999-04-24,D,SA,R30,Internazionale,(C),Udinese,1-3,90,0,269,222
+1998/99,1999-05-02,V,SA,R31,Internazionale,(F),Roma,4-5,90,2,270,224
+1998/99,1999-05-07,D,SA,R32,Internazionale,(C),Parma,1-3,90,1,271,225
+1998/99,1999-05-15,D,SA,R33,Internazionale,(F),Venezia,3-1,90,1,272,226
+1998/99,1999-05-22,V,SA,R34,Internazionale,(C),Bologna,3-1,90,1,273,227
+1998/99,1999-05-27,D,SA,,Internazionale,(C),Bologna,1-2,45,0,274,227
+1998/99,1999-06-25,V,AMI,JA,Brasil,(C),Letônia,3-0,90,1,275,228
+1998/99,1999-06-30,V,CA,B,Brasil,(N),Venezuela,7-0,90,2,276,230
+1998/99,1999-07-03,V,CA,B,Brasil,(N),México,2-1,89,0,277,230
+1998/99,1999-07-06,V,CA,B,Brasil,(N),Chile,1-0,90,1,278,231
+1998/99,1999-07-11,V,CA,QF,Brasil,(N),Argentina,2-1,90,1,279,232
+1998/99,1999-07-14,V,CA,SF,Brasil,(N),México,0-2,75,0,280,232
+1998/99,1999-07-18,V,CA,F,Brasil,(N),Uruguai,0-3,90,1,281,233
+1999/00,1999-08-28,V,SA,R1,Internazionale,(C),Hellas Verona,3-0,45,0,282,233
+1998/99,1999-09-03,D,AMI,JA,Brasil,(F),Argentina,2-0,90,0,283,233
+1998/99,1999-09-07,V,AMI,JA,Brasil,(C),Argentina,4-2,90,1,284,234
+1999/00,1999-09-11,E,SA,R2,Internazionale,(F),Roma,0-0,58,0,285,234
+1999/00,1999-10-01,V,SA,R5,Internazionale,(C),Piacenza,2-1,38,1,286,235
+1998/99,1999-10-08,E,AMI,JA,Brasil,(F),Holanda,2-2,76,0,287,235
+1999/00,1999-10-16,D,SA,R6,Internazionale,(F),Venezia,1-0,63,0,288,235
+1999/00,1999-10-22,D,SA,R7,Internazionale,(C),Milan,1-2,31,1,289,236
+1999/00,1999-11-06,D,SA,R9,Internazionale,(F),Bologna,3-0,90,0,290,236
+1999/00,1999-11-20,V,SA,R10,Internazionale,(C),Lecce,6-0,59,1,291,237
+1999/00,2000-04-12,D,TI,F,Internazionale,(F),Lazio,2-1,32,0,292,237
+2001/02,2001-09-20,V,EL,1R,Internazionale,(C),Brasov,3-0,28,0,293,237
+2001/02,2001-09-27,V,EL,1R,Internazionale,(F),Brasov,0-3,39,0,294,237
+2001/02,2001-11-03,V,SA,R10,Internazionale,(C),Lecce,2-0,17,0,295,237
+2001/02,2001-11-24,V,SA,R12,Internazionale,(C),Fiorentina,2-0,18,0,296,237
+2001/02,2001-11-29,E,TI,1/8,Internazionale,(C),Udinese,2-2,21,0,297,237
+2001/02,2001-12-05,V,EL,3R,Internazionale,(C),Ipswich Town,4-1,11,0,298,237
+2001/02,2001-12-08,V,SA,R14,Internazionale,(F),Brescia,1-3,66,1,299,238
+2001/02,2001-12-14,D,SA,R15,Internazionale,(C),Chievo,1-2,90,0,300,238
+2001/02,2001-12-18,V,SA,R6,Internazionale,(C),Hellas Verona,3-0,76,2,301,240
+2001/02,2001-12-22,V,SA,R16,Internazionale,(F),Piacenza,2-3,90,0,302,240
+2001/02,2002-03-26,V,AMI,JA,Brasil,(C),Iugoslávia,1-0,45,0,303,240
+2001/02,2002-04-04,D,EL,SF,Internazionale,(C),Feyenoord,0-1,20,0,304,240
+2001/02,2002-04-11,E,EL,SF,Internazionale,(F),Feyenoord,2-2,69,0,305,240
+2001/02,2002-04-13,V,SA,R31,Internazionale,(C),Brescia,2-1,90,2,306,242
+2001/02,2002-04-17,E,AMI,JA,Brasil,(F),Portugal,1-1,45,0,307,242
+2001/02,2002-04-20,E,SA,R32,Internazionale,(F),Chievo,2-2,64,1,308,243
+2001/02,2002-04-27,V,SA,R33,Internazionale,(C),Piacenza,3-1,81,1,309,244
+2001/02,2002-05-04,D,SA,R34,Internazionale,(F),Lazio,4-2,77,0,310,244
+2001/02,2002-05-24,V,AMI,JA,Brasil,(F),Malásia,0-4,73,1,311,245
+2001/02,2002-06-03,V,CM,C,Brasil,(N),Turquia,2-1,73,1,312,246
+2001/02,2002-06-08,V,CM,C,Brasil,(N),China,4-0,72,1,313,247
+2001/02,2002-06-13,V,CM,C,Brasil,(N),Costa Rica,2-5,90,2,314,249
+2001/02,2002-06-17,V,CM,1/8,Brasil,(N),Bélgica,2-0,90,1,315,250
+2001/02,2002-06-21,V,CM,QF,Brasil,(N),Inglaterra,1-2,70,0,316,250
+2001/02,2002-06-26,V,CM,SF,Brasil,(N),Turquia,1-0,68,1,317,251
+2001/02,2002-06-30,V,CM,F,Brasil,(N),Alemanha,0-2,90,2,318,253
+2001/02,2002-08-20,D,AMI,JA,Brasil,(C),Paraguai,0-1,33,0,319,253
+2002/03,2002-10-05,V,D1,R5,Real Madrid,(C),Alavés,5-2,27,2,320,255
+2002/03,2002-10-07,E,D1,R2,Real Madrid,(F),Real Betis,1-1,47,0,321,255
+2002/03,2002-10-18,D,D1,R6,Real Madrid,(F),Racing Santander,2-0,90,0,322,255
+2002/03,2002-10-22,E,UCL,C,Real Madrid,(C),AEK,2-2,90,0,323,255
+2002/03,2002-10-25,E,D1,R7,Real Madrid,(C),Villarreal,1-1,76,0,324,255
+2002/03,2002-10-30,D,UCL,C,Real Madrid,(C),Roma,0-1,78,0,325,255
+2002/03,2002-11-01,E,D1,R8,Real Madrid,(F),Deportivo,0-0,58,0,326,255
+2002/03,2002-11-08,V,D1,R9,Real Madrid,(F),Rayo Vallecano,2-3,90,1,327,256
+2002/03,2002-11-16,E,D1,R10,Real Madrid,(C),Real Sociedad,0-0,69,0,328,256
+2001/02,2002-11-19,V,AMI,JA,Brasil,(F),Coreia do Sul,2-3,90,2,329,258
+2002/03,2002-12-02,V,TC,F,Real Madrid,(N),Olimpia,2-0,82,1,330,259
+2002/03,2002-12-07,V,D1,R13,Real Madrid,(F),Mallorca,1-5,78,2,331,261
+2002/03,2002-12-11,E,UCL,C,Real Madrid,(C),Lokomotiv,2-2,45,0,332,261
+2002/03,2002-12-20,V,D1,R15,Real Madrid,(F),Málaga,2-3,88,0,333,261
+2002/03,2003-01-01,V,D1,R12,Real Madrid,(C),Sevilla,3-0,90,0,334,261
+2002/03,2003-01-04,V,D1,R16,Real Madrid,(C),Valencia,4-1,76,1,335,262
+2002/03,2003-01-10,V,D1,R17,Real Madrid,(F),Celta de Vigo,0-1,83,1,336,263
+2002/03,2003-01-18,E,D1,R18,Real Madrid,(C),Atlético de Madrid,2-2,58,0,337,263
+2002/03,2003-01-21,E,CR,QF,Real Madrid,(C),Mallorca,1-1,90,0,338,263
+2002/03,2003-01-25,E,D1,R19,Real Madrid,(F),Athletic Bilbao,1-1,90,1,339,264
+2002/03,2003-02-01,E,D1,R20,Real Madrid,(F),Espanyol,2-2,90,0,340,264
+2002/03,2003-02-07,V,D1,R21,Real Madrid,(C),Real Betis,4-1,87,1,341,265
+2002/03,2003-02-11,E,AMI,JA,Brasil,(F),China,0-0,45,0,342,265
+2002/03,2003-02-15,D,D1,R22,Real Madrid,(F),Osasuna,1-0,90,0,343,265
+2002/03,2003-02-19,V,UCL,C,Real Madrid,(C),Borussia Dortmund,2-1,74,1,344,266
+2002/03,2003-02-21,V,D1,R23,Real Madrid,(C),Valladolid,3-1,86,1,345,267
+2002/03,2003-02-25,E,UCL,C,Real Madrid,(F),Borussia Dortmund,1-1,90,0,346,267
+2002/03,2003-02-28,V,D1,R24,Real Madrid,(F),Alavés,1-5,90,3,347,270
+2002/03,2003-03-07,V,D1,R25,Real Madrid,(C),Racing Santander,4-1,45,0,348,270
+2002/03,2003-03-12,V,UCL,C,Real Madrid,(C),Milan,3-1,67,0,349,270
+2002/03,2003-03-14,V,D1,R26,Real Madrid,(F),Villarreal,0-1,70,0,350,270
+2002/03,2003-03-18,V,UCL,C,Real Madrid,(F),Lokomotiv,0-1,81,1,351,271
+2002/03,2003-03-22,V,D1,R27,Real Madrid,(C),Deportivo,2-0,83,1,352,272
+2002/03,2003-03-29,D,AMI,JA,Brasil,(F),Portugal,2-1,45,0,353,272
+2002/03,2003-04-04,V,D1,R28,Real Madrid,(C),Rayo Vallecano,3-1,78,0,354,272
+2002/03,2003-04-08,V,UCL,QF,Real Madrid,(C),Manchester United,3-1,84,0,355,272
+2002/03,2003-04-12,D,D1,R29,Real Madrid,(F),Real Sociedad,4-2,90,1,356,273
+2002/03,2003-04-18,E,D1,R30,Real Madrid,(C),Barcelona,1-1,90,1,357,274
+2002/03,2003-04-23,D,UCL,QF,Real Madrid,(F),Manchester United,4-3,67,3,358,277
+2002/03,2003-04-26,V,D1,R31,Real Madrid,(F),Sevilla,1-3,75,0,359,277
+2002/03,2003-04-29,E,AMI,JA,Brasil,(F),México,0-0,90,0,360,277
+2002/03,2003-05-02,D,D1,R32,Real Madrid,(C),Mallorca,1-5,77,1,361,278
+2002/03,2003-05-06,V,UCL,SF,Real Madrid,(C),Juventus,2-1,50,1,362,279
+2002/03,2003-05-14,D,UCL,SF,Real Madrid,(F),Juventus,3-1,38,0,363,279
+2002/03,2003-05-23,V,D1,R35,Real Madrid,(F),Valencia,1-2,87,2,364,281
+2002/03,2003-05-30,E,D1,R36,Real Madrid,(C),Celta de Vigo,1-1,90,0,365,281
+2002/03,2003-06-14,V,D1,R37,Real Madrid,(F),Atlético de Madrid,0-4,90,2,366,283
+2002/03,2003-06-21,V,D1,R38,Real Madrid,(C),Athletic Bilbao,3-1,83,2,367,285
+2003/04,2003-08-24,D,SC,F,Real Madrid,(F),Mallorca,2-1,90,0,368,285
+2003/04,2003-08-27,V,SC,F,Real Madrid,(C),Mallorca,3-0,90,1,369,286
+2003/04,2003-08-29,V,D1,R1,Real Madrid,(C),Real Betis,2-1,87,1,370,287
+2005/06,2003-09-07,V,ECM,R1,Brasil,(F),Colômbia,1-2,90,1,371,288
+2005/06,2003-09-09,V,ECM,R2,Brasil,(C),Equador,1-0,90,0,372,288
+2003/04,2003-09-13,V,D1,R3,Real Madrid,(C),Valladolid,7-2,90,1,373,289
+2003/04,2003-09-16,V,UCL,F,Real Madrid,(C),Marseille,4-2,86,2,374,291
+2003/04,2003-09-19,V,D1,R4,Real Madrid,(F),Málaga,1-3,90,1,375,292
+2003/04,2003-09-27,D,D1,R5,Real Madrid,(F),Valencia,2-0,90,0,376,292
+2003/04,2003-09-30,V,UCL,F,Real Madrid,(F),FC Porto,1-3,83,0,377,292
+2003/04,2003-10-04,V,D1,R6,Real Madrid,(C),Espanyol,2-1,87,2,378,294
+2002/03,2003-10-11,V,AMI,JA,Brasil,(C),Jamaica,1-0,90,0,379,294
+2003/04,2003-10-18,V,D1,R7,Real Madrid,(F),Celta de Vigo,0-2,85,1,380,295
+2003/04,2003-10-22,V,UCL,F,Real Madrid,(C),Partizan,1-0,79,0,381,295
+2003/04,2003-10-25,V,D1,R8,Real Madrid,(C),Racing Santander,3-1,72,0,382,295
+2003/04,2003-10-28,E,D1,R9,Real Madrid,(F),Real Zaragoza,0-0,76,0,383,295
+2003/04,2003-11-01,V,D1,R10,Real Madrid,(C),Athletic Bilbao,3-0,90,2,384,297
+2003/04,2003-11-04,E,UCL,F,Real Madrid,(F),Partizan,0-0,90,0,385,297
+2003/04,2003-11-09,D,D1,R11,Real Madrid,(F),Sevilla,4-1,90,1,386,298
+2005/06,2003-11-15,E,ECM,R3,Brasil,(F),Peru,1-1,90,0,387,298
+2005/06,2003-11-18,E,ECM,R4,Brasil,(C),Uruguai,3-3,90,2,388,300
+2003/04,2003-11-23,V,D1,R12,Real Madrid,(C),Albacete,2-1,27,0,389,300
+2003/04,2003-11-26,V,UCL,F,Real Madrid,(F),Marseille,1-2,90,1,390,301
+2003/04,2003-11-29,E,D1,R13,Real Madrid,(F),Osasuna,1-1,90,1,391,302
+2003/04,2003-12-03,V,D1,R14,Real Madrid,(C),Atlético de Madrid,2-0,87,1,392,303
+2003/04,2003-12-06,V,D1,R15,Real Madrid,(F),Barcelona,1-2,76,1,393,304
+2003/04,2003-12-08,E,UCL,F,Real Madrid,(C),FC Porto,1-1,45,0,394,304
+2003/04,2003-12-14,V,D1,R16,Real Madrid,(C),Deportivo,2-1,88,1,395,305
+2003/04,2003-12-18,V,CR,3R,Real Madrid,(F),Leganés,3-4 (a.p.),53,0,396,305
+2003/04,2003-12-21,V,D1,R17,Real Madrid,(F),Mallorca,1-3,90,1,397,306
+2003/04,2004-01-03,V,D1,R18,Real Madrid,(C),Real Murcia,1-0,86,0,398,306
+2003/04,2004-01-10,D,D1,R19,Real Madrid,(F),Real Sociedad,1-0,90,0,399,306
+2003/04,2004-01-13,V,CR,1/8,Real Madrid,(C),Eibar,2-0,90,1,400,307
+2003/04,2004-01-18,E,D1,R20,Real Madrid,(F),Real Betis,1-1,90,1,401,308
+2003/04,2004-01-21,V,CR,QF,Real Madrid,(C),Valencia,3-0,89,1,402,309
+2003/04,2004-01-24,V,D1,R21,Real Madrid,(C),Villarreal,2-1,90,1,403,310
+2003/04,2004-01-28,V,CR,QF,Real Madrid,(F),Valencia,1-2,60,0,404,310
+2003/04,2004-02-01,V,D1,R22,Real Madrid,(F),Valladolid,2-3,89,2,405,312
+2003/04,2004-02-07,V,D1,R23,Real Madrid,(C),Málaga,2-1,90,1,406,313
+2003/04,2004-02-11,D,CR,SF,Real Madrid,(F),Sevilla,1-0,90,0,407,313
+2003/04,2004-02-15,E,D1,R24,Real Madrid,(C),Valencia,1-1,90,0,408,313
+2003/04,2004-02-17,E,AMI,JA,Brasil,(F),Rep. Irlanda,0-0,90,0,409,313
+2003/04,2004-02-21,V,D1,R25,Real Madrid,(F),Espanyol,2-4,90,2,410,315
+2003/04,2004-02-24,E,UCL,1/8,Real Madrid,(F),Bayern München,1-1,90,0,411,315
+2003/04,2004-02-29,V,D1,R26,Real Madrid,(C),Celta de Vigo,4-2,74,1,412,316
+2003/04,2004-03-06,E,D1,R27,Real Madrid,(F),Racing Santander,1-1,73,0,413,316
+2003/04,2004-03-24,V,UCL,QF,Real Madrid,(C),Monaco,4-2,82,1,414,317
+2003/04,2004-03-28,V,D1,R30,Real Madrid,(C),Sevilla,5-1,90,2,415,319
+2005/06,2004-03-31,E,ECM,R5,Brasil,(F),Paraguai,0-0,90,0,416,319
+2003/04,2004-04-03,V,D1,R31,Real Madrid,(F),Albacete,1-2,87,0,417,319
+2003/04,2004-04-06,D,UCL,QF,Real Madrid,(F),Monaco,3-1,90,0,418,319
+2003/04,2004-04-11,D,D1,R32,Real Madrid,(C),Osasuna,0-3,26,0,419,319
+2003/04,2004-05-01,D,D1,R35,Real Madrid,(F),Deportivo,2-0,79,0,420,319
+2003/04,2004-05-08,D,D1,R36,Real Madrid,(C),Mallorca,2-3,90,0,421,319
+2003/04,2004-05-19,E,AMI,JA,Brasil,(F),França,0-0,90,0,422,319
+2003/04,2004-05-23,D,D1,R38,Real Madrid,(C),Real Sociedad,1-4,90,0,423,319
+2005/06,2004-06-02,V,ECM,R6,Brasil,(C),Argentina,3-1,90,3,424,322
+2005/06,2004-06-06,E,ECM,R7,Brasil,(F),Chile,1-1,90,0,425,322
+2004/05,2004-08-11,V,QUCL,3PE,Real Madrid,(F),Wisla Kraków,0-2,68,0,426,322
+2003/04,2004-08-18,V,AMI,JA,Brasil,(F),Haiti,0-6,45,0,427,322
+2004/05,2004-08-25,V,QUCL,3PE,Real Madrid,(C),Wisla Kraków,3-1,65,2,428,324
+2004/05,2004-08-29,V,D1,R1,Real Madrid,(F),Mallorca,0-1,87,1,429,325
+2005/06,2004-09-05,V,ECM,R8,Brasil,(C),Bolívia,3-1,90,1,430,326
+2003/04,2004-09-08,E,AMI,JA,Brasil,(F),Alemanha,1-1,90,0,431,326
+2004/05,2004-09-11,V,D1,R2,Real Madrid,(C),Numancia,1-0,80,0,432,326
+2004/05,2004-09-15,D,UCL,B,Real Madrid,(F),Bayer Leverkusen,3-0,58,0,433,326
+2004/05,2004-09-18,D,D1,R3,Real Madrid,(F),Espanyol,1-0,90,0,434,326
+2004/05,2004-09-21,V,D1,R4,Real Madrid,(C),Osasuna,1-0,80,0,435,326
+2004/05,2004-09-25,D,D1,R5,Real Madrid,(F),Athletic Bilbao,2-1,90,0,436,326
+2004/05,2004-09-28,V,UCL,B,Real Madrid,(C),Roma,4-2,85,0,437,326
+2005/06,2004-10-09,V,ECM,R9,Brasil,(F),Venezuela,2-5,71,2,438,328
+2005/06,2004-10-13,E,ECM,R10,Brasil,(C),Colômbia,0-0,90,0,439,328
+2004/05,2004-10-16,E,D1,R7,Real Madrid,(F),Real Betis,1-1,90,1,440,329
+2004/05,2004-10-19,V,UCL,B,Real Madrid,(C),Dynamo Kyiv,1-0,81,0,441,329
+2004/05,2004-10-23,V,D1,R8,Real Madrid,(C),Valencia,1-0,79,0,442,329
+2004/05,2004-10-31,V,D1,R9,Real Madrid,(C),Getafe,2-0,90,1,443,330
+2004/05,2004-11-03,E,UCL,B,Real Madrid,(F),Dynamo Kyiv,2-2,87,0,444,330
+2004/05,2004-11-07,V,D1,R10,Real Madrid,(F),Málaga,0-2,70,0,445,330
+2004/05,2004-11-14,V,D1,R11,Real Madrid,(C),Albacete,6-1,90,2,446,332
+2005/06,2004-11-17,D,ECM,R11,Brasil,(F),Equador,1-0,90,0,447,332
+2004/05,2004-11-20,D,D1,R12,Real Madrid,(F),Barcelona,3-0,90,0,448,332
+2004/05,2004-11-23,E,UCL,B,Real Madrid,(C),Bayer Leverkusen,1-1,90,0,449,332
+2004/05,2004-11-28,V,D1,R13,Real Madrid,(C),Levante,5-0,90,2,450,334
+2004/05,2004-12-05,E,D1,R14,Real Madrid,(F),Villarreal,0-0,64,0,451,334
+2004/05,2004-12-08,V,UCL,B,Real Madrid,(F),Roma,0-3,84,1,452,335
+2004/05,2004-12-22,D,D1,R17,Real Madrid,(C),Sevilla,0-1,45,0,453,335
+2004/05,2005-01-05,V,D1,R15,Real Madrid,(C),Real Sociedad,2-1,88,1,454,336
+2004/05,2005-01-09,V,D1,R18,Real Madrid,(F),Atlético de Madrid,0-3,85,2,455,338
+2004/05,2005-01-16,V,D1,R19,Real Madrid,(C),Real Zaragoza,3-1,67,1,456,339
+2004/05,2005-01-19,E,CR,1/8,Real Madrid,(C),Valladolid,1-1,45,0,457,339
+2004/05,2005-01-23,V,D1,R20,Real Madrid,(C),Mallorca,3-1,82,0,458,339
+2004/05,2005-02-05,V,D1,R22,Real Madrid,(C),Espanyol,4-0,90,0,459,339
+2004/05,2005-02-13,V,D1,R23,Real Madrid,(F),Osasuna,1-2,89,0,460,339
+2004/05,2005-02-19,D,D1,R24,Real Madrid,(C),Athletic Bilbao,0-2,23,0,461,339
+2004/05,2005-02-22,V,UCL,1/8,Real Madrid,(C),Juventus,1-0,76,0,462,339
+2004/05,2005-03-02,V,D1,R26,Real Madrid,(C),Real Betis,3-1,90,0,463,339
+2004/05,2005-03-05,E,D1,R27,Real Madrid,(F),Valencia,1-1,90,1,464,340
+2004/05,2005-03-09,D,UCL,1/8,Real Madrid,(F),Juventus,2-0 (a.p.),113,0,465,340
+2004/05,2005-03-13,D,D1,R28,Real Madrid,(F),Getafe,2-1,90,0,466,340
+2004/05,2005-03-20,V,D1,R29,Real Madrid,(C),Málaga,1-0,85,0,467,340
+2005/06,2005-03-27,V,ECM,R12,Brasil,(C),Peru,1-0,90,0,468,340
+2005/06,2005-03-30,E,ECM,R13,Brasil,(F),Uruguai,1-1,90,0,469,340
+2004/05,2005-04-03,V,D1,R30,Real Madrid,(F),Albacete,1-2,90,0,470,340
+2004/05,2005-04-10,V,D1,R31,Real Madrid,(C),Barcelona,4-2,90,1,471,341
+2004/05,2005-04-17,V,D1,R32,Real Madrid,(F),Levante,0-2,90,2,472,343
+2004/05,2005-04-23,V,D1,R33,Real Madrid,(C),Villarreal,2-1,69,1,473,344
+2004/05,2005-04-30,V,D1,R34,Real Madrid,(F),Real Sociedad,0-2,90,2,474,346
+2004/05,2005-05-07,V,D1,R35,Real Madrid,(C),Racing Santander,5-0,90,2,475,348
+2004/05,2005-05-14,E,D1,R36,Real Madrid,(F),Sevilla,2-2,90,0,476,348
+2004/05,2005-05-21,E,D1,R37,Real Madrid,(C),Atlético de Madrid,0-0,75,0,477,348
+2004/05,2005-05-28,V,D1,R38,Real Madrid,(F),Real Zaragoza,1-3,90,1,478,349
+2004/05,2005-08-16,E,AMI,JA,Brasil,(F),Croácia,1-1,75,0,479,349
+2005/06,2005-08-28,V,D1,R1,Real Madrid,(F),Cádiz,1-2,90,1,480,350
+2005/06,2005-09-04,V,ECM,R16,Brasil,(C),Chile,5-0,45,0,481,350
+2005/06,2005-09-10,D,D1,R2,Real Madrid,(C),Celta de Vigo,2-3,90,1,482,351
+2005/06,2005-09-18,D,D1,R3,Real Madrid,(F),Espanyol,1-0,90,0,483,351
+2005/06,2005-09-22,V,D1,R4,Real Madrid,(C),Athletic Bilbao,3-1,70,0,484,351
+2005/06,2005-09-25,V,D1,R5,Real Madrid,(F),Alavés,0-3,90,2,485,353
+2005/06,2005-10-02,V,D1,R6,Real Madrid,(C),Mallorca,4-0,90,1,486,354
+2005/06,2005-10-12,V,ECM,R18,Brasil,(C),Venezuela,3-0,90,1,487,355
+2005/06,2005-10-15,V,D1,R7,Real Madrid,(F),Atlético de Madrid,0-3,90,2,488,357
+2005/06,2005-11-19,D,D1,R12,Real Madrid,(C),Barcelona,0-3,90,0,489,357
+2005/06,2005-12-03,V,D1,R14,Real Madrid,(C),Getafe,1-0,86,1,490,358
+2005/06,2005-12-11,V,D1,R15,Real Madrid,(F),Málaga,0-2,90,0,491,358
+2005/06,2005-12-18,E,D1,R16,Real Madrid,(C),Osasuna,1-1,90,0,492,358
+2005/06,2005-12-21,D,D1,R17,Real Madrid,(C),Racing Santander,1-2,90,1,493,359
+2005/06,2006-01-08,E,D1,R18,Real Madrid,(F),Villarreal,0-0,34,0,494,359
+2005/06,2006-02-04,V,D1,R22,Real Madrid,(C),Espanyol,4-0,90,1,495,360
+2005/06,2006-02-08,D,CR,SF,Real Madrid,(F),Real Zaragoza,6-1,90,0,496,360
+2005/06,2006-02-11,V,D1,R23,Real Madrid,(F),Athletic Bilbao,0-2,90,0,497,360
+2005/06,2006-02-14,V,CR,SF,Real Madrid,(C),Real Zaragoza,4-0,90,1,498,361
+2005/06,2006-02-18,V,D1,R24,Real Madrid,(C),Alavés,3-0,59,0,499,361
+2005/06,2006-02-21,D,UCL,1/8,Real Madrid,(C),Arsenal,0-1,90,0,500,361
+2005/06,2006-02-26,D,D1,R25,Real Madrid,(F),Mallorca,2-1,90,0,501,361
+2005/06,2006-03-01,V,AMI,JA,Brasil,(F),Rússia,0-1,64,1,502,362
+2005/06,2006-03-08,E,UCL,1/8,Real Madrid,(F),Arsenal,0-0,90,0,503,362
+2005/06,2006-03-11,E,D1,R27,Real Madrid,(F),Valencia,0-0,27,0,504,362
+2005/06,2006-03-19,E,D1,R28,Real Madrid,(C),Real Betis,0-0,36,0,505,362
+2005/06,2006-03-22,E,D1,R29,Real Madrid,(F),Real Zaragoza,1-1,90,1,506,363
+2005/06,2006-03-26,V,D1,R30,Real Madrid,(C),Deportivo,4-0,78,1,507,364
+2005/06,2006-04-01,E,D1,R31,Real Madrid,(F),Barcelona,1-1,90,1,508,365
+2005/06,2006-04-08,E,D1,R32,Real Madrid,(C),Real Sociedad,1-1,60,1,509,366
+2005/06,2006-06-04,V,AMI,JA,Brasil,(N),Nova Zelândia,4-0,45,1,510,367
+2005/06,2006-06-13,V,CM,F,Brasil,(N),Croácia,1-0,69,0,511,367
+2005/06,2006-06-18,V,CM,F,Brasil,(N),Austrália,2-0,72,0,512,367
+2005/06,2006-06-22,V,CM,F,Brasil,(N),Japão,1-4,90,2,513,369
+2005/06,2006-06-27,V,CM,1/8,Brasil,(N),Gana,3-0,90,1,514,370
+2005/06,2006-07-01,D,CM,QF,Brasil,(N),França,0-1,90,0,515,370
+2006/07,2006-09-26,V,UCL,E,Real Madrid,(C),Dynamo Kyiv,5-1,18,0,516,370
+2006/07,2006-10-01,E,D1,R5,Real Madrid,(C),Atlético de Madrid,1-1,8,0,517,370
+2006/07,2006-10-14,D,D1,R6,Real Madrid,(F),Getafe,1-0,44,0,518,370
+2006/07,2006-10-17,V,UCL,E,Real Madrid,(F),FCSB,1-4,12,0,519,370
+2006/07,2006-10-25,E,CR,4R,Real Madrid,(F),Écija Balompié,1-1,90,0,520,370
+2006/07,2006-11-01,V,UCL,E,Real Madrid,(C),FCSB,1-0,16,0,521,370
+2006/07,2006-11-05,D,D1,R9,Real Madrid,(C),Celta de Vigo,1-2,64,0,522,370
+2006/07,2006-11-09,V,CR,4R,Real Madrid,(C),Écija Balompié,5-1,90,1,523,371
+2006/07,2006-12-03,V,D1,R13,Real Madrid,(C),Athletic Bilbao,2-1,45,1,524,372
+2006/07,2006-12-06,E,UCL,E,Real Madrid,(F),Dynamo Kyiv,2-2,90,2,525,374
+2006/07,2006-12-09,D,D1,R14,Real Madrid,(F),Sevilla,2-1,69,0,526,374
+2006/07,2006-12-20,D,D1,R16,Real Madrid,(C),Recreativo,0-3,67,0,527,374
+2006/07,2007-01-07,D,D1,R17,Real Madrid,(F),Deportivo,2-0,32,0,528,374
+2006/07,2007-02-11,V,SA,R23,Milan,(C),Livorno 1915,2-1,27,0,529,374
+2006/07,2007-02-17,V,SA,R24,Milan,(F),ACN Siena,3-4,90,2,530,376
+2006/07,2007-02-25,V,SA,R25,Milan,(C),Sampdoria,1-0,73,0,531,376
+2006/07,2007-02-28,E,SA,R26,Milan,(F),Palermo,0-0,19,0,532,376
+2006/07,2007-03-03,V,SA,R27,Milan,(C),Chievo,3-1,88,0,533,376
+2006/07,2007-03-11,D,SA,R28,Milan,(F),Internazionale,2-1,90,1,534,377
+2006/07,2007-03-18,V,SA,R29,Milan,(C),Atalanta,1-0,81,0,535,377
+2006/07,2007-03-31,E,SA,R30,Milan,(F),Roma,1-1,79,0,536,377
+2006/07,2007-04-07,V,SA,R31,Milan,(C),Empoli,3-1,87,1,537,378
+2006/07,2007-04-15,V,SA,R32,Milan,(F),Messina,1-3,90,1,538,379
+2006/07,2007-04-18,V,SA,R22,Milan,(F),Ascoli,2-5,67,0,539,379
+2006/07,2007-04-21,V,SA,R33,Milan,(C),Cagliari,3-1,90,2,540,381
+2006/07,2007-04-28,V,SA,R34,Milan,(F),Torino,0-1,90,0,541,381
+2006/07,2007-05-27,D,SA,R38,Milan,(F),Reggina,2-0,90,0,542,381
+2007/08,2007-11-25,V,SA,R13,Milan,(F),Cagliari,1-2,90,0,543,381
+2007/08,2008-01-13,V,SA,R18,Milan,(C),Napoli,5-2,69,2,544,383
+2007/08,2008-01-20,V,SA,R19,Milan,(F),Udinese,0-1,83,0,545,383
+2007/08,2008-01-23,D,SA,R12,Milan,(F),Atalanta,2-1,26,0,546,383
+2007/08,2008-02-10,V,SA,R22,Milan,(C),ACN Siena,1-0,45,0,547,383
+2007/08,2008-02-13,E,SA,R16,Milan,(C),Livorno 1915,1-1,6,0,548,383
+2009,2009-03-04,V,CB,1F,Corinthians,(F),Itumbiara,0-2,23,0,549,383
+2009,2009-03-08,E,SP1,R12,Corinthians,(F),Palmeiras,1-1,27,1,550,384
+2009,2009-03-11,V,SP1,R13,Corinthians,(C),São Caetano,2-1,76,1,551,385
+2009,2009-03-22,V,SP1,R15,Corinthians,(C),Santos,1-0,82,0,552,385
+2009,2009-03-25,E,SP1,R16,Corinthians,(C),Ponte Preta,2-2,90,2,553,387
+2009,2009-03-28,E,SP1,R17,Corinthians,(F),Guarani,0-0,90,0,554,387
+2009,2009-03-31,V,SP1,R18,Corinthians,(C),Ituano,3-0,90,1,555,388
+2009,2009-04-12,V,SP1,SF,Corinthians,(C),São Paulo,2-1,90,0,556,388
+2009,2009-04-19,V,SP1,SF,Corinthians,(F),São Paulo,0-2,72,1,557,389
+2009,2009-04-26,V,SP1,F,Corinthians,(F),Santos,1-3,90,2,558,391
+2009,2009-04-29,D,CB,1/8,Corinthians,(F),Athletico Paranaense,3-2,45,0,559,391
+2009,2009-05-03,E,SP1,F,Corinthians,(C),Santos,1-1,90,0,560,391
+2009,2009-05-06,V,CB,1/8,Corinthians,(C),Athletico Paranaense,2-0,90,2,561,393
+2009,2009-05-13,V,CB,QF,Corinthians,(C),Fluminense,1-0,90,0,562,393
+2009,2009-05-17,E,D1,R2,Corinthians,(F),Botafogo,0-0,72,0,563,393
+2009,2009-05-20,E,CB,QF,Corinthians,(F),Fluminense,2-2,87,0,564,393
+2009,2009-06-03,E,CB,SF,Corinthians,(C),Vasco,0-0,90,0,565,393
+2009,2009-06-14,E,D1,R6,Corinthians,(F),Goiás,0-0,72,0,566,393
+2009,2009-06-17,V,CB,F,Corinthians,(C),Internacional,2-0,90,1,567,394
+2009,2009-06-21,V,D1,R7,Corinthians,(C),São Paulo,3-1,90,0,568,394
+2009,2009-07-01,E,CB,F,Corinthians,(F),Internacional,2-2,90,0,569,394
+2009,2009-07-08,V,D1,R9,Corinthians,(C),Fluminense,4-2,88,3,570,397
+2009,2009-07-12,D,D1,R10,Corinthians,(F),Grêmio,3-0,90,0,571,397
+2009,2009-07-16,V,D1,R11,Corinthians,(C),Sport,4-3,90,2,572,399
+2009,2009-07-19,V,D1,R12,Corinthians,(F),Cruzeiro,1-2,90,1,573,400
+2009,2009-07-23,V,D1,R13,Corinthians,(C),Vitória,2-1,90,0,574,400
+2009,2009-07-26,D,D1,R14,Corinthians,(C),Palmeiras,0-3,23,0,575,400
+2009,2009-09-20,D,D1,R25,Corinthians,(C),Goiás,1-4,90,0,576,400
+2009,2009-09-27,E,D1,R26,Corinthians,(F),São Paulo,1-1,77,1,577,401
+2009,2009-10-03,D,D1,R27,Corinthians,(C),Athletico Paranaense,1-3,90,0,578,401
+2009,2009-10-10,V,D1,R29,Corinthians,(C),Grêmio,2-1,90,1,579,402
+2009,2009-10-25,D,D1,R31,Corinthians,(C),Cruzeiro,0-1,90,0,580,402
+2009,2009-10-28,V,D1,R32,Corinthians,(F),Vitória,0-1,90,0,581,402
+2009,2009-11-01,E,D1,R33,Corinthians,(F),Palmeiras,2-2,90,2,582,404
+2009,2009-11-08,V,D1,R34,Corinthians,(C),Santo André,2-0,90,1,583,405
+2009,2009-11-15,D,D1,R35,Corinthians,(F),Avaí,3-1,90,0,584,405
+2009,2009-11-21,D,D1,R36,Corinthians,(C),Náutico,2-3,90,1,585,406
+2009,2009-11-29,D,D1,R37,Corinthians,(C),Flamengo,0-2,25,0,586,406
+2010,2010-01-20,V,SP1,R2,Corinthians,(C),Red Bull Bragantino,2-1,90,0,587,406
+2010,2010-01-27,E,SP1,R4,Corinthians,(C),Mirassol,1-1,68,1,588,407
+2010,2010-02-24,V,CL,1,Corinthians,(C),Racing,2-1,90,0,589,407
+2010,2010-02-28,D,SP1,R11,Corinthians,(F),Santos,2-1,90,0,590,407
+2010,2010-03-04,E,SP1,R12,Corinthians,(C),Botafogo-SP,1-1,90,0,591,407
+2010,2010-03-10,E,CL,1,Corinthians,(F),Independiente Medellín,1-1,74,0,592,407
+2010,2010-03-14,V,SP1,R14,Corinthians,(C),Santo André,2-1,90,0,593,407
+2010,2010-03-17,V,CL,1,Corinthians,(F),Cerro Porteño,0-1,83,1,594,408
+2010,2010-03-24,D,SP1,R16,Corinthians,(C),Paulista,0-1,90,0,595,408
+2010,2010-03-28,V,SP1,R17,Corinthians,(C),São Paulo,4-3,87,0,596,408
+2010,2010-04-01,V,CL,1,Corinthians,(C),Cerro Porteño,2-1,87,1,597,409
+2010,2010-04-04,V,SP1,R18,Corinthians,(F),Ituano,0-2,90,1,598,410
+2010,2010-04-07,V,SP1,R19,Corinthians,(C),Rio Claro,5-1,90,1,599,411
+2010,2010-04-14,V,CL,1,Corinthians,(F),Racing,0-2,70,0,600,411
+2010,2010-04-28,D,CL,1/8,Corinthians,(F),Flamengo,1-0,83,0,601,411
+2010,2010-05-05,V,CL,1/8,Corinthians,(C),Flamengo,2-1,90,1,602,412
+2010,2010-05-09,V,D1,R1,Corinthians,(C),Athletico Paranaense,2-1,90,1,603,413
+2010,2010-08-29,V,D1,R17,Corinthians,(C),Vitória,2-1,62,0,604,413
+2010,2010-09-08,E,D1,R20,Corinthians,(F),Athletico Paranaense,1-1,45,1,605,414
+2010,2010-10-17,E,D1,R30,Corinthians,(F),Guarani,0-0,90,0,606,414
+2010,2010-10-24,V,D1,R31,Corinthians,(C),Palmeiras,1-0,90,0,607,414
+2010,2010-10-27,E,D1,R32,Corinthians,(F),Flamengo,1-1,90,1,608,415
+2010,2010-11-03,V,D1,R33,Corinthians,(C),Avaí,4-0,90,2,609,417
+2010,2010-11-07,V,D1,R34,Corinthians,(F),São Paulo,0-2,90,0,610,417
+2010,2010-11-13,V,D1,R35,Corinthians,(C),Cruzeiro,1-0,90,1,611,418
+2010,2010-11-21,E,D1,R36,Corinthians,(F),Vitória,1-1,29,0,612,418
+2010,2010-12-05,E,D1,R38,Corinthians,(F),Goiás,1-1,90,0,613,418

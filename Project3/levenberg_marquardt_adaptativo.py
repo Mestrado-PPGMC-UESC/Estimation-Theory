@@ -6,21 +6,17 @@ from simulator import Simulador
 
 class EstimadorLevenbergMarquardtAdaptativo:
 
-    def __init__(self, numero_passos, I0, S0, R0, dados_observados,
-                 max_iter=5000, tolerancia=1e-8, epsilon=1e-6, mu=1e-3):
+    def __init__(self, numero_passos, I0, S0, R0, dados_observados, max_iter=5000, tolerancia=1e-8, epsilon=1e-6, tau=1e-3, mu=None):
 
         self.numero_passos = numero_passos
         self.I0 = I0
         self.S0 = S0
         self.R0 = R0
-
         self.dados_observados = dados_observados
-
         self.max_iter = max_iter
         self.tolerancia = tolerancia
         self.epsilon = epsilon
-
-        # Valor inicial do amortecimento
+        self.tau = tau
         self.mu = mu
 
     def simular_com_parametros(self, parametros):
@@ -56,6 +52,12 @@ class EstimadorLevenbergMarquardtAdaptativo:
 
         return J
 
+    def calcular_mu_inicial(self, J):
+
+        A0 = J.T @ J
+
+        return self.tau * np.max(np.diag(A0))
+
     def calcular_xi(self, reducao_real, reducao_prevista):
 
         if abs(reducao_prevista) < 1e-15:
@@ -69,26 +71,17 @@ class EstimadorLevenbergMarquardtAdaptativo:
 
     def atualizar_mu(self, xi, mu):
 
-        # Se mu = 0, mantém Gauss-Newton puro
-        if mu == 0:
-            return 0
-
-        # Passo ruim: aumenta amortecimento
         if xi < 0.25:
             return 2 * mu
 
-        # Passo bom: aproxima do Gauss-Newton
         if xi > 0.75:
             return mu / 3
 
-        # Passo intermediário: mantém o valor
         return mu
 
     def calcular_parametros_teste(self, parametros, delta):
 
         parametros_teste = parametros - delta
-
-        # Impede parâmetros negativos ou nulos
         parametros_teste = np.maximum(parametros_teste, 1e-8)
 
         return parametros_teste
@@ -98,22 +91,8 @@ class EstimadorLevenbergMarquardtAdaptativo:
         if not np.all(np.isfinite(parametros_teste)):
             return parametros, True
 
-        # No modo adaptativo, aceita apenas se reduziu o erro
         if self.aceitar_passo(xi):
             parametros = parametros_teste
-
-        if np.linalg.norm(delta) < self.tolerancia:
-            return parametros, True
-
-        return parametros, False
-
-    def atualizar_parametros_sem_xi(self, parametros, parametros_teste, delta):
-
-        if not np.all(np.isfinite(parametros_teste)):
-            return parametros, True
-
-        # No caso mu = 0, aceita o passo diretamente como Gauss-Newton
-        parametros = parametros_teste
 
         if np.linalg.norm(delta) < self.tolerancia:
             return parametros, True
@@ -127,7 +106,7 @@ class EstimadorLevenbergMarquardtAdaptativo:
         historico_beta = []
         historico_alpha = []
         historico_k = []
-        historico_erro = []
+        historico_delta = []
         historico_mu = []
 
         mu = self.mu
@@ -137,19 +116,22 @@ class EstimadorLevenbergMarquardtAdaptativo:
             residuo = self.calcular_residuo(parametros)
             J = self.calcular_jacobiana_numerica(parametros, residuo_base=residuo)
 
+            if mu is None:
+                mu = self.calcular_mu_inicial(J)
+
             erro_atual = np.linalg.norm(residuo)
 
             historico_beta.append(parametros[0])
             historico_alpha.append(parametros[1])
             historico_k.append(parametros[2])
-            historico_erro.append(erro_atual)
             historico_mu.append(mu)
 
-            # Sistema: (JᵀJ + μI)Δ = Jᵀr
             A = J.T @ J + mu * np.eye(len(parametros))
             b = J.T @ residuo
 
             delta = np.linalg.lstsq(A, b, rcond=None)[0]
+
+            historico_delta.append(np.linalg.norm(delta))
 
             parametros_teste = self.calcular_parametros_teste(parametros, delta)
 
@@ -161,15 +143,7 @@ class EstimadorLevenbergMarquardtAdaptativo:
 
             xi = self.calcular_xi(reducao_real, reducao_prevista)
 
-            # Caso mu = 0: comporta-se como Gauss-Newton puro
-            if mu == 0:
-                parametros, parar = self.atualizar_parametros_sem_xi(
-                    parametros, parametros_teste, delta
-                )
-            else:
-                parametros, parar = self.atualizar_parametros_com_protecao(
-                    parametros, parametros_teste, delta, xi
-                )
+            parametros, parar = self.atualizar_parametros_com_protecao(parametros, parametros_teste, delta, xi)
 
             mu = self.atualizar_mu(xi, mu)
 
@@ -181,7 +155,7 @@ class EstimadorLevenbergMarquardtAdaptativo:
             historico_beta,
             historico_alpha,
             historico_k,
-            historico_erro,
+            historico_delta,
             historico_mu,
             iteracao + 1
         )

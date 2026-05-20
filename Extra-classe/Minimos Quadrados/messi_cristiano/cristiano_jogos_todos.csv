@@ -1,0 +1,1338 @@
+﻿epoca,data,resultado,competicao,fase,time,mando,adversario,placar,minutos,gols_no_jogo,jogo,gols_acumulados
+2002/03,2002-08-13,E,QUCL,3PE,Sporting,(C),Internazionale,0-0,32,0,1,0
+2002/03,2002-09-19,D,EL,1R,Sporting,(C),Partizan,1-3,45,0,2,0
+2002/03,2002-09-30,D,D1,R5,Sporting,(F),SC Braga,4-2,21,0,3,0
+2002/03,2002-10-03,E,EL,1R,Sporting,(F),Partizan,3-3 (a.p.),74,0,4,0
+2002/03,2002-10-07,V,D1,R6,Sporting,(C),Moreirense,3-0,90,2,5,2
+2002/03,2002-10-20,V,D1,R7,Sporting,(C),Belenenses,2-0,76,0,6,2
+2002/03,2002-10-26,V,D1,R8,Sporting,(F),Boavista FC,1-2,8,1,7,3
+2002/03,2002-11-01,D,D1,R9,Sporting,(C),Gil Vicente,0-3,90,0,8,3
+2002/03,2002-11-07,V,D1,R10,Sporting,(F),Vitória SC,1-3,89,0,9,3
+2002/03,2002-11-14,V,D1,R11,Sporting,(C),Marítimo,2-0,74,0,10,3
+2002/03,2002-11-24,V,TP,4E,Sporting,(C),CD Estarreja,4-1,29,1,11,4
+2002/03,2002-11-29,V,D1,R12,Sporting,(F),Beira-Mar,1-3,10,0,12,4
+2002/03,2002-12-06,D,D1,R13,Sporting,(C),Benfica,0-2,54,0,13,4
+2002/03,2002-12-13,D,D1,R14,Sporting,(F),UD Leiria,3-2,90,0,14,4
+2002/03,2002-12-18,V,TP,5E,Sporting,(C),FC Oliv. Hospital,8-1,53,1,15,5
+2002/03,2002-12-21,V,D1,R15,Sporting,(C),Nacional,2-0,15,0,16,5
+2002/03,2003-01-03,V,D1,R16,Sporting,(F),Vitória FC,1-2,22,0,17,5
+2002/03,2003-01-11,D,D1,R17,Sporting,(C),FC Porto,0-1,19,0,18,5
+2002/03,2003-01-24,V,D1,R19,Sporting,(F),Santa Clara,0-1,45,0,19,5
+2002/03,2003-02-04,V,D1,R18,Sporting,(C),Académica OAF,1-0,31,0,20,5
+2002/03,2003-02-28,E,D1,R24,Sporting,(F),Belenenses,1-1,5,0,21,5
+2002/03,2003-03-08,D,TP,QF,Sporting,(C),Naval,0-1,90,0,22,5
+2002/03,2003-03-15,E,D1,R25,Sporting,(C),Boavista FC,1-1,29,0,23,5
+2002/03,2003-03-20,D,D1,R26,Sporting,(F),Gil Vicente,1-0,4,0,24,5
+2002/03,2003-03-28,V,U21Q,7,Portugal,(C),Inglaterra,4-2,80,1,25,6
+2002/03,2003-04-01,V,U21Q,7,Portugal,(F),Eslováquia,0-2,45,0,26,6
+2002/03,2003-04-05,E,D1,R27,Sporting,(C),Vitória SC,1-1,23,0,27,6
+2002/03,2003-04-18,V,D1,R28,Sporting,(F),Marítimo,0-3,15,0,28,6
+2002/03,2003-04-24,E,D1,R29,Sporting,(C),Beira-Mar,1-1,10,0,29,6
+2002/03,2003-05-11,E,D1,R31,Sporting,(C),UD Leiria,1-1,26,0,30,6
+2002/03,2003-05-16,E,D1,R32,Sporting,(F),Nacional,1-1,90,0,31,6
+2002/03,2003-05-23,D,D1,R33,Sporting,(C),Vitória FC,3-4,62,0,32,6
+2002/03,2003-05-31,D,D1,R34,Sporting,(F),FC Porto,2-0,71,0,33,6
+2002/03,2003-06-06,V,U21Q,7,Portugal,(F),Macedônia do Norte,1-4,90,0,34,6
+2002/03,2003-06-11,V,TT,B,Portugal,(N),Inglaterra,0-3,90,1,35,7
+2002/03,2003-06-15,V,TT,B,Portugal,(N),Argentina,0-3,90,0,36,7
+2002/03,2003-06-17,D,TT,B,Portugal,(N),Japão,1-0,90,0,37,7
+2002/03,2003-06-19,V,TT,B,Portugal,(N),Turquia,2-0,90,0,38,7
+2002/03,2003-06-21,V,TT,F,Portugal,(N),Itália,3-1,90,0,39,7
+2003/04,2003-08-16,V,PL,R1,Manchester United,(C),Bolton Wanderers,4-0,29,0,40,7
+2002/03,2003-08-19,V,AMI,JA,Portugal,(C),Cazaquistão,1-0,45,0,41,7
+2003/04,2003-08-23,V,PL,R2,Manchester United,(F),Newcastle,1-2,14,0,42,7
+2003/04,2003-08-27,V,PL,R3,Manchester United,(C),Wolverhampton,1-0,66,0,43,7
+2003/04,2003-08-31,D,PL,R4,Manchester United,(F),Southampton,1-0,24,0,44,7
+2002/03,2003-09-05,D,U21Q,7,Portugal,(C),Turquia,1-2,90,0,45,7
+2003/04,2003-09-09,V,U21Q,7,Portugal,(F),Inglaterra,1-2,84,0,46,7
+2003/04,2003-09-13,V,PL,R5,Manchester United,(F),Charlton Athletic,0-2,90,0,47,7
+2003/04,2003-09-21,E,PL,R6,Manchester United,(C),Arsenal,0-0,90,0,48,7
+2003/04,2003-10-01,D,UCL,E,Manchester United,(F),Stuttgart,2-1,90,0,49,7
+2002/03,2003-10-11,V,AMI,JA,Portugal,(C),Albânia,5-3,45,0,50,7
+2003/04,2003-10-18,V,PL,R9,Manchester United,(F),Leeds United,0-1,90,0,51,7
+2003/04,2003-10-25,D,PL,R10,Manchester United,(C),Fulham,1-3,69,0,52,7
+2003/04,2003-11-01,V,PL,R11,Manchester United,(C),Portsmouth,3-0,15,1,53,8
+2003/04,2003-11-04,V,UCL,E,Manchester United,(C),Rangers,3-0,90,0,54,8
+2002/03,2003-11-15,D,U21Q,POff,Portugal,(C),França,1-2,70,0,55,8
+2003/04,2003-11-18,V,U21Q,POff,Portugal,(F),França,1-2 (1-4)g.p.,120,1,56,9
+2003/04,2003-11-22,V,PL,R13,Manchester United,(C),Blackburn Rovers,2-1,17,0,57,9
+2003/04,2003-11-26,V,UCL,E,Manchester United,(F),Panathinaikos,0-1,90,0,58,9
+2003/04,2003-11-30,D,PL,R14,Manchester United,(F),Chelsea,1-0,18,0,59,9
+2003/04,2003-12-03,D,CL,4R,Manchester United,(F),West Bromwich,2-0,77,0,60,9
+2003/04,2003-12-06,V,PL,R15,Manchester United,(C),Aston Villa,4-0,90,0,61,9
+2003/04,2003-12-13,V,PL,R16,Manchester United,(C),Manchester City,3-1,16,0,62,9
+2003/04,2003-12-21,V,PL,R17,Manchester United,(F),Tottenham,1-2,11,0,63,9
+2003/04,2003-12-26,V,PL,R18,Manchester United,(C),Everton,3-2,90,0,64,9
+2003/04,2004-01-17,D,PL,R22,Manchester United,(F),Wolverhampton,1-0,90,0,65,9
+2003/04,2004-01-25,V,CI,4R,Manchester United,(F),Northampton Town,0-3,90,0,66,9
+2003/04,2004-01-31,V,PL,R23,Manchester United,(C),Southampton,3-2,90,0,67,9
+2003/04,2004-02-07,V,PL,R24,Manchester United,(F),Everton,3-4,11,0,68,9
+2003/04,2004-02-11,D,PL,R25,Manchester United,(C),Middlesbrough,2-3,27,0,69,9
+2003/04,2004-02-14,V,CI,5R,Manchester United,(C),Manchester City,4-2,90,1,70,10
+2003/04,2004-02-17,E,AMI,JA,Portugal,(C),Inglaterra,1-1,45,0,71,10
+2003/04,2004-02-25,D,UCL,1/8,Manchester United,(F),FC Porto,2-1,14,0,72,10
+2003/04,2004-02-28,E,PL,R27,Manchester United,(F),Fulham,1-1,90,0,73,10
+2003/04,2004-03-06,V,CI,QF,Manchester United,(C),Fulham,2-1,88,0,74,10
+2003/04,2004-03-09,E,UCL,1/8,Manchester United,(C),FC Porto,1-1,8,0,75,10
+2003/04,2004-03-14,D,PL,R28,Manchester United,(F),Manchester City,4-1,72,0,76,10
+2003/04,2004-03-20,V,PL,R29,Manchester United,(C),Tottenham,3-0,16,1,77,11
+2003/04,2004-03-31,D,AMI,JA,Portugal,(C),Itália,1-2,45,0,78,11
+2003/04,2004-04-03,V,CI,SF,Manchester United,(N),Arsenal,0-1,84,0,79,11
+2003/04,2004-04-10,V,PL,R32,Manchester United,(F),Birmingham City,1-2,35,1,80,12
+2003/04,2004-04-13,V,PL,R33,Manchester United,(C),Leicester City,1-0,90,0,81,12
+2003/04,2004-04-17,D,PL,R34,Manchester United,(F),Portsmouth,1-0,32,0,82,12
+2003/04,2004-04-20,V,PL,R31,Manchester United,(C),Charlton Athletic,2-0,7,0,83,12
+2003/04,2004-04-24,D,PL,R35,Manchester United,(C),Liverpool,0-1,90,0,84,12
+2003/04,2004-04-28,E,AMI,JA,Portugal,(C),Suécia,2-2,28,0,85,12
+2003/04,2004-05-08,E,PL,R37,Manchester United,(C),Chelsea,1-1,87,0,86,12
+2003/04,2004-05-15,V,PL,R38,Manchester United,(F),Aston Villa,0-2,85,1,87,13
+2003/04,2004-05-22,V,CI,F,Manchester United,(C),Millwall,3-0,84,1,88,14
+2003/04,2004-05-29,V,AMI,JA,Portugal,(C),Luxemburgo,3-0,45,0,89,14
+2003/04,2004-06-05,V,AMI,JA,Portugal,(C),Lituânia,4-1,26,0,90,14
+2003/04,2004-06-12,D,EU,A,Portugal,(N),Grécia,1-2,45,1,91,15
+2003/04,2004-06-16,V,EU,A,Portugal,(N),Rússia,0-2,12,0,92,15
+2003/04,2004-06-20,V,EU,A,Portugal,(N),Espanha,0-1,85,0,93,15
+2003/04,2004-06-24,E,EU,QF,Portugal,(N),Inglaterra,2-2 (6-5)g.p.,120,0,94,15
+2003/04,2004-06-30,V,EU,SF,Portugal,(N),Holanda,2-1,67,1,95,16
+2003/04,2004-07-04,D,EU,F,Portugal,(N),Grécia,0-1,90,0,96,16
+2003/04,2004-08-04,V,AMI,JA,Portugal Olímpicos,(C),Paraguai,5-0,45,1,97,17
+2004/05,2004-08-12,D,OLI,D,Portugal,(N),Iraque,4-2,90,0,98,17
+2004/05,2004-08-15,V,OLI,D,Portugal,(N),Marrocos,1-2,90,1,99,18
+2004/05,2004-08-21,V,PL,R2,Manchester United,(C),Norwich City,2-1,6,0,100,18
+2004/05,2004-08-25,V,QUCL,3PE,Manchester United,(C),Dinamo Bucuresti,3-0,64,0,101,18
+2004/05,2004-08-28,E,PL,R4,Manchester United,(F),Blackburn Rovers,1-1,90,0,102,18
+2004/05,2004-08-30,E,PL,R3,Manchester United,(C),Everton,0-0,81,0,103,18
+2004/05,2004-09-04,V,ECM,3,Portugal,(F),Letônia,0-2,82,1,104,19
+2004/05,2004-09-08,V,ECM,3,Portugal,(C),Estônia,4-0,90,1,105,20
+2004/05,2004-09-11,E,PL,R5,Manchester United,(F),Bolton Wanderers,2-2,26,0,106,20
+2004/05,2004-09-15,E,UCL,D,Manchester United,(F),Lyon,2-2,90,0,107,20
+2004/05,2004-09-20,V,PL,R6,Manchester United,(C),Liverpool,2-1,90,0,108,20
+2004/05,2004-09-25,V,PL,R7,Manchester United,(F),Tottenham,0-1,90,0,109,20
+2004/05,2004-10-03,E,PL,R8,Manchester United,(C),Middlesbrough,1-1,90,0,110,20
+2004/05,2004-10-09,E,ECM,3,Portugal,(F),Liechtenstein,2-2,62,0,111,20
+2004/05,2004-10-13,V,ECM,3,Portugal,(C),Rússia,7-1,85,2,112,22
+2004/05,2004-10-16,E,PL,R9,Manchester United,(F),Birmingham City,0-0,76,0,113,22
+2004/05,2004-10-19,E,UCL,D,Manchester United,(F),Sparta Praha,0-0,10,0,114,22
+2004/05,2004-10-24,V,PL,R10,Manchester United,(C),Arsenal,2-0,85,0,115,22
+2004/05,2004-10-30,D,PL,R11,Manchester United,(F),Portsmouth,2-0,90,0,116,22
+2004/05,2004-11-03,V,UCL,D,Manchester United,(C),Sparta Praha,4-1,69,0,117,22
+2004/05,2004-11-07,E,PL,R12,Manchester United,(C),Manchester City,0-0,90,0,118,22
+2004/05,2004-11-14,V,PL,R13,Manchester United,(F),Newcastle,1-3,83,0,119,22
+2004/05,2004-11-17,V,ECM,3,Portugal,(F),Luxemburgo,0-5,90,1,120,23
+2004/05,2004-11-23,V,UCL,D,Manchester United,(C),Lyon,2-1,90,0,121,23
+2004/05,2004-11-27,V,PL,R15,Manchester United,(F),West Bromwich,0-3,19,0,122,23
+2004/05,2004-12-04,V,PL,R16,Manchester United,(C),Southampton,3-0,90,1,123,24
+2004/05,2004-12-08,D,UCL,D,Manchester United,(F),Fenerbahçe,3-0,90,0,124,24
+2004/05,2004-12-13,E,PL,R17,Manchester United,(F),Fulham,1-1,90,0,125,24
+2004/05,2004-12-26,V,PL,R19,Manchester United,(C),Bolton Wanderers,2-0,68,0,126,24
+2004/05,2004-12-28,V,PL,R20,Manchester United,(F),Aston Villa,0-1,30,0,127,24
+2004/05,2005-01-01,V,PL,R21,Manchester United,(F),Middlesbrough,0-2,77,0,128,24
+2004/05,2005-01-04,E,PL,R22,Manchester United,(C),Tottenham,0-0,83,0,129,24
+2004/05,2005-01-07,E,CI,3R,Manchester United,(C),Exeter City,0-0,27,0,130,24
+2004/05,2005-01-12,E,CL,SF,Manchester United,(F),Chelsea,0-0,90,0,131,24
+2004/05,2005-01-15,V,PL,R23,Manchester United,(F),Liverpool,0-1,66,0,132,24
+2004/05,2005-01-17,V,CI,3R,Manchester United,(F),Exeter City,0-2,90,1,133,25
+2004/05,2005-01-22,V,PL,R24,Manchester United,(C),Aston Villa,3-1,90,1,134,26
+2004/05,2005-01-26,D,CL,SF,Manchester United,(C),Chelsea,1-2,90,0,135,26
+2004/05,2005-01-29,V,CI,4R,Manchester United,(C),Middlesbrough,3-0,72,0,136,26
+2004/05,2005-02-01,V,PL,R25,Manchester United,(F),Arsenal,2-4,69,2,137,28
+2004/05,2005-02-05,V,PL,R26,Manchester United,(C),Birmingham City,2-0,90,0,138,28
+2004/05,2005-02-09,D,AMI,JA,Portugal,(F),Rep. Irlanda,1-0,68,0,139,28
+2004/05,2005-02-13,V,PL,R27,Manchester United,(F),Manchester City,0-2,58,0,140,28
+2004/05,2005-02-19,V,CI,5R,Manchester United,(F),Everton,0-2,90,1,141,29
+2004/05,2005-02-23,D,UCL,1/8,Manchester United,(C),Milan,0-1,63,0,142,29
+2004/05,2005-02-26,V,PL,R28,Manchester United,(C),Portsmouth,2-1,90,0,143,29
+2004/05,2005-03-05,E,PL,R29,Manchester United,(F),Crystal Palace,0-0,35,0,144,29
+2004/05,2005-03-08,D,UCL,1/8,Manchester United,(F),Milan,1-0,90,0,145,29
+2004/05,2005-03-12,V,CI,QF,Manchester United,(F),Southampton,0-4,68,1,146,30
+2004/05,2005-03-19,V,PL,R30,Manchester United,(C),Fulham,1-0,90,1,147,31
+2004/05,2005-03-26,V,AMI,JA,Portugal,(C),Canadá,4-1,45,0,148,31
+2004/05,2005-03-30,E,ECM,3,Portugal,(F),Eslováquia,1-1,90,0,149,31
+2004/05,2005-04-02,E,PL,R31,Manchester United,(C),Blackburn Rovers,0-0,90,0,150,31
+2004/05,2005-04-09,D,PL,R32,Manchester United,(F),Norwich City,2-0,69,0,151,31
+2004/05,2005-04-17,V,CI,SF,Manchester United,(F),Newcastle,1-4,78,1,152,32
+2004/05,2005-04-20,D,PL,R34,Manchester United,(F),Everton,1-0,90,0,153,32
+2004/05,2005-04-24,V,PL,R35,Manchester United,(C),Newcastle,2-1,54,0,154,32
+2004/05,2005-05-07,E,PL,R37,Manchester United,(C),West Bromwich,1-1,90,0,155,32
+2004/05,2005-05-10,D,PL,R33,Manchester United,(C),Chelsea,1-3,90,0,156,32
+2004/05,2005-05-21,E,CI,F,Manchester United,(N),Arsenal,0-0 (5-4)g.p.,120,0,157,32
+2004/05,2005-06-04,V,ECM,3,Portugal,(C),Eslováquia,2-0,76,1,158,33
+2004/05,2005-06-08,V,ECM,3,Portugal,(F),Estônia,0-1,88,1,159,34
+2005/06,2005-08-09,V,QUCL,3PE,Manchester United,(C),Debreceni,3-0,67,1,160,35
+2005/06,2005-08-20,V,PL,R2,Manchester United,(C),Aston Villa,1-0,31,0,161,35
+2005/06,2005-08-24,V,QUCL,3PE,Manchester United,(F),Debreceni,0-3,90,0,162,35
+2005/06,2005-08-28,V,PL,R4,Manchester United,(F),Newcastle,0-2,85,0,163,35
+2004/05,2005-09-03,V,ECM,3,Portugal,(C),Luxemburgo,6-0,62,0,164,35
+2004/05,2005-09-07,E,ECM,3,Portugal,(F),Rússia,0-0,90,0,165,35
+2005/06,2005-09-14,E,UCL,D,Manchester United,(F),Villarreal,0-0,80,0,166,35
+2005/06,2005-09-18,E,PL,R6,Manchester United,(F),Liverpool,0-0,90,0,167,35
+2005/06,2005-09-24,D,PL,R7,Manchester United,(C),Blackburn Rovers,1-2,90,0,168,35
+2005/06,2005-09-27,V,UCL,D,Manchester United,(C),Benfica,2-1,90,0,169,35
+2005/06,2005-10-01,V,PL,R8,Manchester United,(F),Fulham,2-3,13,0,170,35
+2004/05,2005-10-08,V,ECM,3,Portugal,(C),Liechtenstein,2-1,84,0,171,35
+2004/05,2005-10-12,V,ECM,3,Portugal,(C),Letônia,3-0,45,0,172,35
+2005/06,2005-10-15,V,PL,R9,Manchester United,(F),Sunderland,1-3,89,0,173,35
+2005/06,2005-10-18,E,UCL,D,Manchester United,(C),Lille,0-0,90,0,174,35
+2005/06,2005-10-22,E,PL,R10,Manchester United,(C),Tottenham,1-1,15,0,175,35
+2005/06,2005-10-29,D,PL,R11,Manchester United,(F),Middlesbrough,4-1,30,1,176,36
+2005/06,2005-11-02,D,UCL,D,Manchester United,(F),Lille,1-0,89,0,177,36
+2005/06,2005-11-06,V,PL,R12,Manchester United,(C),Chelsea,1-0,90,0,178,36
+2004/05,2005-11-12,V,AMI,JA,Portugal,(C),Croácia,2-0,76,0,179,36
+2004/05,2005-11-15,E,AMI,JA,Portugal,(F),Irlanda do Norte,1-1,68,0,180,36
+2005/06,2005-11-19,V,PL,R13,Manchester United,(F),Charlton Athletic,1-3,75,0,181,36
+2005/06,2005-11-22,E,UCL,D,Manchester United,(C),Villarreal,0-0,90,0,182,36
+2005/06,2005-11-29,V,CL,4R,Manchester United,(C),West Bromwich,3-1,90,1,183,37
+2005/06,2005-12-03,V,PL,R15,Manchester United,(C),Portsmouth,3-0,25,0,184,37
+2005/06,2005-12-07,D,UCL,D,Manchester United,(F),Benfica,2-1,67,0,185,37
+2005/06,2005-12-11,E,PL,R16,Manchester United,(C),Everton,1-1,26,0,186,37
+2005/06,2005-12-14,V,PL,R3,Manchester United,(C),Wigan Athletic,4-0,20,0,187,37
+2005/06,2005-12-17,V,PL,R17,Manchester United,(F),Aston Villa,0-2,28,0,188,37
+2005/06,2005-12-20,V,CL,QF,Manchester United,(F),Birmingham City,1-3,90,0,189,37
+2005/06,2005-12-28,E,PL,R19,Manchester United,(F),Birmingham City,2-2,83,0,190,37
+2005/06,2005-12-31,V,PL,R20,Manchester United,(C),Bolton Wanderers,4-1,90,2,191,39
+2005/06,2006-01-03,E,PL,R21,Manchester United,(F),Arsenal,0-0,90,0,192,39
+2005/06,2006-01-07,E,CI,3R,Manchester United,(F),Burton Albion,0-0,31,0,193,39
+2005/06,2006-01-11,E,CL,SF,Manchester United,(F),Blackburn Rovers,1-1,90,0,194,39
+2005/06,2006-01-14,D,PL,R22,Manchester United,(F),Manchester City,3-1,66,0,195,39
+2005/06,2006-02-01,D,PL,R24,Manchester United,(F),Blackburn Rovers,4-3,90,0,196,39
+2005/06,2006-02-04,V,PL,R25,Manchester United,(C),Fulham,4-2,90,2,197,41
+2005/06,2006-02-11,V,PL,R26,Manchester United,(F),Portsmouth,1-3,90,2,198,43
+2005/06,2006-02-18,D,CI,5R,Manchester United,(F),Liverpool,1-0,90,0,199,43
+2005/06,2006-02-26,V,CL,F,Manchester United,(C),Wigan Athletic,4-0,73,1,200,44
+2005/06,2006-03-01,V,AMI,JA,Portugal,(C),Arábia Saudita,3-0,90,2,201,46
+2005/06,2006-03-06,V,PL,R28,Manchester United,(F),Wigan Athletic,1-2,90,1,202,47
+2005/06,2006-03-12,V,PL,R29,Manchester United,(C),Newcastle,2-0,75,0,203,47
+2005/06,2006-03-18,V,PL,R30,Manchester United,(F),West Bromwich,1-2,90,0,204,47
+2005/06,2006-03-26,V,PL,R31,Manchester United,(C),Birmingham City,3-0,90,0,205,47
+2005/06,2006-03-29,V,PL,R27,Manchester United,(C),West Ham,1-0,87,0,206,47
+2005/06,2006-04-01,V,PL,R32,Manchester United,(F),Bolton Wanderers,1-2,90,0,207,47
+2005/06,2006-04-09,V,PL,R33,Manchester United,(C),Arsenal,2-0,90,0,208,47
+2005/06,2006-04-14,E,PL,R34,Manchester United,(C),Sunderland,0-0,90,0,209,47
+2005/06,2006-04-17,V,PL,R35,Manchester United,(F),Tottenham,1-2,90,0,210,47
+2005/06,2006-04-29,D,PL,R37,Manchester United,(F),Chelsea,3-0,64,0,211,47
+2005/06,2006-05-01,E,PL,R36,Manchester United,(C),Middlesbrough,0-0,34,0,212,47
+2005/06,2006-05-07,V,PL,R38,Manchester United,(C),Charlton Athletic,4-0,90,1,213,48
+2005/06,2006-05-27,V,AMI,JA,Portugal,(C),Cabo Verde,4-1,61,0,214,48
+2005/06,2006-06-03,V,AMI,JA,Portugal,(N),Luxemburgo,3-0,70,0,215,48
+2005/06,2006-06-11,V,CM,D,Portugal,(N),Angola,0-1,60,0,216,48
+2005/06,2006-06-17,V,CM,D,Portugal,(N),Irã,2-0,90,1,217,49
+2005/06,2006-06-25,V,CM,1/8,Portugal,(N),Holanda,1-0,34,0,218,49
+2005/06,2006-07-01,E,CM,QF,Portugal,(N),Inglaterra,0-0 (1-3)g.p.,120,0,219,49
+2005/06,2006-07-05,D,CM,SF,Portugal,(N),França,0-1,90,0,220,49
+2005/06,2006-07-08,D,CM,3/4,Portugal,(N),Alemanha,3-1,90,0,221,49
+2006/07,2006-08-20,V,PL,R1,Manchester United,(C),Fulham,5-1,90,1,222,50
+2006/07,2006-08-23,V,PL,R2,Manchester United,(F),Charlton Athletic,0-3,90,0,223,50
+2006/07,2006-08-26,V,PL,R3,Manchester United,(F),Watford,1-2,90,0,224,50
+2005/06,2006-09-01,D,AMI,JA,Portugal,(F),Dinamarca,4-2,66,0,225,50
+2006/07,2006-09-06,E,EE,A,Portugal,(F),Finlândia,1-1,90,0,226,50
+2006/07,2006-09-09,V,PL,R4,Manchester United,(C),Tottenham,1-0,90,0,227,50
+2006/07,2006-09-17,D,PL,R5,Manchester United,(C),Arsenal,0-1,90,0,228,50
+2006/07,2006-09-23,E,PL,R6,Manchester United,(F),Reading,1-1,90,1,229,51
+2006/07,2006-09-26,V,UCL,F,Manchester United,(F),Benfica,0-1,90,0,230,51
+2006/07,2006-10-01,V,PL,R7,Manchester United,(C),Newcastle,2-0,90,0,231,51
+2006/07,2006-10-07,V,EE,A,Portugal,(C),Azerbaijão,3-0,73,2,232,53
+2006/07,2006-10-11,D,EE,A,Portugal,(F),Polônia,2-1,90,0,233,53
+2006/07,2006-10-17,V,UCL,F,Manchester United,(C),FC Kobenhavn,3-0,90,0,234,53
+2006/07,2006-10-28,V,PL,R10,Manchester United,(F),Bolton Wanderers,0-4,90,1,235,54
+2006/07,2006-11-01,D,UCL,F,Manchester United,(F),FC Kobenhavn,1-0,90,0,236,54
+2006/07,2006-11-04,V,PL,R11,Manchester United,(C),Portsmouth,3-0,74,1,237,55
+2006/07,2006-11-08,D,CL,4R,Manchester United,(F),Southend United,1-0,90,0,238,55
+2006/07,2006-11-11,V,PL,R12,Manchester United,(F),Blackburn Rovers,0-1,90,0,239,55
+2006/07,2006-11-15,V,EE,A,Portugal,(C),Cazaquistão,3-0,58,1,240,56
+2006/07,2006-11-18,V,PL,R13,Manchester United,(F),Sheffield United,1-2,90,0,241,56
+2006/07,2006-11-21,D,UCL,F,Manchester United,(F),Celtic,1-0,90,0,242,56
+2006/07,2006-11-26,E,PL,R14,Manchester United,(C),Chelsea,1-1,86,0,243,56
+2006/07,2006-11-29,V,PL,R15,Manchester United,(C),Everton,3-0,68,1,244,57
+2006/07,2006-12-02,V,PL,R16,Manchester United,(F),Middlesbrough,1-2,86,0,245,57
+2006/07,2006-12-06,V,UCL,F,Manchester United,(C),Benfica,3-1,90,0,246,57
+2006/07,2006-12-09,V,PL,R17,Manchester United,(C),Manchester City,3-1,90,1,247,58
+2006/07,2006-12-17,D,PL,R18,Manchester United,(F),West Ham,1-0,90,0,248,58
+2006/07,2006-12-23,V,PL,R19,Manchester United,(F),Aston Villa,0-3,90,2,249,60
+2006/07,2006-12-26,V,PL,R20,Manchester United,(C),Wigan Athletic,3-1,45,2,250,62
+2006/07,2006-12-30,V,PL,R21,Manchester United,(C),Reading,3-2,78,2,251,64
+2006/07,2007-01-01,E,PL,R22,Manchester United,(F),Newcastle,2-2,90,0,252,64
+2006/07,2007-01-07,V,CI,3R,Manchester United,(C),Aston Villa,2-1,90,0,253,64
+2006/07,2007-01-13,V,PL,R23,Manchester United,(C),Aston Villa,3-1,90,1,254,65
+2006/07,2007-01-21,D,PL,R24,Manchester United,(F),Arsenal,2-1,90,0,255,65
+2006/07,2007-01-31,V,PL,R25,Manchester United,(C),Watford,4-0,90,1,256,66
+2006/07,2007-02-04,V,PL,R26,Manchester United,(F),Tottenham,0-4,68,1,257,67
+2006/07,2007-02-06,V,AMI,JA,Portugal,(C),Brasil,2-0,63,0,258,67
+2006/07,2007-02-17,E,CI,5R,Manchester United,(C),Reading,1-1,90,0,259,67
+2006/07,2007-02-20,V,UCL,1/8,Manchester United,(F),Lille,0-1,67,0,260,67
+2006/07,2007-02-24,V,PL,R28,Manchester United,(F),Fulham,1-2,90,1,261,68
+2006/07,2007-02-27,V,CI,5R,Manchester United,(F),Reading,2-3,2,0,262,68
+2006/07,2007-03-03,V,PL,R29,Manchester United,(F),Liverpool,0-1,90,0,263,68
+2006/07,2007-03-07,V,UCL,1/8,Manchester United,(C),Lille,1-0,82,0,264,68
+2006/07,2007-03-10,E,CI,QF,Manchester United,(F),Middlesbrough,2-2,90,1,265,69
+2006/07,2007-03-17,V,PL,R30,Manchester United,(C),Bolton Wanderers,4-1,70,0,266,69
+2006/07,2007-03-19,V,CI,QF,Manchester United,(C),Middlesbrough,1-0,90,1,267,70
+2006/07,2007-03-24,V,EE,A,Portugal,(C),Bélgica,4-0,78,2,268,72
+2006/07,2007-03-28,E,EE,A,Portugal,(F),Sérvia,1-1,90,0,269,72
+2006/07,2007-03-31,V,PL,R31,Manchester United,(C),Blackburn Rovers,4-1,84,0,270,72
+2006/07,2007-04-04,D,UCL,QF,Manchester United,(F),Roma,2-1,90,0,271,72
+2006/07,2007-04-07,D,PL,R32,Manchester United,(F),Portsmouth,2-1,90,0,272,72
+2006/07,2007-04-10,V,UCL,QF,Manchester United,(C),Roma,7-1,90,2,273,74
+2006/07,2007-04-14,V,CI,SF,Manchester United,(N),Watford,1-4,78,1,274,75
+2006/07,2007-04-17,V,PL,R33,Manchester United,(C),Sheffield United,2-0,90,0,275,75
+2006/07,2007-04-21,E,PL,R35,Manchester United,(C),Middlesbrough,1-1,90,0,276,75
+2006/07,2007-04-24,V,UCL,SF,Manchester United,(C),Milan,3-2,90,1,277,76
+2006/07,2007-04-28,V,PL,R36,Manchester United,(F),Everton,2-4,27,0,278,76
+2006/07,2007-05-02,D,UCL,SF,Manchester United,(F),Milan,3-0,90,0,279,76
+2006/07,2007-05-05,V,PL,R37,Manchester United,(F),Manchester City,0-1,90,1,280,77
+2006/07,2007-05-13,D,PL,R38,Manchester United,(C),West Ham,0-1,32,0,281,77
+2006/07,2007-05-19,D,CI,F,Manchester United,(N),Chelsea,1-0 (a.p.),120,0,282,77
+2007/08,2007-08-05,E,SCI,F,Manchester United,(N),Chelsea,1-1 (3-0)g.p.,120,0,283,77
+2007/08,2007-08-12,E,PL,R1,Manchester United,(C),Reading,0-0,90,0,284,77
+2007/08,2007-08-15,E,PL,R2,Manchester United,(F),Portsmouth,1-1,85,0,285,77
+2006/07,2007-08-22,E,EE,A,Portugal,(F),Armênia,1-1,90,1,286,78
+2006/07,2007-09-08,E,EE,A,Portugal,(C),Polônia,2-2,90,1,287,79
+2007/08,2007-09-12,E,EE,A,Portugal,(C),Sérvia,1-1,90,0,288,79
+2007/08,2007-09-15,V,PL,R6,Manchester United,(F),Everton,0-1,90,0,289,79
+2007/08,2007-09-19,V,UCL,F,Manchester United,(F),Sporting,0-1,87,1,290,80
+2007/08,2007-09-23,V,PL,R7,Manchester United,(C),Chelsea,2-0,90,0,291,80
+2007/08,2007-09-29,V,PL,R8,Manchester United,(F),Birmingham City,0-1,90,1,292,81
+2007/08,2007-10-02,V,UCL,F,Manchester United,(C),Roma,1-0,90,0,293,81
+2007/08,2007-10-06,V,PL,R9,Manchester United,(C),Wigan Athletic,4-0,90,2,294,83
+2007/08,2007-10-13,V,EE,A,Portugal,(F),Azerbaijão,0-2,90,0,295,83
+2007/08,2007-10-17,V,EE,A,Portugal,(F),Cazaquistão,1-2,90,1,296,84
+2007/08,2007-10-20,V,PL,R10,Manchester United,(F),Aston Villa,1-4,14,0,297,84
+2007/08,2007-10-23,V,UCL,F,Manchester United,(F),Dynamo Kyiv,2-4,90,2,298,86
+2007/08,2007-10-27,V,PL,R11,Manchester United,(C),Middlesbrough,4-1,90,0,299,86
+2007/08,2007-11-03,E,PL,R12,Manchester United,(F),Arsenal,2-2,90,1,300,87
+2007/08,2007-11-07,V,UCL,F,Manchester United,(C),Dynamo Kyiv,4-0,90,1,301,88
+2007/08,2007-11-11,V,PL,R13,Manchester United,(C),Blackburn Rovers,2-0,90,2,302,90
+2006/07,2007-11-17,V,EE,A,Portugal,(C),Armênia,1-0,90,0,303,90
+2006/07,2007-11-21,E,EE,A,Portugal,(C),Finlândia,0-0,90,0,304,90
+2007/08,2007-11-27,V,UCL,F,Manchester United,(C),Sporting,2-1,90,1,305,91
+2007/08,2007-12-03,V,PL,R15,Manchester United,(C),Fulham,2-0,90,2,306,93
+2007/08,2007-12-08,V,PL,R16,Manchester United,(C),Derby County,4-1,90,1,307,94
+2007/08,2007-12-16,V,PL,R17,Manchester United,(F),Liverpool,0-1,90,0,308,94
+2007/08,2007-12-23,V,PL,R18,Manchester United,(C),Everton,2-1,90,2,309,96
+2007/08,2007-12-26,V,PL,R19,Manchester United,(F),Sunderland,0-4,57,1,310,97
+2007/08,2007-12-29,D,PL,R20,Manchester United,(F),West Ham,2-1,90,1,311,98
+2007/08,2008-01-01,V,PL,R21,Manchester United,(C),Birmingham City,1-0,90,0,312,98
+2007/08,2008-01-05,V,CI,3E,Manchester United,(F),Aston Villa,0-2,90,1,313,99
+2007/08,2008-01-12,V,PL,R22,Manchester United,(C),Newcastle,6-0,90,3,314,102
+2007/08,2008-01-19,V,PL,R23,Manchester United,(F),Reading,0-2,90,1,315,103
+2007/08,2008-01-27,V,CI,4E,Manchester United,(C),Tottenham,3-1,90,2,316,105
+2007/08,2008-01-30,V,PL,R24,Manchester United,(C),Portsmouth,2-0,74,2,317,107
+2007/08,2008-02-02,E,PL,R25,Manchester United,(F),Tottenham,1-1,90,0,318,107
+2007/08,2008-02-06,D,AMI,JA,Portugal,(N),Itália,3-1,90,0,319,107
+2007/08,2008-02-10,D,PL,R26,Manchester United,(C),Manchester City,1-2,90,0,320,107
+2007/08,2008-02-20,E,UCL,1/8,Manchester United,(F),Lyon,1-1,90,0,321,107
+2007/08,2008-02-23,V,PL,R27,Manchester United,(F),Newcastle,1-5,67,2,322,109
+2007/08,2008-03-01,V,PL,R28,Manchester United,(F),Fulham,0-3,21,0,323,109
+2007/08,2008-03-04,V,UCL,1/8,Manchester United,(C),Lyon,1-0,90,1,324,110
+2007/08,2008-03-08,D,CI,QF,Manchester United,(C),Portsmouth,0-1,90,0,325,110
+2007/08,2008-03-15,V,PL,R30,Manchester United,(F),Derby County,0-1,90,1,326,111
+2007/08,2008-03-19,V,PL,R29,Manchester United,(C),Bolton Wanderers,2-0,90,2,327,113
+2007/08,2008-03-23,V,PL,R31,Manchester United,(C),Liverpool,3-0,90,1,328,114
+2007/08,2008-03-29,V,PL,R32,Manchester United,(C),Aston Villa,4-0,90,1,329,115
+2007/08,2008-04-01,V,UCL,QF,Manchester United,(F),Roma,0-2,90,1,330,116
+2007/08,2008-04-06,E,PL,R33,Manchester United,(F),Middlesbrough,2-2,90,1,331,117
+2007/08,2008-04-13,V,PL,R34,Manchester United,(C),Arsenal,2-1,90,1,332,118
+2007/08,2008-04-19,E,PL,R35,Manchester United,(F),Blackburn Rovers,1-1,90,0,333,118
+2007/08,2008-04-23,E,UCL,SF,Manchester United,(F),Barcelona,0-0,90,0,334,118
+2007/08,2008-04-26,D,PL,R36,Manchester United,(F),Chelsea,2-1,27,0,335,118
+2007/08,2008-04-29,V,UCL,SF,Manchester United,(C),Barcelona,1-0,90,0,336,118
+2007/08,2008-05-03,V,PL,R37,Manchester United,(C),West Ham,4-1,64,2,337,120
+2007/08,2008-05-11,V,PL,R38,Manchester United,(F),Wigan Athletic,0-2,90,1,338,121
+2007/08,2008-05-21,E,UCL,F,Manchester United,(N),Chelsea,1-1 (5-6)g.p.,120,1,339,122
+2007/08,2008-05-31,V,AMI,JA,Portugal,(C),Geórgia,2-0,45,0,340,122
+2007/08,2008-06-07,V,EU,A,Portugal,(N),Turquia,2-0,90,0,341,122
+2007/08,2008-06-11,V,EU,A,Portugal,(N),Rep. Tcheca,1-3,90,1,342,123
+2007/08,2008-06-19,D,EU,QF,Portugal,(N),Alemanha,2-3,90,0,343,123
+2008/09,2008-09-17,E,UCL,E,Manchester United,(C),Villarreal,0-0,28,0,344,123
+2008/09,2008-09-21,E,PL,R5,Manchester United,(F),Chelsea,1-1,35,0,345,123
+2008/09,2008-09-23,V,CL,3R,Manchester United,(C),Middlesbrough,3-1,61,1,346,124
+2008/09,2008-09-27,V,PL,R6,Manchester United,(C),Bolton Wanderers,2-0,80,1,347,125
+2008/09,2008-09-30,V,UCL,E,Manchester United,(F),Aalborg BK,0-3,90,0,348,125
+2008/09,2008-10-04,V,PL,R7,Manchester United,(F),Blackburn Rovers,0-2,90,0,349,125
+2009/10,2008-10-11,E,ECM,1,Portugal,(F),Suécia,0-0,90,0,350,125
+2009/10,2008-10-15,E,ECM,1,Portugal,(C),Albânia,0-0,90,0,351,125
+2008/09,2008-10-18,V,PL,R8,Manchester United,(C),West Bromwich,4-0,90,1,352,126
+2008/09,2008-10-21,V,UCL,E,Manchester United,(C),Celtic,3-0,82,0,353,126
+2008/09,2008-10-25,E,PL,R9,Manchester United,(F),Everton,1-1,90,0,354,126
+2008/09,2008-10-29,V,PL,R10,Manchester United,(C),West Ham,2-0,90,2,355,128
+2008/09,2008-11-01,V,PL,R11,Manchester United,(C),Hull City,4-3,90,2,356,130
+2008/09,2008-11-05,E,UCL,E,Manchester United,(F),Celtic,1-1,90,0,357,130
+2008/09,2008-11-08,D,PL,R12,Manchester United,(F),Arsenal,2-1,90,0,358,130
+2008/09,2008-11-15,V,PL,R13,Manchester United,(C),Stoke City,5-0,90,2,359,132
+2007/08,2008-11-19,D,AMI,JA,Portugal,(F),Brasil,6-2,90,0,360,132
+2008/09,2008-11-22,E,PL,R14,Manchester United,(F),Aston Villa,0-0,82,0,361,132
+2008/09,2008-11-25,E,UCL,E,Manchester United,(F),Villarreal,0-0,90,0,362,132
+2008/09,2008-11-30,V,PL,R15,Manchester United,(F),Manchester City,0-1,68,0,363,132
+2008/09,2008-12-06,V,PL,R16,Manchester United,(C),Sunderland,1-0,68,0,364,132
+2008/09,2008-12-13,E,PL,R17,Manchester United,(F),Tottenham,0-0,90,0,365,132
+2007/08,2008-12-18,V,MC,SF,Manchester United,(N),Gamba Osaka,3-5,90,1,366,133
+2007/08,2008-12-21,V,MC,F,Manchester United,(N),LDU Quito,0-1,90,0,367,133
+2008/09,2008-12-26,V,PL,R19,Manchester United,(F),Stoke City,0-1,90,0,368,133
+2008/09,2008-12-29,V,PL,R20,Manchester United,(C),Middlesbrough,1-0,85,0,369,133
+2008/09,2009-01-07,D,CL,SF,Manchester United,(F),Derby County,1-0,27,0,370,133
+2008/09,2009-01-11,V,PL,R21,Manchester United,(C),Chelsea,3-0,90,0,371,133
+2008/09,2009-01-14,V,PL,R18,Manchester United,(C),Wigan Athletic,1-0,90,0,372,133
+2008/09,2009-01-17,V,PL,R22,Manchester United,(F),Bolton Wanderers,0-1,90,0,373,133
+2008/09,2009-01-20,V,CL,SF,Manchester United,(C),Derby County,4-2,32,1,374,134
+2008/09,2009-01-24,V,CI,4R,Manchester United,(C),Tottenham,2-1,72,0,375,134
+2008/09,2009-01-27,V,PL,R23,Manchester United,(F),West Bromwich,0-5,90,2,376,136
+2008/09,2009-01-31,V,PL,R24,Manchester United,(C),Everton,1-0,90,1,377,137
+2008/09,2009-02-08,V,PL,R25,Manchester United,(F),West Ham,0-1,90,0,378,137
+2008/09,2009-02-11,V,AMI,JA,Portugal,(C),Finlândia,1-0,90,1,379,138
+2008/09,2009-02-15,V,CI,5R,Manchester United,(F),Derby County,1-4,72,1,380,139
+2008/09,2009-02-18,V,PL,R3,Manchester United,(C),Fulham,3-0,90,0,381,139
+2008/09,2009-02-21,V,PL,R26,Manchester United,(C),Blackburn Rovers,2-1,90,1,382,140
+2008/09,2009-02-24,E,UCL,1/8,Manchester United,(F),Internazionale,0-0,90,0,383,140
+2008/09,2009-03-01,E,CL,F,Manchester United,(N),Tottenham,0-0 (4-1)g.p.,120,0,384,140
+2008/09,2009-03-04,V,PL,R28,Manchester United,(F),Newcastle,1-2,90,0,385,140
+2008/09,2009-03-11,V,UCL,1/8,Manchester United,(C),Internazionale,2-0,90,1,386,141
+2008/09,2009-03-14,D,PL,R29,Manchester United,(C),Liverpool,1-4,90,1,387,142
+2008/09,2009-03-21,D,PL,R30,Manchester United,(F),Fulham,2-0,90,0,388,142
+2009/10,2009-03-28,E,ECM,1,Portugal,(C),Suécia,0-0,90,0,389,142
+2008/09,2009-03-31,V,AMI,JA,Portugal,(C),África do Sul,2-0,33,0,390,142
+2008/09,2009-04-05,V,PL,R31,Manchester United,(C),Aston Villa,3-2,90,2,391,144
+2008/09,2009-04-06,E,UCL,QF,Manchester United,(C),FC Porto,2-2,90,0,392,144
+2008/09,2009-04-11,V,PL,R32,Manchester United,(F),Sunderland,1-2,21,0,393,144
+2008/09,2009-04-15,V,UCL,QF,Manchester United,(F),FC Porto,0-1,90,1,394,145
+2008/09,2009-04-22,V,PL,R27,Manchester United,(C),Portsmouth,2-0,90,0,395,145
+2008/09,2009-04-25,V,PL,R34,Manchester United,(C),Tottenham,5-2,90,2,396,147
+2008/09,2009-04-29,V,UCL,SF,Manchester United,(C),Arsenal,1-0,90,0,397,147
+2008/09,2009-05-05,V,UCL,SF,Manchester United,(F),Arsenal,1-3,90,2,398,149
+2008/09,2009-05-10,V,PL,R36,Manchester United,(C),Manchester City,2-0,59,1,399,150
+2008/09,2009-05-13,V,PL,R33,Manchester United,(F),Wigan Athletic,1-2,90,0,400,150
+2008/09,2009-05-16,E,PL,R37,Manchester United,(C),Arsenal,0-0,90,0,401,150
+2008/09,2009-05-27,D,UCL,F,Manchester United,(N),Barcelona,2-0,90,0,402,150
+2009/10,2009-06-06,V,ECM,1,Portugal,(F),Albânia,1-2,90,0,403,150
+2009/10,2009-08-29,V,D1,R1,Real Madrid,(C),Deportivo,3-2,90,1,404,151
+2009/10,2009-09-05,E,ECM,1,Portugal,(F),Dinamarca,1-1,90,0,405,151
+2009/10,2009-09-09,V,ECM,1,Portugal,(F),Hungria,0-1,90,0,406,151
+2009/10,2009-09-12,V,D1,R2,Real Madrid,(F),Espanyol,0-3,24,1,407,152
+2009/10,2009-09-15,V,UCL,C,Real Madrid,(F),FC Zurich,2-5,90,2,408,154
+2009/10,2009-09-20,V,D1,R3,Real Madrid,(C),Xerez,5-0,79,2,409,156
+2009/10,2009-09-23,V,D1,R4,Real Madrid,(F),Villarreal,0-2,90,1,410,157
+2009/10,2009-09-26,V,D1,R5,Real Madrid,(C),Tenerife,3-0,80,0,411,157
+2009/10,2009-09-30,V,UCL,C,Real Madrid,(C),Marseille,3-0,70,2,412,159
+2009/10,2009-10-10,V,ECM,1,Portugal,(C),Hungria,3-0,27,0,413,159
+2009/10,2009-11-25,V,UCL,C,Real Madrid,(C),FC Zurich,1-0,20,0,414,159
+2009/10,2009-11-29,D,D1,R12,Real Madrid,(F),Barcelona,1-0,66,0,415,159
+2009/10,2009-12-05,V,D1,R13,Real Madrid,(C),Almería,4-2,88,1,416,160
+2009/10,2009-12-08,V,UCL,C,Real Madrid,(F),Marseille,1-3,90,2,417,162
+2009/10,2009-12-19,V,D1,R15,Real Madrid,(C),Real Zaragoza,6-0,90,1,418,163
+2009/10,2010-01-03,E,D1,R16,Real Madrid,(F),Osasuna,0-0,90,0,419,163
+2009/10,2010-01-10,V,D1,R17,Real Madrid,(C),Mallorca,2-0,90,0,420,163
+2009/10,2010-01-16,D,D1,R18,Real Madrid,(F),Athletic Bilbao,1-0,90,0,421,163
+2009/10,2010-01-24,V,D1,R19,Real Madrid,(C),Málaga,2-0,70,2,422,165
+2009/10,2010-02-13,V,D1,R22,Real Madrid,(F),Xerez,0-3,90,2,423,167
+2009/10,2010-02-16,D,UCL,1/8,Real Madrid,(F),Lyon,1-0,90,0,424,167
+2009/10,2010-02-21,V,D1,R23,Real Madrid,(C),Villarreal,6-2,90,1,425,168
+2009/10,2010-02-27,V,D1,R24,Real Madrid,(F),Tenerife,1-5,90,1,426,169
+2009/10,2010-03-03,V,AMI,JA,Portugal,(C),China,2-0,45,0,427,169
+2009/10,2010-03-06,V,D1,R25,Real Madrid,(C),Sevilla,3-2,90,1,428,170
+2009/10,2010-03-10,E,UCL,1/8,Real Madrid,(C),Lyon,1-1,90,1,429,171
+2009/10,2010-03-14,V,D1,R26,Real Madrid,(F),Valladolid,1-4,90,1,430,172
+2009/10,2010-03-20,V,D1,R27,Real Madrid,(C),Sporting Gijón,3-1,90,0,431,172
+2009/10,2010-03-25,V,D1,R28,Real Madrid,(F),Getafe,2-4,90,2,432,174
+2009/10,2010-03-28,V,D1,R29,Real Madrid,(C),Atlético de Madrid,3-2,90,0,433,174
+2009/10,2010-04-04,V,D1,R30,Real Madrid,(F),Racing Santander,0-2,90,1,434,175
+2009/10,2010-04-10,D,D1,R31,Real Madrid,(C),Barcelona,0-2,90,0,435,175
+2009/10,2010-04-15,V,D1,R32,Real Madrid,(F),Almería,1-2,90,1,436,176
+2009/10,2010-04-18,V,D1,R33,Real Madrid,(C),Valencia,2-0,90,1,437,177
+2009/10,2010-04-24,V,D1,R34,Real Madrid,(F),Real Zaragoza,1-2,90,0,438,177
+2009/10,2010-05-02,V,D1,R35,Real Madrid,(C),Osasuna,3-2,90,2,439,179
+2009/10,2010-05-05,V,D1,R36,Real Madrid,(F),Mallorca,1-4,83,3,440,182
+2009/10,2010-05-08,V,D1,R37,Real Madrid,(C),Athletic Bilbao,5-1,90,1,441,183
+2009/10,2010-05-16,E,D1,R38,Real Madrid,(F),Málaga,1-1,90,0,442,183
+2009/10,2010-05-23,E,AMI,JA,Portugal,(C),Cabo Verde,0-0,90,0,443,183
+2009/10,2010-06-01,V,AMI,JA,Portugal,(C),Camarões,3-1,90,0,444,183
+2009/10,2010-06-08,V,AMI,JA,Portugal,(F),Moçambique,0-3,27,0,445,183
+2009/10,2010-06-15,E,CM,G,Portugal,(N),Costa do Marfim,0-0,90,0,446,183
+2009/10,2010-06-21,V,CM,G,Portugal,(N),Coreia do Norte,7-0,90,1,447,184
+2009/10,2010-06-25,E,CM,G,Portugal,(N),Brasil,0-0,90,0,448,184
+2009/10,2010-06-29,D,CM,1/8,Portugal,(N),Espanha,1-0,90,0,449,184
+2010/11,2010-08-29,E,D1,R1,Real Madrid,(F),Mallorca,0-0,90,0,450,184
+2010/11,2010-09-11,V,D1,R2,Real Madrid,(C),Osasuna,1-0,90,0,451,184
+2010/11,2010-09-15,V,UCL,G,Real Madrid,(C),Ajax,2-0,90,0,452,184
+2010/11,2010-09-18,V,D1,R3,Real Madrid,(F),Real Sociedad,1-2,90,0,453,184
+2010/11,2010-09-21,V,D1,R4,Real Madrid,(C),Espanyol,3-0,90,1,454,185
+2010/11,2010-09-25,E,D1,R5,Real Madrid,(F),Levante,0-0,90,0,455,185
+2010/11,2010-09-28,V,UCL,G,Real Madrid,(F),Auxerre,0-1,90,0,456,185
+2010/11,2010-10-03,V,D1,R6,Real Madrid,(C),Deportivo,6-1,90,2,457,187
+2010/11,2010-10-08,V,EE,H,Portugal,(C),Dinamarca,3-1,90,1,458,188
+2010/11,2010-10-12,V,EE,H,Portugal,(F),Islândia,1-3,90,1,459,189
+2010/11,2010-10-16,V,D1,R7,Real Madrid,(F),Málaga,1-4,90,2,460,191
+2010/11,2010-10-19,V,UCL,G,Real Madrid,(C),Milan,2-0,90,1,461,192
+2010/11,2010-10-23,V,D1,R8,Real Madrid,(C),Racing Santander,6-1,90,4,462,196
+2010/11,2010-10-26,E,CR,4R,Real Madrid,(F),Real Murcia,0-0,69,0,463,196
+2010/11,2010-10-30,V,D1,R9,Real Madrid,(F),Hércules,1-3,90,2,464,198
+2010/11,2010-11-03,E,UCL,G,Real Madrid,(F),Milan,2-2,90,0,465,198
+2010/11,2010-11-07,V,D1,R10,Real Madrid,(C),Atlético de Madrid,2-0,90,0,466,198
+2010/11,2010-11-10,V,CR,4R,Real Madrid,(C),Real Murcia,5-1,45,1,467,199
+2010/11,2010-11-14,V,D1,R11,Real Madrid,(F),Sporting Gijón,0-1,90,0,468,199
+2009/10,2010-11-17,V,AMI,JA,Portugal,(C),Espanha,4-0,45,0,469,199
+2010/11,2010-11-20,V,D1,R12,Real Madrid,(C),Athletic Bilbao,5-1,90,3,470,202
+2010/11,2010-11-23,V,UCL,G,Real Madrid,(F),Ajax,0-4,90,2,471,204
+2010/11,2010-11-29,D,D1,R13,Real Madrid,(F),Barcelona,5-0,90,0,472,204
+2010/11,2010-12-04,V,D1,R14,Real Madrid,(C),Valencia,2-0,90,2,473,206
+2010/11,2010-12-08,V,UCL,G,Real Madrid,(C),Auxerre,4-0,72,1,474,207
+2010/11,2010-12-12,V,D1,R15,Real Madrid,(F),Real Zaragoza,1-3,90,1,475,208
+2010/11,2010-12-19,V,D1,R16,Real Madrid,(C),Sevilla,1-0,90,0,476,208
+2010/11,2010-12-22,V,CR,1/8,Real Madrid,(C),Levante,8-0,90,3,477,211
+2010/11,2011-01-03,V,D1,R17,Real Madrid,(F),Getafe,2-3,90,2,478,213
+2010/11,2011-01-09,V,D1,R18,Real Madrid,(C),Villarreal,4-2,90,3,479,216
+2010/11,2011-01-13,V,CR,QF,Real Madrid,(C),Atlético de Madrid,3-1,90,1,480,217
+2010/11,2011-01-16,E,D1,R19,Real Madrid,(F),Almería,1-1,90,0,481,217
+2010/11,2011-01-20,V,CR,QF,Real Madrid,(F),Atlético de Madrid,0-1,90,1,482,218
+2010/11,2011-01-23,V,D1,R20,Real Madrid,(C),Mallorca,1-0,90,0,483,218
+2010/11,2011-01-26,V,CR,SF,Real Madrid,(F),Sevilla,0-1,90,0,484,218
+2010/11,2011-01-30,D,D1,R21,Real Madrid,(F),Osasuna,1-0,90,0,485,218
+2010/11,2011-02-02,V,CR,SF,Real Madrid,(C),Sevilla,2-0,90,0,486,218
+2010/11,2011-02-06,V,D1,R22,Real Madrid,(C),Real Sociedad,4-1,90,2,487,220
+2010/11,2011-02-09,D,AMI,JA,Portugal,(C),Argentina,1-2,60,1,488,221
+2010/11,2011-02-13,V,D1,R23,Real Madrid,(F),Espanyol,0-1,90,0,489,221
+2010/11,2011-02-19,V,D1,R24,Real Madrid,(C),Levante,2-0,90,0,490,221
+2010/11,2011-02-22,E,UCL,1/8,Real Madrid,(F),Lyon,1-1,90,0,491,221
+2010/11,2011-02-26,E,D1,R25,Real Madrid,(F),Deportivo,0-0,90,0,492,221
+2010/11,2011-03-03,V,D1,R26,Real Madrid,(C),Málaga,7-0,90,3,493,224
+2010/11,2011-03-16,V,UCL,1/8,Real Madrid,(C),Lyon,3-0,74,0,494,224
+2010/11,2011-03-19,V,D1,R29,Real Madrid,(F),Atlético de Madrid,1-2,72,0,495,224
+2010/11,2011-04-05,V,UCL,QF,Real Madrid,(C),Tottenham,4-0,90,1,496,225
+2010/11,2011-04-09,V,D1,R31,Real Madrid,(F),Athletic Bilbao,0-3,29,1,497,226
+2010/11,2011-04-13,V,UCL,QF,Real Madrid,(F),Tottenham,0-1,65,1,498,227
+2010/11,2011-04-16,E,D1,R32,Real Madrid,(C),Barcelona,1-1,90,1,499,228
+2010/11,2011-04-20,V,CR,F,Real Madrid,(N),Barcelona,0-1 (a.p.),120,1,500,229
+2010/11,2011-04-23,V,D1,R33,Real Madrid,(F),Valencia,3-6,23,0,501,229
+2010/11,2011-04-27,D,UCL,SF,Real Madrid,(C),Barcelona,0-2,90,0,502,229
+2010/11,2011-05-03,E,UCL,SF,Real Madrid,(F),Barcelona,1-1,90,0,503,229
+2010/11,2011-05-07,V,D1,R35,Real Madrid,(F),Sevilla,2-6,90,4,504,233
+2010/11,2011-05-10,V,D1,R36,Real Madrid,(C),Getafe,4-0,90,3,505,236
+2010/11,2011-05-15,V,D1,R37,Real Madrid,(F),Villarreal,1-3,90,2,506,238
+2010/11,2011-05-21,V,D1,R38,Real Madrid,(C),Almería,8-1,90,2,507,240
+2010/11,2011-06-04,V,EE,H,Portugal,(C),Noruega,1-0,90,0,508,240
+2010/11,2011-08-10,V,AMI,JA,Portugal,(C),Luxemburgo,5-0,45,1,509,241
+2011/12,2011-08-14,E,SC,F,Real Madrid,(C),Barcelona,2-2,90,0,510,241
+2011/12,2011-08-17,D,SC,F,Real Madrid,(F),Barcelona,3-2,90,1,511,242
+2011/12,2011-08-28,V,D1,R2,Real Madrid,(F),Real Zaragoza,0-6,90,3,512,245
+2011/12,2011-09-02,V,EE,H,Portugal,(F),Chipre,0-4,90,2,513,247
+2011/12,2011-09-10,V,D1,R3,Real Madrid,(C),Getafe,4-2,90,1,514,248
+2011/12,2011-09-14,V,UCL,D,Real Madrid,(F),Dinamo Zagreb,0-1,90,0,515,248
+2011/12,2011-09-18,D,D1,R4,Real Madrid,(F),Levante,1-0,45,0,516,248
+2011/12,2011-09-21,E,D1,R5,Real Madrid,(F),Racing Santander,0-0,90,0,517,248
+2011/12,2011-09-24,V,D1,R6,Real Madrid,(C),Rayo Vallecano,6-2,90,3,518,251
+2011/12,2011-09-27,V,UCL,D,Real Madrid,(C),Ajax,3-0,90,1,519,252
+2011/12,2011-10-02,V,D1,R7,Real Madrid,(F),Espanyol,0-4,90,0,520,252
+2011/12,2011-10-07,V,EE,H,Portugal,(C),Islândia,5-3,90,0,521,252
+2011/12,2011-10-11,D,EE,H,Portugal,(F),Dinamarca,2-1,90,1,522,253
+2011/12,2011-10-15,V,D1,R8,Real Madrid,(C),Real Betis,4-1,78,0,523,253
+2011/12,2011-10-18,V,UCL,D,Real Madrid,(C),Lyon,4-0,90,0,524,253
+2011/12,2011-10-22,V,D1,R9,Real Madrid,(F),Málaga,0-4,90,3,525,256
+2011/12,2011-10-26,V,D1,R10,Real Madrid,(C),Villarreal,3-0,90,0,526,256
+2011/12,2011-10-29,V,D1,R11,Real Madrid,(F),Real Sociedad,0-1,90,0,527,256
+2011/12,2011-11-02,V,UCL,D,Real Madrid,(F),Lyon,0-2,90,2,528,258
+2011/12,2011-11-06,V,D1,R12,Real Madrid,(C),Osasuna,7-1,90,3,529,261
+2011/12,2011-11-11,E,EE,POff,Portugal,(F),Bósnia-Herzgovina,0-0,90,0,530,261
+2011/12,2011-11-15,V,EE,POff,Portugal,(C),Bósnia-Herzgovina,6-2,90,2,531,263
+2011/12,2011-11-19,V,D1,R13,Real Madrid,(F),Valencia,2-3,90,1,532,264
+2011/12,2011-11-26,V,D1,R14,Real Madrid,(C),Atlético de Madrid,4-1,90,2,533,266
+2011/12,2011-12-03,V,D1,R15,Real Madrid,(F),Sporting Gijón,0-3,90,1,534,267
+2011/12,2011-12-10,D,D1,R16,Real Madrid,(C),Barcelona,1-3,90,0,535,267
+2011/12,2011-12-13,V,CR,4R,Real Madrid,(F),Ponferradina,0-2,78,1,536,268
+2011/12,2011-12-17,V,D1,R17,Real Madrid,(F),Sevilla,2-6,90,3,537,271
+2011/12,2012-01-03,V,CR,1/8,Real Madrid,(C),Málaga,3-2,90,0,538,271
+2011/12,2012-01-07,V,D1,R18,Real Madrid,(C),Granada,5-1,90,1,539,272
+2011/12,2012-01-10,V,CR,1/8,Real Madrid,(F),Málaga,0-1,90,0,540,272
+2011/12,2012-01-14,V,D1,R19,Real Madrid,(F),Mallorca,1-2,90,0,541,272
+2011/12,2012-01-18,D,CR,QF,Real Madrid,(C),Barcelona,1-2,90,1,542,273
+2011/12,2012-01-22,V,D1,R1,Real Madrid,(C),Athletic Bilbao,4-1,90,2,543,275
+2011/12,2012-01-25,E,CR,QF,Real Madrid,(F),Barcelona,2-2,90,1,544,276
+2011/12,2012-01-28,V,D1,R21,Real Madrid,(C),Real Zaragoza,3-1,90,1,545,277
+2011/12,2012-02-04,V,D1,R22,Real Madrid,(F),Getafe,0-1,90,0,546,277
+2011/12,2012-02-12,V,D1,R23,Real Madrid,(C),Levante,4-2,90,3,547,280
+2011/12,2012-02-18,V,D1,R24,Real Madrid,(C),Racing Santander,4-0,90,1,548,281
+2011/12,2012-02-21,E,UCL,1/8,Real Madrid,(F),CSKA Moskva,1-1,90,1,549,282
+2011/12,2012-02-26,V,D1,R25,Real Madrid,(F),Rayo Vallecano,0-1,90,1,550,283
+2011/12,2012-02-29,E,AMI,JA,Portugal,(F),Polônia,0-0,76,0,551,283
+2011/12,2012-03-04,V,D1,R26,Real Madrid,(C),Espanyol,5-0,90,1,552,284
+2011/12,2012-03-10,V,D1,R27,Real Madrid,(F),Real Betis,2-3,90,2,553,286
+2011/12,2012-03-14,V,UCL,1/8,Real Madrid,(C),CSKA Moskva,4-1,90,2,554,288
+2011/12,2012-03-18,E,D1,R28,Real Madrid,(C),Málaga,1-1,90,0,555,288
+2011/12,2012-03-21,E,D1,R29,Real Madrid,(F),Villarreal,1-1,90,1,556,289
+2011/12,2012-03-24,V,D1,R30,Real Madrid,(C),Real Sociedad,5-1,81,2,557,291
+2011/12,2012-03-27,V,UCL,QF,Real Madrid,(F),APOEL,0-3,90,0,558,291
+2011/12,2012-03-31,V,D1,R31,Real Madrid,(F),Osasuna,1-5,90,2,559,293
+2011/12,2012-04-04,V,UCL,QF,Real Madrid,(C),APOEL,5-2,90,2,560,295
+2011/12,2012-04-08,E,D1,R32,Real Madrid,(C),Valencia,0-0,90,0,561,295
+2011/12,2012-04-11,V,D1,R33,Real Madrid,(F),Atlético de Madrid,1-4,90,3,562,298
+2011/12,2012-04-14,V,D1,R34,Real Madrid,(C),Sporting Gijón,3-1,90,1,563,299
+2011/12,2012-04-17,D,UCL,SF,Real Madrid,(F),Bayern München,2-1,90,0,564,299
+2011/12,2012-04-21,V,D1,R35,Real Madrid,(F),Barcelona,1-2,90,1,565,300
+2011/12,2012-04-25,V,UCL,SF,Real Madrid,(C),Bayern München,2-1 (1-3)g.p.,90,2,566,302
+2011/12,2012-04-29,V,D1,R36,Real Madrid,(C),Sevilla,3-0,90,1,567,303
+2011/12,2012-05-02,V,D1,R20,Real Madrid,(F),Athletic Bilbao,0-3,90,1,568,304
+2011/12,2012-05-05,V,D1,R37,Real Madrid,(F),Granada,1-2,90,1,569,305
+2011/12,2012-05-13,V,D1,R38,Real Madrid,(C),Mallorca,4-1,90,1,570,306
+2011/12,2012-05-26,E,AMI,JA,Portugal,(C),Macedônia do Norte,0-0,72,0,571,306
+2011/12,2012-06-02,D,AMI,JA,Portugal,(C),Turquia,1-3,90,0,572,306
+2011/12,2012-06-09,D,EU,B,Portugal,(N),Alemanha,1-0,90,0,573,306
+2011/12,2012-06-13,V,EU,B,Portugal,(N),Dinamarca,2-3,90,0,574,306
+2011/12,2012-06-17,V,EU,B,Portugal,(N),Holanda,2-1,90,2,575,308
+2011/12,2012-06-21,V,EU,QF,Portugal,(N),Rep. Tcheca,0-1,90,1,576,309
+2011/12,2012-06-27,E,EU,SF,Portugal,(N),Espanha,0-0 (2-4)g.p.,120,0,577,309
+2011/12,2012-08-15,V,AMI,JA,Portugal,(C),Panamá,2-0,61,1,578,310
+2012/13,2012-08-19,E,D1,R1,Real Madrid,(C),Valencia,1-1,90,0,579,310
+2012/13,2012-08-23,D,SC,F,Real Madrid,(F),Barcelona,3-2,90,1,580,311
+2012/13,2012-08-26,D,D1,R2,Real Madrid,(F),Getafe,2-1,90,0,581,311
+2012/13,2012-08-29,V,SC,F,Real Madrid,(C),Barcelona,2-1,90,1,582,312
+2012/13,2012-09-02,V,D1,R3,Real Madrid,(C),Granada,3-0,64,2,583,314
+2013/14,2012-09-07,V,ECM,F,Portugal,(F),Luxemburgo,1-2,90,1,584,315
+2013/14,2012-09-11,V,ECM,F,Portugal,(C),Azerbaijão,3-0,90,0,585,315
+2012/13,2012-09-15,D,D1,R4,Real Madrid,(F),Sevilla,1-0,90,0,586,315
+2012/13,2012-09-18,V,UCL,D,Real Madrid,(C),Manchester City,3-2,90,1,587,316
+2012/13,2012-09-24,V,D1,R5,Real Madrid,(F),Rayo Vallecano,0-2,90,1,588,317
+2012/13,2012-09-30,V,D1,R6,Real Madrid,(C),Deportivo,5-1,90,3,589,320
+2012/13,2012-10-03,V,UCL,D,Real Madrid,(F),Ajax,1-4,90,3,590,323
+2012/13,2012-10-07,E,D1,R7,Real Madrid,(F),Barcelona,2-2,90,2,591,325
+2013/14,2012-10-12,D,ECM,F,Portugal,(F),Rússia,1-0,90,0,592,325
+2013/14,2012-10-16,E,ECM,F,Portugal,(C),Irlanda do Norte,1-1,90,0,593,325
+2012/13,2012-10-20,V,D1,R8,Real Madrid,(C),Celta de Vigo,2-0,90,1,594,326
+2012/13,2012-10-24,D,UCL,D,Real Madrid,(F),Borussia Dortmund,2-1,90,1,595,327
+2012/13,2012-10-28,V,D1,R9,Real Madrid,(F),Mallorca,0-5,90,2,596,329
+2012/13,2012-11-03,V,D1,R10,Real Madrid,(C),Real Zaragoza,4-0,90,0,597,329
+2012/13,2012-11-06,E,UCL,D,Real Madrid,(C),Borussia Dortmund,2-2,90,0,598,329
+2012/13,2012-11-11,V,D1,R11,Real Madrid,(F),Levante,1-2,45,1,599,330
+2012/13,2012-11-17,V,D1,R12,Real Madrid,(C),Athletic Bilbao,5-1,90,0,600,330
+2012/13,2012-11-21,E,UCL,D,Real Madrid,(F),Manchester City,1-1,90,0,601,330
+2012/13,2012-11-24,D,D1,R13,Real Madrid,(F),Real Betis,1-0,90,0,602,330
+2012/13,2012-12-01,V,D1,R14,Real Madrid,(C),Atlético de Madrid,2-0,90,1,603,331
+2012/13,2012-12-04,V,UCL,D,Real Madrid,(C),Ajax,4-1,90,1,604,332
+2012/13,2012-12-08,V,D1,R15,Real Madrid,(F),Valladolid,2-3,90,0,605,332
+2012/13,2012-12-12,D,CR,1/8,Real Madrid,(F),Celta de Vigo,2-1,90,1,606,333
+2012/13,2012-12-16,E,D1,R16,Real Madrid,(C),Espanyol,2-2,90,1,607,334
+2012/13,2012-12-22,D,D1,R17,Real Madrid,(F),Málaga,3-2,90,0,608,334
+2012/13,2013-01-06,V,D1,R18,Real Madrid,(C),Real Sociedad,4-3,90,2,609,336
+2012/13,2013-01-09,V,CR,1/8,Real Madrid,(C),Celta de Vigo,4-0,90,3,610,339
+2012/13,2013-01-15,V,CR,QF,Real Madrid,(C),Valencia,2-0,90,0,611,339
+2012/13,2013-01-20,V,D1,R20,Real Madrid,(F),Valencia,0-5,90,2,612,341
+2012/13,2013-01-23,E,CR,QF,Real Madrid,(F),Valencia,1-1,90,0,613,341
+2012/13,2013-01-27,V,D1,R21,Real Madrid,(C),Getafe,4-0,73,3,614,344
+2012/13,2013-01-30,E,CR,SF,Real Madrid,(C),Barcelona,1-1,90,0,615,344
+2012/13,2013-02-02,D,D1,R22,Real Madrid,(F),Granada,1-0,90,0,616,344
+2012/13,2013-02-06,D,AMI,JA,Portugal,(C),Equador,2-3,62,1,617,345
+2012/13,2013-02-09,V,D1,R23,Real Madrid,(C),Sevilla,4-1,63,3,618,348
+2012/13,2013-02-13,E,UCL,1/8,Real Madrid,(C),Manchester United,1-1,90,1,619,349
+2012/13,2013-02-17,V,D1,R24,Real Madrid,(C),Rayo Vallecano,2-0,90,0,620,349
+2012/13,2013-02-23,V,D1,R25,Real Madrid,(F),Deportivo,1-2,33,0,621,349
+2012/13,2013-02-26,V,CR,SF,Real Madrid,(F),Barcelona,1-3,90,2,622,351
+2012/13,2013-03-02,V,D1,R26,Real Madrid,(C),Barcelona,2-1,33,0,623,351
+2012/13,2013-03-05,V,UCL,1/8,Real Madrid,(F),Manchester United,1-2,90,1,624,352
+2012/13,2013-03-10,V,D1,R27,Real Madrid,(F),Celta de Vigo,1-2,90,2,625,354
+2012/13,2013-03-16,V,D1,R28,Real Madrid,(C),Mallorca,5-2,90,1,626,355
+2013/14,2013-03-22,E,ECM,F,Portugal,(F),Israel,3-3,90,0,627,355
+2012/13,2013-03-30,E,D1,R29,Real Madrid,(F),Real Zaragoza,1-1,90,1,628,356
+2012/13,2013-04-03,V,UCL,QF,Real Madrid,(C),Galatasaray,3-0,90,1,629,357
+2012/13,2013-04-06,V,D1,R30,Real Madrid,(C),Levante,5-1,45,1,630,358
+2012/13,2013-04-09,D,UCL,QF,Real Madrid,(F),Galatasaray,3-2,90,2,631,360
+2012/13,2013-04-14,V,D1,R31,Real Madrid,(F),Athletic Bilbao,0-3,79,2,632,362
+2012/13,2013-04-20,V,D1,R32,Real Madrid,(C),Real Betis,3-1,90,0,633,362
+2012/13,2013-04-24,D,UCL,SF,Real Madrid,(F),Borussia Dortmund,4-1,90,1,634,363
+2012/13,2013-04-30,V,UCL,SF,Real Madrid,(C),Borussia Dortmund,2-0,90,0,635,363
+2012/13,2013-05-04,V,D1,R34,Real Madrid,(C),Valladolid,4-3,90,2,636,365
+2012/13,2013-05-08,V,D1,R36,Real Madrid,(C),Málaga,6-2,90,1,637,366
+2012/13,2013-05-11,E,D1,R35,Real Madrid,(F),Espanyol,1-1,33,0,638,366
+2012/13,2013-05-17,D,CR,F,Real Madrid,(N),Atlético de Madrid,1-2 (a.p.),114,1,639,367
+2013/14,2013-06-07,V,ECM,F,Portugal,(C),Rússia,1-0,90,0,640,367
+2012/13,2013-06-10,V,AMI,JA,Portugal,(N),Croácia,0-1,45,1,641,368
+2012/13,2013-08-14,E,AMI,JA,Portugal,(C),Holanda,1-1,90,1,642,369
+2013/14,2013-08-18,V,D1,R1,Real Madrid,(C),Real Betis,2-1,90,0,643,369
+2013/14,2013-08-26,V,D1,R2,Real Madrid,(F),Granada,0-1,90,0,644,369
+2013/14,2013-09-01,V,D1,R3,Real Madrid,(C),Athletic Bilbao,3-1,90,1,645,370
+2013/14,2013-09-06,V,ECM,F,Portugal,(F),Irlanda do Norte,2-4,90,3,646,373
+2013/14,2013-09-14,E,D1,R4,Real Madrid,(F),Villarreal,2-2,90,1,647,374
+2013/14,2013-09-17,V,UCL,B,Real Madrid,(F),Galatasaray,1-6,90,3,648,377
+2013/14,2013-09-22,V,D1,R5,Real Madrid,(C),Getafe,4-1,90,2,649,379
+2013/14,2013-09-25,V,D1,R6,Real Madrid,(F),Elche,1-2,90,2,650,381
+2013/14,2013-09-28,D,D1,R7,Real Madrid,(C),Atlético de Madrid,0-1,90,0,651,381
+2013/14,2013-10-02,V,UCL,B,Real Madrid,(C),FC Kobenhavn,4-0,90,2,652,383
+2013/14,2013-10-05,V,D1,R8,Real Madrid,(F),Levante,2-3,90,1,653,384
+2013/14,2013-10-11,E,ECM,F,Portugal,(C),Israel,1-1,90,0,654,384
+2013/14,2013-10-19,V,D1,R9,Real Madrid,(C),Málaga,2-0,90,1,655,385
+2013/14,2013-10-23,V,UCL,B,Real Madrid,(C),Juventus,2-1,90,2,656,387
+2013/14,2013-10-26,D,D1,R10,Real Madrid,(F),Barcelona,2-1,90,0,657,387
+2013/14,2013-10-30,V,D1,R11,Real Madrid,(C),Sevilla,7-3,90,3,658,390
+2013/14,2013-11-02,V,D1,R12,Real Madrid,(F),Rayo Vallecano,2-3,90,2,659,392
+2013/14,2013-11-05,E,UCL,B,Real Madrid,(F),Juventus,2-2,90,1,660,393
+2013/14,2013-11-09,V,D1,R13,Real Madrid,(C),Real Sociedad,5-1,90,3,661,396
+2013/14,2013-11-15,V,ECM,POff,Portugal,(C),Suécia,1-0,90,1,662,397
+2013/14,2013-11-19,V,ECM,POff,Portugal,(F),Suécia,2-3,90,3,663,400
+2013/14,2013-11-23,V,D1,R14,Real Madrid,(F),Almería,0-5,54,1,664,401
+2013/14,2013-12-10,V,UCL,B,Real Madrid,(F),FC Kobenhavn,0-2,90,1,665,402
+2013/14,2013-12-14,E,D1,R16,Real Madrid,(F),Osasuna,2-2,90,0,666,402
+2013/14,2013-12-22,V,D1,R17,Real Madrid,(F),Valencia,2-3,90,1,667,403
+2013/14,2014-01-06,V,D1,R18,Real Madrid,(C),Celta de Vigo,3-0,90,2,668,405
+2013/14,2014-01-09,V,CR,1/8,Real Madrid,(C),Osasuna,2-0,90,0,669,405
+2013/14,2014-01-12,V,D1,R19,Real Madrid,(F),Espanyol,0-1,90,0,670,405
+2013/14,2014-01-15,V,CR,1/8,Real Madrid,(F),Osasuna,0-2,62,1,671,406
+2013/14,2014-01-18,V,D1,R20,Real Madrid,(F),Real Betis,0-5,90,1,672,407
+2013/14,2014-01-21,V,CR,QF,Real Madrid,(F),Espanyol,0-1,90,0,673,407
+2013/14,2014-01-25,V,D1,R21,Real Madrid,(C),Granada,2-0,90,1,674,408
+2013/14,2014-01-28,V,CR,QF,Real Madrid,(C),Espanyol,1-0,90,0,675,408
+2013/14,2014-02-02,E,D1,R22,Real Madrid,(F),Athletic Bilbao,1-1,75,0,676,408
+2013/14,2014-02-05,V,CR,SF,Real Madrid,(C),Atlético de Madrid,3-0,90,0,677,408
+2013/14,2014-02-11,V,CR,SF,Real Madrid,(F),Atlético de Madrid,0-2,75,2,678,410
+2013/14,2014-02-26,V,UCL,1/8,Real Madrid,(F),Schalke 04,1-6,90,2,679,412
+2013/14,2014-03-02,E,D1,R26,Real Madrid,(F),Atlético de Madrid,2-2,90,1,680,413
+2013/14,2014-03-05,V,AMI,JA,Portugal,(C),Camarões,5-1,87,2,681,415
+2013/14,2014-03-09,V,D1,R27,Real Madrid,(C),Levante,3-0,90,1,682,416
+2013/14,2014-03-15,V,D1,R28,Real Madrid,(F),Málaga,0-1,90,1,683,417
+2013/14,2014-03-18,V,UCL,1/8,Real Madrid,(C),Schalke 04,3-1,90,2,684,419
+2013/14,2014-03-23,D,D1,R29,Real Madrid,(C),Barcelona,3-4,90,1,685,420
+2013/14,2014-03-26,D,D1,R30,Real Madrid,(F),Sevilla,2-1,90,1,686,421
+2013/14,2014-03-29,V,D1,R31,Real Madrid,(C),Rayo Vallecano,5-0,90,1,687,422
+2013/14,2014-04-02,V,UCL,QF,Real Madrid,(C),Borussia Dortmund,3-0,80,1,688,423
+2013/14,2014-04-23,V,UCL,SF,Real Madrid,(C),Bayern München,1-0,73,0,689,423
+2013/14,2014-04-26,V,D1,R35,Real Madrid,(C),Osasuna,4-0,62,2,690,425
+2013/14,2014-04-29,V,UCL,SF,Real Madrid,(F),Bayern München,0-4,90,2,691,427
+2013/14,2014-05-04,E,D1,R36,Real Madrid,(C),Valencia,2-2,90,1,692,428
+2013/14,2014-05-07,E,D1,R34,Real Madrid,(F),Valladolid,1-1,9,0,693,428
+2013/14,2014-05-24,V,UCL,F,Real Madrid,(N),Atlético de Madrid,4-1 (a.p.),120,1,694,429
+2013/14,2014-06-10,V,AMI,JA,Portugal,(N),Rep. Irlanda,5-1,65,0,695,429
+2013/14,2014-06-16,D,CM,G,Portugal,(F),Alemanha,4-0,90,0,696,429
+2013/14,2014-06-22,E,CM,G,Portugal,(N),Estados Unidos,2-2,90,0,697,429
+2013/14,2014-06-26,V,CM,G,Portugal,(C),Gana,2-1,90,1,698,430
+2014/15,2014-08-12,V,SCE,F,Real Madrid,(N),Sevilla,2-0,90,2,699,432
+2014/15,2014-08-19,E,SC,F,Real Madrid,(C),Atlético de Madrid,1-1,45,0,700,432
+2014/15,2014-08-22,D,SC,F,Real Madrid,(F),Atlético de Madrid,1-0,45,0,701,432
+2014/15,2014-08-25,V,D1,R1,Real Madrid,(C),Córdoba,2-0,90,1,702,433
+2014/15,2014-09-13,D,D1,R3,Real Madrid,(C),Atlético de Madrid,1-2,90,1,703,434
+2014/15,2014-09-16,V,UCL,B,Real Madrid,(C),FC Basel,5-1,90,1,704,435
+2014/15,2014-09-20,V,D1,R4,Real Madrid,(F),Deportivo,2-8,90,3,705,438
+2014/15,2014-09-23,V,D1,R5,Real Madrid,(C),Elche,5-1,90,4,706,442
+2014/15,2014-09-27,V,D1,R6,Real Madrid,(F),Villarreal,0-2,90,1,707,443
+2014/15,2014-10-01,V,UCL,B,Real Madrid,(F),Ludogorets Razgrad,1-2,90,1,708,444
+2014/15,2014-10-05,V,D1,R7,Real Madrid,(C),Athletic Bilbao,5-0,90,3,709,447
+2013/14,2014-10-11,D,AMI,JA,Portugal,(F),França,2-1,76,0,710,447
+2014/15,2014-10-14,V,EE,I,Portugal,(F),Dinamarca,0-1,90,1,711,448
+2014/15,2014-10-18,V,D1,R8,Real Madrid,(F),Levante,0-5,90,2,712,450
+2014/15,2014-10-22,V,UCL,B,Real Madrid,(F),Liverpool,0-3,75,1,713,451
+2014/15,2014-10-25,V,D1,R9,Real Madrid,(C),Barcelona,3-1,90,1,714,452
+2014/15,2014-11-01,V,D1,R10,Real Madrid,(F),Granada,0-4,90,1,715,453
+2014/15,2014-11-04,V,UCL,B,Real Madrid,(C),Liverpool,1-0,90,0,716,453
+2014/15,2014-11-08,V,D1,R11,Real Madrid,(C),Rayo Vallecano,5-1,90,1,717,454
+2014/15,2014-11-14,V,EE,I,Portugal,(C),Armênia,1-0,90,1,718,455
+2013/14,2014-11-18,V,AMI,JA,Portugal,(C),Argentina,1-0,45,0,719,455
+2014/15,2014-11-22,V,D1,R12,Real Madrid,(F),Eibar,0-4,84,2,720,457
+2014/15,2014-11-26,V,UCL,B,Real Madrid,(F),FC Basel,0-1,90,1,721,458
+2014/15,2014-11-29,V,D1,R13,Real Madrid,(F),Málaga,1-2,90,0,722,458
+2014/15,2014-12-06,V,D1,R14,Real Madrid,(C),Celta de Vigo,3-0,85,3,723,461
+2014/15,2014-12-09,V,UCL,B,Real Madrid,(C),Ludogorets Razgrad,4-0,90,1,724,462
+2014/15,2014-12-12,V,D1,R15,Real Madrid,(F),Almería,1-4,90,2,725,464
+2013/14,2014-12-16,V,MC,SF,Real Madrid,(N),Cruz Azul,0-4,90,0,726,464
+2013/14,2014-12-20,V,MC,F,Real Madrid,(N),San Lorenzo,2-0,90,0,727,464
+2014/15,2015-01-04,D,D1,R17,Real Madrid,(F),Valencia,2-1,90,1,728,465
+2014/15,2015-01-07,D,CR,1/8,Real Madrid,(F),Atlético de Madrid,2-0,27,0,729,465
+2014/15,2015-01-10,V,D1,R18,Real Madrid,(C),Espanyol,3-0,90,0,730,465
+2014/15,2015-01-15,E,CR,1/8,Real Madrid,(C),Atlético de Madrid,2-2,90,1,731,466
+2014/15,2015-01-18,V,D1,R19,Real Madrid,(F),Getafe,0-3,90,2,732,468
+2014/15,2015-01-24,V,D1,R20,Real Madrid,(F),Córdoba,1-2,82,0,733,468
+2014/15,2015-02-07,D,D1,R22,Real Madrid,(F),Atlético de Madrid,4-0,90,0,734,468
+2014/15,2015-02-14,V,D1,R23,Real Madrid,(C),Deportivo,2-0,90,0,735,468
+2014/15,2015-02-18,V,UCL,1/8,Real Madrid,(F),Schalke 04,0-2,90,1,736,469
+2014/15,2015-02-22,V,D1,R24,Real Madrid,(F),Elche,0-2,90,1,737,470
+2014/15,2015-03-01,E,D1,R25,Real Madrid,(C),Villarreal,1-1,90,1,738,471
+2014/15,2015-03-07,D,D1,R26,Real Madrid,(F),Athletic Bilbao,1-0,90,0,739,471
+2014/15,2015-03-10,D,UCL,1/8,Real Madrid,(C),Schalke 04,3-4,90,2,740,473
+2014/15,2015-03-15,V,D1,R27,Real Madrid,(C),Levante,2-0,90,0,741,473
+2014/15,2015-03-22,D,D1,R28,Real Madrid,(F),Barcelona,2-1,90,1,742,474
+2014/15,2015-03-29,V,EE,I,Portugal,(C),Sérvia,2-1,90,0,743,474
+2014/15,2015-04-05,V,D1,R29,Real Madrid,(C),Granada,9-1,90,5,744,479
+2014/15,2015-04-08,V,D1,R30,Real Madrid,(F),Rayo Vallecano,0-2,90,1,745,480
+2014/15,2015-04-11,V,D1,R31,Real Madrid,(C),Eibar,3-0,90,1,746,481
+2014/15,2015-04-14,E,UCL,QF,Real Madrid,(F),Atlético de Madrid,0-0,90,0,747,481
+2014/15,2015-04-18,V,D1,R32,Real Madrid,(C),Málaga,3-1,90,1,748,482
+2014/15,2015-04-22,V,UCL,QF,Real Madrid,(C),Atlético de Madrid,1-0,90,0,749,482
+2014/15,2015-04-26,V,D1,R33,Real Madrid,(F),Celta de Vigo,2-4,90,0,750,482
+2014/15,2015-04-29,V,D1,R34,Real Madrid,(C),Almería,3-0,90,0,751,482
+2014/15,2015-05-02,V,D1,R35,Real Madrid,(F),Sevilla,2-3,90,3,752,485
+2014/15,2015-05-05,D,UCL,SF,Real Madrid,(F),Juventus,2-1,90,1,753,486
+2014/15,2015-05-09,E,D1,R36,Real Madrid,(C),Valencia,2-2,90,0,754,486
+2014/15,2015-05-13,E,UCL,SF,Real Madrid,(C),Juventus,1-1,90,1,755,487
+2014/15,2015-05-17,V,D1,R37,Real Madrid,(F),Espanyol,1-4,90,3,756,490
+2014/15,2015-05-23,V,D1,R38,Real Madrid,(C),Getafe,7-3,58,3,757,493
+2014/15,2015-06-13,V,EE,I,Portugal,(F),Armênia,2-3,90,3,758,496
+2015/16,2015-08-23,E,D1,R1,Real Madrid,(F),Sporting Gijón,0-0,90,0,759,496
+2015/16,2015-08-29,V,D1,R2,Real Madrid,(C),Real Betis,5-0,90,0,760,496
+2014/15,2015-09-04,D,AMI,JA,Portugal,(C),França,0-1,68,0,761,496
+2015/16,2015-09-07,V,EE,I,Portugal,(F),Albânia,0-1,90,0,762,496
+2015/16,2015-09-12,V,D1,R3,Real Madrid,(F),Espanyol,0-6,90,5,763,501
+2015/16,2015-09-15,V,UCL,A,Real Madrid,(C),Shakhtar Donetsk,4-0,90,3,764,504
+2015/16,2015-09-19,V,D1,R4,Real Madrid,(C),Granada,1-0,90,0,765,504
+2015/16,2015-09-23,V,D1,R5,Real Madrid,(F),Athletic Bilbao,1-2,90,0,766,504
+2015/16,2015-09-26,E,D1,R6,Real Madrid,(C),Málaga,0-0,90,0,767,504
+2015/16,2015-09-30,V,UCL,A,Real Madrid,(F),Malmö,0-2,90,2,768,506
+2015/16,2015-10-04,E,D1,R7,Real Madrid,(F),Atlético de Madrid,1-1,90,0,769,506
+2015/16,2015-10-08,V,EE,I,Portugal,(C),Dinamarca,1-0,90,0,770,506
+2015/16,2015-10-17,V,D1,R8,Real Madrid,(C),Levante,3-0,90,1,771,507
+2015/16,2015-10-21,E,UCL,A,Real Madrid,(F),PSG,0-0,90,0,772,507
+2015/16,2015-10-24,V,D1,R9,Real Madrid,(F),Celta de Vigo,1-3,90,1,773,508
+2015/16,2015-10-31,V,D1,R10,Real Madrid,(C),Las Palmas,3-1,90,1,774,509
+2015/16,2015-11-03,V,UCL,A,Real Madrid,(C),PSG,1-0,90,0,775,509
+2015/16,2015-11-08,D,D1,R11,Real Madrid,(F),Sevilla,3-2,90,0,776,509
+2015/16,2015-11-21,D,D1,R12,Real Madrid,(C),Barcelona,0-4,90,0,777,509
+2015/16,2015-11-25,V,UCL,A,Real Madrid,(F),Shakhtar Donetsk,3-4,90,2,778,511
+2015/16,2015-11-29,V,D1,R13,Real Madrid,(F),Eibar,0-2,90,1,779,512
+2015/16,2015-12-05,V,D1,R14,Real Madrid,(C),Getafe,4-1,90,1,780,513
+2015/16,2015-12-08,V,UCL,A,Real Madrid,(C),Malmö,8-0,90,4,781,517
+2015/16,2015-12-13,D,D1,R15,Real Madrid,(F),Villarreal,1-0,90,0,782,517
+2015/16,2015-12-20,V,D1,R16,Real Madrid,(C),Rayo Vallecano,10-2,90,2,783,519
+2015/16,2015-12-30,V,D1,R17,Real Madrid,(C),Real Sociedad,3-1,90,2,784,521
+2015/16,2016-01-03,E,D1,R18,Real Madrid,(F),Valencia,2-2,90,0,785,521
+2015/16,2016-01-09,V,D1,R19,Real Madrid,(C),Deportivo,5-0,90,0,786,521
+2015/16,2016-01-17,V,D1,R20,Real Madrid,(C),Sporting Gijón,5-1,90,2,787,523
+2015/16,2016-01-24,E,D1,R21,Real Madrid,(F),Real Betis,1-1,90,0,788,523
+2015/16,2016-01-31,V,D1,R22,Real Madrid,(C),Espanyol,6-0,90,3,789,526
+2015/16,2016-02-07,V,D1,R23,Real Madrid,(F),Granada,1-2,90,0,790,526
+2015/16,2016-02-13,V,D1,R24,Real Madrid,(C),Athletic Bilbao,4-2,90,2,791,528
+2015/16,2016-02-17,V,UCL,1/8,Real Madrid,(F),Roma,0-2,89,1,792,529
+2015/16,2016-02-21,E,D1,R25,Real Madrid,(F),Málaga,1-1,90,1,793,530
+2015/16,2016-02-27,D,D1,R26,Real Madrid,(C),Atlético de Madrid,0-1,90,0,794,530
+2015/16,2016-03-02,V,D1,R27,Real Madrid,(F),Levante,1-3,90,1,795,531
+2015/16,2016-03-05,V,D1,R28,Real Madrid,(C),Celta de Vigo,7-1,90,4,796,535
+2015/16,2016-03-08,V,UCL,1/8,Real Madrid,(C),Roma,2-0,90,1,797,536
+2015/16,2016-03-13,V,D1,R29,Real Madrid,(F),Las Palmas,1-2,90,0,798,536
+2015/16,2016-03-20,V,D1,R30,Real Madrid,(C),Sevilla,4-0,90,1,799,537
+2015/16,2016-03-25,D,AMI,JA,Portugal,(C),Bulgária,0-1,90,0,800,537
+2015/16,2016-03-29,V,AMI,JA,Portugal,(C),Bélgica,2-1,61,1,801,538
+2015/16,2016-04-02,V,D1,R31,Real Madrid,(F),Barcelona,1-2,90,1,802,539
+2015/16,2016-04-06,D,UCL,QF,Real Madrid,(F),Wolfsburg,2-0,90,0,803,539
+2015/16,2016-04-09,V,D1,R32,Real Madrid,(C),Eibar,4-0,90,1,804,540
+2015/16,2016-04-12,V,UCL,QF,Real Madrid,(C),Wolfsburg,3-0,90,3,805,543
+2015/16,2016-04-16,V,D1,R33,Real Madrid,(F),Getafe,1-5,90,1,806,544
+2015/16,2016-04-20,V,D1,R34,Real Madrid,(C),Villarreal,3-0,90,0,807,544
+2015/16,2016-05-04,V,UCL,SF,Real Madrid,(C),Manchester City,1-0,90,0,808,544
+2015/16,2016-05-08,V,D1,R37,Real Madrid,(C),Valencia,3-2,79,2,809,546
+2015/16,2016-05-14,V,D1,R38,Real Madrid,(F),Deportivo,0-2,45,2,810,548
+2015/16,2016-05-28,E,UCL,F,Real Madrid,(N),Atlético de Madrid,1-1 (5-3)g.p.,120,0,811,548
+2015/16,2016-06-08,V,AMI,JA,Portugal,(C),Estônia,7-0,45,2,812,550
+2015/16,2016-06-14,E,EU,F,Portugal,(N),Islândia,1-1,90,0,813,550
+2015/16,2016-06-18,E,EU,F,Portugal,(N),Áustria,0-0,90,0,814,550
+2015/16,2016-06-22,E,EU,F,Portugal,(N),Hungria,3-3,90,2,815,552
+2015/16,2016-06-25,V,EU,1/8,Portugal,(N),Croácia,0-1 (a.p.),120,0,816,552
+2015/16,2016-06-30,E,EU,QF,Portugal,(N),Polônia,1-1 (3-5)g.p.,120,0,817,552
+2015/16,2016-07-06,V,EU,SF,Portugal,(N),País de Gales,2-0,90,1,818,553
+2015/16,2016-07-10,V,EU,F,Portugal,(N),França,1-0 (a.p.),25,0,819,553
+2016/17,2016-09-10,V,D1,R3,Real Madrid,(C),Osasuna,5-2,66,1,820,554
+2016/17,2016-09-14,V,UCL,F,Real Madrid,(C),Sporting,2-1,90,1,821,555
+2016/17,2016-09-21,E,D1,R5,Real Madrid,(C),Villarreal,1-1,90,0,822,555
+2016/17,2016-09-24,E,D1,R6,Real Madrid,(F),Las Palmas,2-2,72,0,823,555
+2016/17,2016-09-27,E,UCL,F,Real Madrid,(F),Borussia Dortmund,2-2,90,1,824,556
+2016/17,2016-10-02,E,D1,R7,Real Madrid,(C),Eibar,1-1,90,0,825,556
+2016/17,2016-10-07,V,ECM,B,Portugal,(C),Andorra,6-0,90,4,826,560
+2016/17,2016-10-10,V,ECM,B,Portugal,(F),Ilhas Faroé,0-6,90,1,827,561
+2016/17,2016-10-15,V,D1,R8,Real Madrid,(F),Real Betis,1-6,90,1,828,562
+2016/17,2016-10-18,V,UCL,F,Real Madrid,(C),Legia Warszawa,5-1,90,0,829,562
+2016/17,2016-10-23,V,D1,R9,Real Madrid,(C),Athletic Bilbao,2-1,90,0,830,562
+2016/17,2016-10-29,V,D1,R10,Real Madrid,(F),Alavés,1-4,90,3,831,565
+2016/17,2016-11-02,E,UCL,F,Real Madrid,(F),Legia Warszawa,3-3,90,0,832,565
+2016/17,2016-11-06,V,D1,R11,Real Madrid,(C),Leganés,3-0,90,0,833,565
+2016/17,2016-11-13,V,ECM,B,Portugal,(C),Letônia,4-1,90,2,834,567
+2016/17,2016-11-19,V,D1,R12,Real Madrid,(F),Atlético de Madrid,0-3,83,3,835,570
+2016/17,2016-11-22,V,UCL,F,Real Madrid,(F),Sporting,1-2,90,0,836,570
+2016/17,2016-11-26,V,D1,R13,Real Madrid,(C),Sporting Gijón,2-1,90,2,837,572
+2016/17,2016-12-03,E,D1,R14,Real Madrid,(F),Barcelona,1-1,90,0,838,572
+2016/17,2016-12-07,E,UCL,F,Real Madrid,(C),Borussia Dortmund,2-2,90,0,839,572
+2016/17,2016-12-15,V,MC,SF,Real Madrid,(N),Club América,0-2,90,1,840,573
+2016/17,2016-12-18,V,MC,F,Real Madrid,(N),Kashima Antlers,4-2 (a.p.),112,3,841,576
+2016/17,2017-01-07,V,D1,R17,Real Madrid,(C),Granada,5-0,90,1,842,577
+2016/17,2017-01-15,D,D1,R18,Real Madrid,(F),Sevilla,2-1,90,1,843,578
+2016/17,2017-01-18,D,CR,QF,Real Madrid,(C),Celta de Vigo,1-2,90,0,844,578
+2016/17,2017-01-21,V,D1,R19,Real Madrid,(C),Málaga,2-1,90,0,845,578
+2016/17,2017-01-25,E,CR,QF,Real Madrid,(F),Celta de Vigo,2-2,90,1,846,579
+2016/17,2017-01-29,V,D1,R20,Real Madrid,(C),Real Sociedad,3-0,90,1,847,580
+2016/17,2017-02-11,V,D1,R22,Real Madrid,(F),Osasuna,1-3,90,1,848,581
+2016/17,2017-02-15,V,UCL,1/8,Real Madrid,(C),Napoli,3-1,90,0,849,581
+2016/17,2017-02-18,V,D1,R23,Real Madrid,(C),Espanyol,2-0,90,0,850,581
+2016/17,2017-02-22,D,D1,R16,Real Madrid,(F),Valencia,2-1,90,1,851,582
+2016/17,2017-02-26,V,D1,R24,Real Madrid,(F),Villarreal,2-3,90,1,852,583
+2016/17,2017-03-01,E,D1,R25,Real Madrid,(C),Las Palmas,3-3,90,2,853,585
+2016/17,2017-03-07,V,UCL,1/8,Real Madrid,(F),Napoli,1-3,90,0,854,585
+2016/17,2017-03-12,V,D1,R27,Real Madrid,(C),Real Betis,2-1,90,1,855,586
+2016/17,2017-03-18,V,D1,R28,Real Madrid,(F),Athletic Bilbao,1-2,79,0,856,586
+2016/17,2017-03-25,V,ECM,B,Portugal,(C),Hungria,3-0,90,2,857,588
+2016/17,2017-03-28,D,AMI,JA,Portugal,(C),Suécia,2-3,59,1,858,589
+2016/17,2017-04-02,V,D1,R29,Real Madrid,(C),Alavés,3-0,90,0,859,589
+2016/17,2017-04-08,E,D1,R31,Real Madrid,(C),Atlético de Madrid,1-1,90,0,860,589
+2016/17,2017-04-12,V,UCL,QF,Real Madrid,(F),Bayern München,1-2,90,2,861,591
+2016/17,2017-04-18,V,UCL,QF,Real Madrid,(C),Bayern München,4-2 (a.p.),120,3,862,594
+2016/17,2017-04-23,D,D1,R33,Real Madrid,(C),Barcelona,2-3,90,0,863,594
+2016/17,2017-04-29,V,D1,R35,Real Madrid,(C),Valencia,2-1,90,1,864,595
+2016/17,2017-05-02,V,UCL,SF,Real Madrid,(C),Atlético de Madrid,3-0,90,3,865,598
+2016/17,2017-05-10,D,UCL,SF,Real Madrid,(F),Atlético de Madrid,2-1,90,0,866,598
+2016/17,2017-05-14,V,D1,R37,Real Madrid,(C),Sevilla,4-1,90,2,867,600
+2016/17,2017-05-17,V,D1,R21,Real Madrid,(F),Celta de Vigo,1-4,84,2,868,602
+2016/17,2017-05-21,V,D1,R38,Real Madrid,(F),Málaga,0-2,90,1,869,603
+2016/17,2017-06-03,V,UCL,F,Real Madrid,(N),Juventus,1-4,90,2,870,605
+2016/17,2017-06-09,V,ECM,B,Portugal,(F),Letônia,0-3,90,2,871,607
+2016/17,2017-06-18,E,CC,A,Portugal,(N),México,2-2,90,0,872,607
+2016/17,2017-06-21,V,CC,A,Portugal,(N),Rússia,0-1,90,1,873,608
+2016/17,2017-06-24,V,CC,A,Portugal,(N),Nova Zelândia,0-4,67,1,874,609
+2016/17,2017-06-28,E,CC,SF,Portugal,(N),Chile,0-0 (0-3)g.p.,120,0,875,609
+2017/18,2017-08-08,V,SCE,F,Real Madrid,(N),Manchester United,2-1,7,0,876,609
+2017/18,2017-08-13,V,SC,F,Real Madrid,(F),Barcelona,1-3,24,1,877,610
+2016/17,2017-08-31,V,ECM,B,Portugal,(C),Ilhas Faroé,5-1,90,3,878,613
+2016/17,2017-09-03,V,ECM,B,Portugal,(F),Hungria,0-1,90,0,879,613
+2017/18,2017-09-13,V,UCL,H,Real Madrid,(C),APOEL,3-0,90,2,880,615
+2017/18,2017-09-20,D,D1,R5,Real Madrid,(C),Real Betis,0-1,90,0,881,615
+2017/18,2017-09-23,V,D1,R6,Real Madrid,(F),Alavés,1-2,90,0,882,615
+2017/18,2017-09-26,V,UCL,H,Real Madrid,(F),Borussia Dortmund,1-3,90,2,883,617
+2017/18,2017-10-01,V,D1,R7,Real Madrid,(C),Espanyol,2-0,90,0,884,617
+2016/17,2017-10-07,V,ECM,B,Portugal,(F),Andorra,0-2,45,1,885,618
+2016/17,2017-10-10,V,ECM,B,Portugal,(C),Suíça,2-0,90,0,886,618
+2017/18,2017-10-14,V,D1,R8,Real Madrid,(F),Getafe,1-2,90,1,887,619
+2017/18,2017-10-17,E,UCL,H,Real Madrid,(C),Tottenham,1-1,90,1,888,620
+2017/18,2017-10-22,V,D1,R9,Real Madrid,(C),Eibar,3-0,90,0,889,620
+2017/18,2017-10-29,D,D1,R10,Real Madrid,(F),Girona,2-1,90,0,890,620
+2017/18,2017-11-01,D,UCL,H,Real Madrid,(F),Tottenham,3-1,90,1,891,621
+2017/18,2017-11-05,V,D1,R11,Real Madrid,(C),Las Palmas,3-0,90,0,892,621
+2017/18,2017-11-18,E,D1,R12,Real Madrid,(F),Atlético de Madrid,0-0,90,0,893,621
+2017/18,2017-11-21,V,UCL,H,Real Madrid,(F),APOEL,0-6,90,2,894,623
+2017/18,2017-11-25,V,D1,R13,Real Madrid,(C),Málaga,3-2,90,1,895,624
+2017/18,2017-12-02,E,D1,R14,Real Madrid,(F),Athletic Bilbao,0-0,90,0,896,624
+2017/18,2017-12-06,V,UCL,H,Real Madrid,(C),Borussia Dortmund,3-2,90,1,897,625
+2017/18,2017-12-09,V,D1,R15,Real Madrid,(C),Sevilla,5-0,76,2,898,627
+2016/17,2017-12-13,V,MC,SF,Real Madrid,(N),Al Jazira,1-2,90,1,899,628
+2016/17,2017-12-16,V,MC,F,Real Madrid,(N),Grêmio,1-0,90,1,900,629
+2017/18,2017-12-23,D,D1,R17,Real Madrid,(C),Barcelona,0-3,90,0,901,629
+2017/18,2018-01-07,E,D1,R18,Real Madrid,(F),Celta de Vigo,2-2,90,0,902,629
+2017/18,2018-01-13,D,D1,R19,Real Madrid,(C),Villarreal,0-1,90,0,903,629
+2017/18,2018-01-21,V,D1,R20,Real Madrid,(C),Deportivo,7-1,90,2,904,631
+2017/18,2018-01-27,V,D1,R21,Real Madrid,(F),Valencia,1-4,90,2,905,633
+2017/18,2018-02-03,E,D1,R22,Real Madrid,(F),Levante,2-2,82,0,906,633
+2017/18,2018-02-10,V,D1,R23,Real Madrid,(C),Real Sociedad,5-2,90,3,907,636
+2017/18,2018-02-14,V,UCL,1/8,Real Madrid,(C),PSG,3-1,90,2,908,638
+2017/18,2018-02-18,V,D1,R24,Real Madrid,(F),Real Betis,3-5,89,1,909,639
+2017/18,2018-02-24,V,D1,R25,Real Madrid,(C),Alavés,4-0,90,2,910,641
+2017/18,2018-03-03,V,D1,R27,Real Madrid,(C),Getafe,3-1,79,2,911,643
+2017/18,2018-03-06,V,UCL,1/8,Real Madrid,(F),PSG,1-2,90,1,912,644
+2017/18,2018-03-10,V,D1,R28,Real Madrid,(F),Eibar,1-2,90,2,913,646
+2017/18,2018-03-18,V,D1,R29,Real Madrid,(C),Girona,6-3,90,4,914,650
+2017/18,2018-03-23,V,AMI,JA,Portugal,(N),Egito,1-2,90,2,915,652
+2017/18,2018-03-26,D,AMI,JA,Portugal,(N),Holanda,0-3,68,0,916,652
+2017/18,2018-04-03,V,UCL,QF,Real Madrid,(F),Juventus,0-3,90,2,917,654
+2017/18,2018-04-08,E,D1,R31,Real Madrid,(C),Atlético de Madrid,1-1,64,1,918,655
+2017/18,2018-04-11,D,UCL,QF,Real Madrid,(C),Juventus,1-3,90,1,919,656
+2017/18,2018-04-18,E,D1,R33,Real Madrid,(C),Athletic Bilbao,1-1,90,1,920,657
+2017/18,2018-04-25,V,UCL,SF,Real Madrid,(F),Bayern München,1-2,90,0,921,657
+2017/18,2018-05-01,E,UCL,SF,Real Madrid,(C),Bayern München,2-2,90,0,922,657
+2017/18,2018-05-06,E,D1,R36,Real Madrid,(F),Barcelona,2-2,45,1,923,658
+2017/18,2018-05-19,E,D1,R38,Real Madrid,(F),Villarreal,2-2,62,1,924,659
+2017/18,2018-05-26,V,UCL,F,Real Madrid,(N),Liverpool,3-1,90,0,925,659
+2017/18,2018-06-07,V,AMI,JA,Portugal,(C),Argélia,3-0,74,0,926,659
+2017/18,2018-06-15,E,CM,B,Portugal,(N),Espanha,3-3,90,3,927,662
+2017/18,2018-06-20,V,CM,B,Portugal,(N),Marrocos,1-0,90,1,928,663
+2017/18,2018-06-25,E,CM,B,Portugal,(N),Irã,1-1,90,0,929,663
+2017/18,2018-06-30,D,CM,1/8,Portugal,(N),Uruguai,2-1,90,0,930,663
+2018/19,2018-08-18,V,SA,R1,Juventus,(F),Chievo,2-3,90,0,931,663
+2018/19,2018-08-25,V,SA,R2,Juventus,(C),Lazio,2-0,90,0,932,663
+2018/19,2018-09-01,V,SA,R3,Juventus,(F),Parma,1-2,90,0,933,663
+2018/19,2018-09-16,V,SA,R4,Juventus,(C),Sassuolo,2-1,90,2,934,665
+2018/19,2018-09-19,V,UCL,H,Juventus,(F),Valencia,0-2,29,0,935,665
+2018/19,2018-09-23,V,SA,R5,Juventus,(F),Frosinone,0-2,90,1,936,666
+2018/19,2018-09-26,V,SA,R6,Juventus,(C),Bologna,2-0,90,0,937,666
+2018/19,2018-09-29,V,SA,R7,Juventus,(C),Napoli,3-1,90,0,938,666
+2018/19,2018-10-06,V,SA,R8,Juventus,(F),Udinese,0-2,90,1,939,667
+2018/19,2018-10-20,E,SA,R9,Juventus,(C),Genoa,1-1,90,1,940,668
+2018/19,2018-10-23,V,UCL,H,Juventus,(F),Manchester United,0-1,90,0,941,668
+2018/19,2018-10-27,V,SA,R10,Juventus,(F),Empoli,1-2,90,2,942,670
+2018/19,2018-11-03,V,SA,R11,Juventus,(C),Cagliari,3-1,90,0,943,670
+2018/19,2018-11-07,D,UCL,H,Juventus,(C),Manchester United,1-2,90,1,944,671
+2018/19,2018-11-11,V,SA,R12,Juventus,(F),Milan,0-2,90,1,945,672
+2018/19,2018-11-24,V,SA,R13,Juventus,(C),SPAL,2-0,90,1,946,673
+2018/19,2018-11-27,V,UCL,H,Juventus,(C),Valencia,1-0,90,0,947,673
+2018/19,2018-12-01,V,SA,R14,Juventus,(F),Fiorentina,0-3,80,1,948,674
+2018/19,2018-12-07,V,SA,R15,Juventus,(C),Internazionale,1-0,90,0,949,674
+2018/19,2018-12-12,D,UCL,H,Juventus,(F),Young Boys,2-1,90,0,950,674
+2018/19,2018-12-15,V,SA,R16,Juventus,(F),Torino,0-1,90,1,951,675
+2018/19,2018-12-22,V,SA,R17,Juventus,(C),Roma,1-0,90,0,952,675
+2018/19,2018-12-26,E,SA,R18,Juventus,(F),Atalanta,2-2,25,1,953,676
+2018/19,2018-12-29,V,SA,R19,Juventus,(C),Sampdoria,2-1,90,2,954,678
+2018/19,2019-01-12,V,TI,1/8,Juventus,(F),Bologna,0-2,28,0,955,678
+2018/19,2019-01-16,V,SC,F,Juventus,(N),Milan,1-0,90,1,956,679
+2018/19,2019-01-21,V,SA,R20,Juventus,(C),Chievo,3-0,90,0,957,679
+2018/19,2019-01-27,V,SA,R21,Juventus,(F),Lazio,1-2,90,1,958,680
+2018/19,2019-01-30,D,TI,QF,Juventus,(F),Atalanta,3-0,90,0,959,680
+2018/19,2019-02-02,E,SA,R22,Juventus,(C),Parma,3-3,90,2,960,682
+2018/19,2019-02-10,V,SA,R23,Juventus,(F),Sassuolo,0-3,90,1,961,683
+2018/19,2019-02-15,V,SA,R24,Juventus,(C),Frosinone,3-0,64,1,962,684
+2018/19,2019-02-20,D,UCL,1/8,Juventus,(F),Atlético de Madrid,2-0,90,0,963,684
+2018/19,2019-02-24,V,SA,R25,Juventus,(F),Bologna,0-1,90,0,964,684
+2018/19,2019-03-03,V,SA,R26,Juventus,(F),Napoli,1-2,90,0,965,684
+2018/19,2019-03-12,V,UCL,1/8,Juventus,(C),Atlético de Madrid,3-0,90,3,966,687
+2018/19,2019-03-22,E,EE,B,Portugal,(C),Ucrânia,0-0,90,0,967,687
+2018/19,2019-03-25,E,EE,B,Portugal,(C),Sérvia,1-1,30,0,968,687
+2018/19,2019-04-10,E,UCL,QF,Juventus,(F),Ajax,1-1,90,1,969,688
+2018/19,2019-04-16,D,UCL,QF,Juventus,(C),Ajax,1-2,90,1,970,689
+2018/19,2019-04-20,V,SA,R33,Juventus,(C),Fiorentina,2-1,90,0,971,689
+2018/19,2019-04-27,E,SA,R34,Juventus,(F),Internazionale,1-1,90,1,972,690
+2018/19,2019-05-03,E,SA,R35,Juventus,(C),Torino,1-1,90,1,973,691
+2018/19,2019-05-12,D,SA,R36,Juventus,(F),Roma,2-0,90,0,974,691
+2018/19,2019-05-19,E,SA,R37,Juventus,(C),Atalanta,1-1,90,0,975,691
+2018/19,2019-06-05,V,UNL,SF,Portugal,(N),Suíça,3-1,90,3,976,694
+2018/19,2019-06-09,V,UNL,F,Portugal,(N),Holanda,1-0,90,0,977,694
+2019/20,2019-08-24,V,SA,R1,Juventus,(F),Parma,0-1,90,0,978,694
+2019/20,2019-08-31,V,SA,R2,Juventus,(C),Napoli,4-3,90,1,979,695
+2018/19,2019-09-07,V,EE,B,Portugal,(F),Sérvia,2-4,90,1,980,696
+2018/19,2019-09-10,V,EE,B,Portugal,(F),Lituânia,1-5,79,4,981,700
+2019/20,2019-09-14,E,SA,R3,Juventus,(F),Fiorentina,0-0,90,0,982,700
+2019/20,2019-09-18,E,UCL,D,Juventus,(F),Atlético de Madrid,2-2,90,0,983,700
+2019/20,2019-09-21,V,SA,R4,Juventus,(C),Hellas Verona,2-1,90,1,984,701
+2019/20,2019-09-28,V,SA,R6,Juventus,(C),SPAL,2-0,90,1,985,702
+2019/20,2019-10-01,V,UCL,D,Juventus,(C),Bayer Leverkusen,3-0,90,1,986,703
+2019/20,2019-10-06,V,SA,R7,Juventus,(F),Internazionale,1-2,90,0,987,703
+2018/19,2019-10-11,V,EE,B,Portugal,(C),Luxemburgo,3-0,90,1,988,704
+2018/19,2019-10-14,D,EE,B,Portugal,(F),Ucrânia,2-1,90,1,989,705
+2019/20,2019-10-19,V,SA,R8,Juventus,(C),Bologna,2-1,90,1,990,706
+2019/20,2019-10-22,V,UCL,D,Juventus,(C),Lokomotiv,2-1,90,0,991,706
+2019/20,2019-10-30,V,SA,R10,Juventus,(C),Genoa,2-1,90,1,992,707
+2019/20,2019-11-02,V,SA,R11,Juventus,(F),Torino,0-1,90,0,993,707
+2019/20,2019-11-06,V,UCL,D,Juventus,(F),Lokomotiv,1-2,82,0,994,707
+2019/20,2019-11-10,V,SA,R12,Juventus,(C),Milan,1-0,55,0,995,707
+2018/19,2019-11-14,V,EE,B,Portugal,(C),Lituânia,6-0,83,3,996,710
+2018/19,2019-11-17,V,EE,B,Portugal,(F),Luxemburgo,0-2,90,1,997,711
+2019/20,2019-11-26,V,UCL,D,Juventus,(C),Atlético de Madrid,1-0,90,0,998,711
+2019/20,2019-12-01,E,SA,R14,Juventus,(C),Sassuolo,2-2,90,1,999,712
+2019/20,2019-12-07,D,SA,R15,Juventus,(F),Lazio,3-1,90,1,1000,713
+2019/20,2019-12-11,V,UCL,D,Juventus,(F),Bayer Leverkusen,0-2,90,1,1001,714
+2019/20,2019-12-15,V,SA,R16,Juventus,(C),Udinese,3-1,90,2,1002,716
+2019/20,2019-12-18,V,SA,R17,Juventus,(F),Sampdoria,1-2,90,1,1003,717
+2019/20,2019-12-22,D,SC,F,Juventus,(N),Lazio,1-3,90,0,1004,717
+2019/20,2020-01-06,V,SA,R18,Juventus,(C),Cagliari,4-0,90,3,1005,720
+2019/20,2020-01-12,V,SA,R19,Juventus,(F),Roma,1-2,90,1,1006,721
+2019/20,2020-01-19,V,SA,R20,Juventus,(C),Parma,2-1,90,2,1007,723
+2019/20,2020-01-22,V,TI,QF,Juventus,(C),Roma,3-1,90,1,1008,724
+2019/20,2020-01-26,D,SA,R21,Juventus,(F),Napoli,2-1,90,1,1009,725
+2019/20,2020-02-02,V,SA,R22,Juventus,(C),Fiorentina,3-0,90,2,1010,727
+2019/20,2020-02-08,D,SA,R23,Juventus,(F),Hellas Verona,2-1,90,1,1011,728
+2019/20,2020-02-13,E,TI,SF,Juventus,(F),Milan,1-1,90,1,1012,729
+2019/20,2020-02-22,V,SA,R25,Juventus,(F),SPAL,1-2,90,1,1013,730
+2019/20,2020-02-26,D,UCL,1/8,Juventus,(F),Lyon,1-0,90,0,1014,730
+2019/20,2020-03-08,V,SA,R26,Juventus,(C),Internazionale,2-0,90,0,1015,730
+2019/20,2020-06-12,E,TI,SF,Juventus,(C),Milan,0-0,90,0,1016,730
+2019/20,2020-06-17,E,TI,F,Juventus,(N),Napoli,0-0 (4-2)g.p.,90,0,1017,730
+2019/20,2020-06-22,V,SA,R27,Juventus,(F),Bologna,0-2,90,1,1018,731
+2019/20,2020-06-26,V,SA,R28,Juventus,(C),Lecce,4-0,90,1,1019,732
+2019/20,2020-06-30,V,SA,R29,Juventus,(F),Genoa,1-3,74,1,1020,733
+2019/20,2020-07-04,V,SA,R30,Juventus,(C),Torino,4-1,90,1,1021,734
+2019/20,2020-07-07,D,SA,R31,Juventus,(F),Milan,4-2,90,1,1022,735
+2019/20,2020-07-11,E,SA,R32,Juventus,(C),Atalanta,2-2,90,2,1023,737
+2019/20,2020-07-15,E,SA,R33,Juventus,(F),Sassuolo,3-3,90,0,1024,737
+2019/20,2020-07-20,V,SA,R34,Juventus,(C),Lazio,2-1,90,2,1025,739
+2019/20,2020-07-23,D,SA,R35,Juventus,(F),Udinese,2-1,90,0,1026,739
+2019/20,2020-07-26,V,SA,R36,Juventus,(C),Sampdoria,2-0,90,1,1027,740
+2019/20,2020-07-29,D,SA,R37,Juventus,(F),Cagliari,2-0,90,0,1028,740
+2019/20,2020-08-07,V,UCL,1/8,Juventus,(C),Lyon,2-1,90,2,1029,742
+2020/21,2020-09-08,V,UNL,3,Portugal,(F),Suécia,0-2,81,2,1030,744
+2020/21,2020-09-20,V,SA,R1,Juventus,(C),Sampdoria,3-0,90,1,1031,745
+2020/21,2020-09-27,E,SA,R2,Juventus,(F),Roma,2-2,90,2,1032,747
+2019/20,2020-10-07,E,AMI,JA,Portugal,(C),Espanha,0-0,72,0,1033,747
+2020/21,2020-10-11,E,UNL,3,Portugal,(F),França,0-0,90,0,1034,747
+2020/21,2020-11-01,V,SA,R6,Juventus,(F),Spezia,1-4,34,2,1035,749
+2020/21,2020-11-04,V,UCL,G,Juventus,(F),Ferencváros,1-4,90,0,1036,749
+2020/21,2020-11-08,E,SA,R7,Juventus,(F),Lazio,1-1,77,1,1037,750
+2019/20,2020-11-11,V,AMI,JA,Portugal,(C),Andorra,7-0,45,1,1038,751
+2020/21,2020-11-14,D,UNL,3,Portugal,(C),França,0-1,90,0,1039,751
+2020/21,2020-11-17,V,UNL,3,Portugal,(F),Croácia,2-3,90,0,1040,751
+2020/21,2020-11-21,V,SA,R8,Juventus,(C),Cagliari,2-0,90,2,1041,753
+2020/21,2020-11-24,V,UCL,G,Juventus,(C),Ferencváros,2-1,90,1,1042,754
+2020/21,2020-12-02,V,UCL,G,Juventus,(C),Dynamo Kyiv,3-0,90,1,1043,755
+2020/21,2020-12-05,V,SA,R10,Juventus,(C),Torino,2-1,90,0,1044,755
+2020/21,2020-12-08,V,UCL,G,Juventus,(F),Barcelona,0-3,90,2,1045,757
+2020/21,2020-12-13,V,SA,R11,Juventus,(F),Genoa,1-3,90,2,1046,759
+2020/21,2020-12-16,E,SA,R12,Juventus,(C),Atalanta,1-1,90,0,1047,759
+2020/21,2020-12-19,V,SA,R13,Juventus,(F),Parma,0-4,82,2,1048,761
+2020/21,2020-12-22,D,SA,R14,Juventus,(C),Fiorentina,0-3,90,0,1049,761
+2020/21,2021-01-03,V,SA,R15,Juventus,(C),Udinese,4-1,90,2,1050,763
+2020/21,2021-01-06,V,SA,R16,Juventus,(F),Milan,1-3,90,0,1051,763
+2020/21,2021-01-10,V,SA,R17,Juventus,(C),Sassuolo,3-1,90,1,1052,764
+2020/21,2021-01-13,V,TI,1/8,Juventus,(C),Genoa,3-2 (a.p.),32,0,1053,764
+2020/21,2021-01-17,D,SA,R18,Juventus,(F),Internazionale,2-0,90,0,1054,764
+2020/21,2021-01-20,V,SC,F,Juventus,(N),Napoli,2-0,90,1,1055,765
+2020/21,2021-01-24,V,SA,R19,Juventus,(C),Bologna,2-0,90,0,1056,765
+2020/21,2021-01-30,V,SA,R20,Juventus,(F),Sampdoria,0-2,90,0,1057,765
+2020/21,2021-02-02,V,TI,SF,Juventus,(F),Internazionale,1-2,77,2,1058,767
+2020/21,2021-02-06,V,SA,R21,Juventus,(C),Roma,2-0,90,1,1059,768
+2020/21,2021-02-09,E,TI,SF,Juventus,(C),Internazionale,0-0,90,0,1060,768
+2020/21,2021-02-13,D,SA,R22,Juventus,(F),Napoli,1-0,90,0,1061,768
+2020/21,2021-02-17,D,UCL,1/8,Juventus,(F),FC Porto,2-1,90,0,1062,768
+2020/21,2021-02-22,V,SA,R23,Juventus,(C),Crotone,3-0,90,2,1063,770
+2020/21,2021-02-27,E,SA,R24,Juventus,(F),Hellas Verona,1-1,90,1,1064,771
+2020/21,2021-03-02,V,SA,R25,Juventus,(C),Spezia,3-0,90,1,1065,772
+2020/21,2021-03-06,V,SA,R26,Juventus,(C),Lazio,3-1,21,0,1066,772
+2020/21,2021-03-09,V,UCL,1/8,Juventus,(C),FC Porto,3-2 (a.p.),120,0,1067,772
+2020/21,2021-03-14,V,SA,R27,Juventus,(F),Cagliari,1-3,90,3,1068,775
+2020/21,2021-03-21,D,SA,R28,Juventus,(C),Benevento,0-1,90,0,1069,775
+2020/21,2021-03-24,V,ECM,A,Portugal,(C),Azerbaijão,1-0,90,0,1070,775
+2020/21,2021-03-27,E,ECM,A,Portugal,(F),Sérvia,2-2,90,0,1071,775
+2020/21,2021-03-30,V,ECM,A,Portugal,(F),Luxemburgo,1-3,90,1,1072,776
+2020/21,2021-04-03,E,SA,R29,Juventus,(F),Torino,2-2,90,1,1073,777
+2020/21,2021-04-07,V,SA,R3,Juventus,(C),Napoli,2-1,90,1,1074,778
+2020/21,2021-04-11,V,SA,R30,Juventus,(C),Genoa,3-1,90,0,1075,778
+2020/21,2021-04-21,V,SA,R32,Juventus,(C),Parma,3-1,90,0,1076,778
+2020/21,2021-04-25,E,SA,R33,Juventus,(F),Fiorentina,1-1,90,0,1077,778
+2020/21,2021-05-02,V,SA,R34,Juventus,(F),Udinese,1-2,90,2,1078,780
+2020/21,2021-05-09,D,SA,R35,Juventus,(C),Milan,0-3,90,0,1079,780
+2020/21,2021-05-12,V,SA,R36,Juventus,(F),Sassuolo,1-3,90,1,1080,781
+2020/21,2021-05-15,V,SA,R37,Juventus,(C),Internazionale,3-2,70,1,1081,782
+2020/21,2021-05-19,V,TI,F,Juventus,(N),Atalanta,1-2,90,0,1082,782
+2020/21,2021-06-04,E,AMI,JA,Portugal,(F),Espanha,0-0,90,0,1083,782
+2020/21,2021-06-09,V,AMI,JA,Portugal,(C),Israel,4-0,71,1,1084,783
+2020/21,2021-06-15,V,EU,F,Portugal,(N),Hungria,0-3,90,2,1085,785
+2020/21,2021-06-19,D,EU,F,Portugal,(N),Alemanha,2-4,90,1,1086,786
+2020/21,2021-06-23,E,EU,F,Portugal,(N),França,2-2,90,2,1087,788
+2020/21,2021-06-27,D,EU,1/8,Portugal,(N),Bélgica,1-0,90,0,1088,788
+2021/22,2021-08-22,E,SA,R1,Juventus,(F),Udinese,2-2,31,0,1089,788
+2020/21,2021-09-01,V,ECM,A,Portugal,(C),Rep. Irlanda,2-1,90,2,1090,790
+2021/22,2021-09-11,V,PL,R4,Manchester United,(C),Newcastle,4-1,90,2,1091,792
+2021/22,2021-09-14,D,UCL,F,Manchester United,(F),Young Boys,2-1,72,1,1092,793
+2021/22,2021-09-19,V,PL,R5,Manchester United,(F),West Ham,1-2,90,1,1093,794
+2021/22,2021-09-25,D,PL,R6,Manchester United,(C),Aston Villa,0-1,90,0,1094,794
+2021/22,2021-09-29,V,UCL,F,Manchester United,(C),Villarreal,2-1,90,1,1095,795
+2021/22,2021-10-02,E,PL,R7,Manchester United,(C),Everton,1-1,33,0,1096,795
+2020/21,2021-10-09,V,AMI,JA,Portugal,(C),Catar,3-0,45,1,1097,796
+2020/21,2021-10-12,V,ECM,A,Portugal,(C),Luxemburgo,5-0,90,3,1098,799
+2021/22,2021-10-16,D,PL,R8,Manchester United,(F),Leicester City,4-2,90,0,1099,799
+2021/22,2021-10-20,V,UCL,F,Manchester United,(C),Atalanta,3-2,90,1,1100,800
+2021/22,2021-10-24,D,PL,R9,Manchester United,(C),Liverpool,0-5,90,0,1101,800
+2021/22,2021-10-30,V,PL,R10,Manchester United,(F),Tottenham,0-3,71,1,1102,801
+2021/22,2021-11-02,E,UCL,F,Manchester United,(F),Atalanta,2-2,90,2,1103,803
+2021/22,2021-11-06,D,PL,R11,Manchester United,(C),Manchester City,0-2,90,0,1104,803
+2020/21,2021-11-11,E,ECM,A,Portugal,(F),Rep. Irlanda,0-0,90,0,1105,803
+2020/21,2021-11-14,D,ECM,A,Portugal,(C),Sérvia,1-2,90,0,1106,803
+2021/22,2021-11-20,D,PL,R12,Manchester United,(F),Watford,4-1,90,0,1107,803
+2021/22,2021-11-23,V,UCL,F,Manchester United,(F),Villarreal,0-2,90,1,1108,804
+2021/22,2021-11-28,E,PL,R13,Manchester United,(F),Chelsea,1-1,26,0,1109,804
+2021/22,2021-12-02,V,PL,R14,Manchester United,(C),Arsenal,3-2,88,2,1110,806
+2021/22,2021-12-05,V,PL,R15,Manchester United,(C),Crystal Palace,1-0,90,0,1111,806
+2021/22,2021-12-11,V,PL,R16,Manchester United,(F),Norwich City,0-1,90,1,1112,807
+2021/22,2021-12-27,E,PL,R19,Manchester United,(F),Newcastle,1-1,90,0,1113,807
+2021/22,2021-12-30,V,PL,R20,Manchester United,(C),Burnley,3-1,90,1,1114,808
+2021/22,2022-01-03,D,PL,R21,Manchester United,(C),Wolverhampton,0-1,90,0,1115,808
+2021/22,2022-01-19,V,PL,R17,Manchester United,(F),Brentford,1-3,71,0,1116,808
+2021/22,2022-01-22,V,PL,R23,Manchester United,(C),West Ham,1-0,90,0,1117,808
+2021/22,2022-02-04,E,CI,4R,Manchester United,(C),Middlesbrough,1-1 (7-8)g.p.,90,0,1118,808
+2021/22,2022-02-08,E,PL,R24,Manchester United,(F),Burnley,1-1,22,0,1119,808
+2021/22,2022-02-12,E,PL,R25,Manchester United,(C),Southampton,1-1,90,0,1120,808
+2021/22,2022-02-15,V,PL,R18,Manchester United,(C),Brighton & Hove Albion,2-0,90,1,1121,809
+2021/22,2022-02-20,V,PL,R26,Manchester United,(F),Leeds United,2-4,85,0,1122,809
+2021/22,2022-02-23,E,UCL,1/8,Manchester United,(F),Atlético de Madrid,1-1,90,0,1123,809
+2021/22,2022-02-26,E,PL,R27,Manchester United,(C),Watford,0-0,90,0,1124,809
+2021/22,2022-03-12,V,PL,R29,Manchester United,(C),Tottenham,3-2,83,3,1125,812
+2021/22,2022-03-15,D,UCL,1/8,Manchester United,(C),Atlético de Madrid,0-1,90,0,1126,812
+2020/21,2022-03-24,V,ECM,POff,Portugal,(C),Turquia,3-1,90,0,1127,812
+2020/21,2022-03-29,V,ECM,POff,Portugal,(C),Macedônia do Norte,2-0,90,0,1128,812
+2021/22,2022-04-09,D,PL,R32,Manchester United,(F),Everton,1-0,90,0,1129,812
+2021/22,2022-04-16,V,PL,R33,Manchester United,(C),Norwich City,3-2,90,3,1130,815
+2021/22,2022-04-23,D,PL,R34,Manchester United,(F),Arsenal,3-1,90,1,1131,816
+2021/22,2022-04-28,E,PL,R37,Manchester United,(C),Chelsea,1-1,90,1,1132,817
+2021/22,2022-05-02,V,PL,R35,Manchester United,(C),Brentford,3-0,90,1,1133,818
+2021/22,2022-05-07,D,PL,R36,Manchester United,(F),Brighton & Hove Albion,4-0,90,0,1134,818
+2022/23,2022-06-02,E,UNL,2,Portugal,(F),Espanha,1-1,28,0,1135,818
+2022/23,2022-06-05,V,UNL,2,Portugal,(C),Suíça,4-0,90,2,1136,820
+2022/23,2022-06-09,V,UNL,2,Portugal,(C),Rep. Tcheca,2-0,90,0,1137,820
+2022/23,2022-08-07,D,PL,R1,Manchester United,(C),Brighton & Hove Albion,1-2,37,0,1138,820
+2022/23,2022-08-13,D,PL,R2,Manchester United,(F),Brentford,4-0,90,0,1139,820
+2022/23,2022-08-22,V,PL,R3,Manchester United,(C),Liverpool,2-1,4,0,1140,820
+2022/23,2022-08-27,V,PL,R4,Manchester United,(F),Southampton,0-1,22,0,1141,820
+2022/23,2022-09-01,V,PL,R5,Manchester United,(F),Leicester City,0-1,22,0,1142,820
+2022/23,2022-09-04,V,PL,R6,Manchester United,(C),Arsenal,3-1,32,0,1143,820
+2022/23,2022-09-08,D,EL,E,Manchester United,(C),Real Sociedad,0-1,90,0,1144,820
+2022/23,2022-09-15,V,EL,E,Manchester United,(F),Sheriff,0-2,81,1,1145,821
+2022/23,2022-09-24,V,UNL,2,Portugal,(F),Rep. Tcheca,0-4,90,0,1146,821
+2022/23,2022-09-27,D,UNL,2,Portugal,(C),Espanha,0-1,90,0,1147,821
+2022/23,2022-10-06,V,EL,E,Manchester United,(F),Omonia,2-3,90,0,1148,821
+2022/23,2022-10-09,V,PL,R10,Manchester United,(F),Everton,1-2,61,1,1149,822
+2022/23,2022-10-13,V,EL,E,Manchester United,(C),Omonia,1-0,90,0,1150,822
+2022/23,2022-10-16,E,PL,R11,Manchester United,(C),Newcastle,0-0,71,0,1151,822
+2022/23,2022-10-27,V,EL,E,Manchester United,(C),Sheriff,3-0,90,1,1152,823
+2022/23,2022-10-30,V,PL,R14,Manchester United,(C),West Ham,1-0,90,0,1153,823
+2022/23,2022-11-03,V,EL,E,Manchester United,(F),Real Sociedad,0-1,90,0,1154,823
+2022/23,2022-11-06,D,PL,R15,Manchester United,(F),Aston Villa,3-1,90,0,1155,823
+2022/23,2022-11-24,V,CM,H,Portugal,(C),Gana,3-2,88,1,1156,824
+2022/23,2022-11-28,V,CM,H,Portugal,(C),Uruguai,2-0,82,0,1157,824
+2022/23,2022-12-02,D,CM,H,Portugal,(F),Coreia do Sul,2-1,66,0,1158,824
+2022/23,2022-12-06,V,CM,1/8,Portugal,(N),Suíça,6-1,16,0,1159,824
+2022/23,2022-12-10,D,CM,QF,Portugal,(N),Marrocos,1-0,39,0,1160,824
+2022/23,2023-01-22,V,D1,R14,Al-Nassr,(C),Al-Ettifaq,1-0,90,0,1161,824
+2022/23,2023-01-26,D,SC,SF,Al-Nassr,(F),Al-Ittihad Jeddah,3-1,90,0,1162,824
+2022/23,2023-02-03,E,D1,R15,Al-Nassr,(F),Al-Fateh,2-2,90,1,1163,825
+2022/23,2023-02-09,V,D1,R16,Al-Nassr,(F),Al-Wehda,0-4,90,4,1164,829
+2022/23,2023-02-17,V,D1,R17,Al-Nassr,(C),Al-Taawoun,2-1,90,0,1165,829
+2022/23,2023-02-25,V,D1,R18,Al-Nassr,(F),Damac FC,0-3,90,3,1166,832
+2022/23,2023-03-03,V,D1,R19,Al-Nassr,(C),Al-Batin,3-1,90,0,1167,832
+2022/23,2023-03-09,D,D1,R20,Al-Nassr,(F),Al-Ittihad Jeddah,1-0,90,0,1168,832
+2022/23,2023-03-14,V,KCP,QF,Al-Nassr,(C),Abha Club,3-1,87,0,1169,832
+2022/23,2023-03-18,V,D1,R21,Al-Nassr,(C),Abha Club,2-1,90,1,1170,833
+2022/23,2023-03-23,V,EE,J,Portugal,(C),Liechtenstein,4-0,78,2,1171,835
+2022/23,2023-03-26,V,EE,J,Portugal,(F),Luxemburgo,0-6,64,2,1172,837
+2022/23,2023-04-04,V,D1,R22,Al-Nassr,(F),Al-Adalah,0-5,90,2,1173,839
+2022/23,2023-04-09,E,D1,R23,Al-Nassr,(F),Al-Fayha,0-0,90,0,1174,839
+2022/23,2023-04-18,D,D1,R25,Al-Nassr,(F),Al-Hilal,2-0,90,0,1175,839
+2022/23,2023-04-24,D,KCP,SF,Al-Nassr,(C),Al-Wehda,0-1,90,0,1176,839
+2022/23,2023-04-28,V,D1,R24,Al-Nassr,(C),Al-Raed,4-0,90,1,1177,840
+2022/23,2023-05-08,E,D1,R26,Al-Nassr,(C),Al-Khaleej,1-1,90,0,1178,840
+2022/23,2023-05-16,V,D1,R27,Al-Nassr,(F),Al-Tai,0-2,90,1,1179,841
+2022/23,2023-05-23,V,D1,R28,Al-Nassr,(C),Al-Shabab,3-2,90,1,1180,842
+2022/23,2023-05-27,E,D1,R29,Al-Nassr,(F),Al-Ettifaq,1-1,84,0,1181,842
+2022/23,2023-06-17,V,EE,J,Portugal,(C),Bósnia-Herzgovina,3-0,90,0,1182,842
+2022/23,2023-06-20,V,EE,J,Portugal,(F),Islândia,0-1,90,1,1183,843
+2023/24,2023-07-28,E,UAFA,C,Al-Nassr,(C),Al-Shabab,0-0,28,0,1184,843
+2023/24,2023-07-31,V,UAFA,C,Al-Nassr,(F),US Monastirienne,1-4,90,1,1185,844
+2023/24,2023-08-03,E,UAFA,C,Al-Nassr,(F),Zamalek SC,1-1,90,1,1186,845
+2023/24,2023-08-06,V,UAFA,QF,Al-Nassr,(F),Raja Casablanca,1-3,90,1,1187,846
+2023/24,2023-08-09,V,UAFA,SF,Al-Nassr,(F),Al-Shorta Bagdad,0-1,90,1,1188,847
+2023/24,2023-08-12,V,UAFA,F,Al-Nassr,(C),Al-Hilal,2-1 (a.p.),115,2,1189,849
+2023/24,2023-08-18,D,D1,R2,Al-Nassr,(C),Al-Taawoun,0-2,90,0,1190,849
+2023/24,2023-08-22,V,CLE,POff,Al-Nassr,(C),Al Ahli,4-2,90,0,1191,849
+2023/24,2023-08-25,V,D1,R3,Al-Nassr,(F),Al-Fateh,0-5,90,3,1192,852
+2023/24,2023-08-29,V,D1,R4,Al-Nassr,(C),Al-Shabab,4-0,86,2,1193,854
+2023/24,2023-09-02,V,D1,R5,Al-Nassr,(F),Al-Hazm,1-5,90,1,1194,855
+2022/23,2023-09-08,V,EE,J,Portugal,(F),Eslováquia,0-1,90,0,1195,855
+2023/24,2023-09-16,V,D1,R6,Al-Nassr,(F),Al-Raed,1-3,90,1,1196,856
+2023/24,2023-09-19,V,CLE,E,Al-Nassr,(F),Persepolis FC,0-2,90,0,1197,856
+2023/24,2023-09-22,V,D1,R7,Al-Nassr,(C),Al-Ahli Jeddah,4-3,90,2,1198,858
+2023/24,2023-09-29,V,D1,R8,Al-Nassr,(F),Al-Tai,1-2,90,1,1199,859
+2023/24,2023-10-02,V,CLE,E,Al-Nassr,(C),Istiklol,3-1,90,1,1200,860
+2023/24,2023-10-06,E,D1,R9,Al-Nassr,(C),Abha Club,2-2,90,0,1201,860
+2022/23,2023-10-13,V,EE,J,Portugal,(C),Eslováquia,3-2,90,2,1202,862
+2022/23,2023-10-16,V,EE,J,Portugal,(F),Bósnia-Herzgovina,0-5,65,2,1203,864
+2023/24,2023-10-21,V,D1,R10,Al-Nassr,(C),Damac FC,2-1,90,1,1204,865
+2023/24,2023-10-24,V,CLE,E,Al-Nassr,(C),Al-Duhail,4-3,90,2,1205,867
+2023/24,2023-10-28,V,D1,R11,Al-Nassr,(F),Al-Fayha,1-3,90,0,1206,867
+2023/24,2023-10-31,V,KCP,1/8,Al-Nassr,(C),Al-Ettifaq,1-0 (a.p.),120,0,1207,867
+2023/24,2023-11-04,V,D1,R12,Al-Nassr,(C),Al-Khaleej,2-0,90,1,1208,868
+2023/24,2023-11-11,V,D1,R13,Al-Nassr,(F),Al-Wehda,1-3,90,1,1209,869
+2022/23,2023-11-16,V,EE,J,Portugal,(F),Liechtenstein,0-2,67,1,1210,870
+2022/23,2023-11-19,V,EE,J,Portugal,(C),Islândia,2-0,90,0,1211,870
+2023/24,2023-11-24,V,D1,R14,Al-Nassr,(C),Al-Akhdoud,3-0,90,2,1212,872
+2023/24,2023-11-27,E,CLE,E,Al-Nassr,(C),Persepolis FC,0-0,78,0,1213,872
+2023/24,2023-12-01,D,D1,R15,Al-Nassr,(F),Al-Hilal,3-0,90,0,1214,872
+2023/24,2023-12-08,V,D1,R16,Al-Nassr,(C),Al-Riyadh,4-1,90,1,1215,873
+2023/24,2023-12-11,V,KCP,QF,Al-Nassr,(F),Al-Shabab,2-5,82,1,1216,874
+2023/24,2023-12-22,V,D1,R18,Al-Nassr,(C),Al-Ettifaq,3-1,90,1,1217,875
+2023/24,2023-12-26,V,D1,R17,Al-Nassr,(F),Al-Ittihad Jeddah,2-5,90,2,1218,877
+2023/24,2023-12-30,V,D1,R19,Al-Nassr,(F),Al-Taawoun,1-4,90,1,1219,878
+2023/24,2024-02-14,V,CLE,1/8,Al-Nassr,(F),Al-Fayha,0-1,90,1,1220,879
+2023/24,2024-02-17,V,D1,R20,Al-Nassr,(C),Al-Fateh,2-1,90,1,1221,880
+2023/24,2024-02-21,V,CLE,1/8,Al-Nassr,(C),Al-Fayha,2-0,90,1,1222,881
+2023/24,2024-02-25,V,D1,R21,Al-Nassr,(F),Al-Shabab,2-3,90,1,1223,882
+2023/24,2024-03-04,D,CLE,QF,Al-Nassr,(F),Al Ain,1-0,90,0,1224,882
+2023/24,2024-03-07,D,D1,R23,Al-Nassr,(C),Al-Raed,1-3,90,0,1225,882
+2023/24,2024-03-11,V,CLE,QF,Al-Nassr,(C),Al Ain,4-3 (1-3)g.p.,90,1,1226,883
+2023/24,2024-03-15,V,D1,R24,Al-Nassr,(F),Al-Ahli Jeddah,0-1,90,1,1227,884
+2023/24,2024-03-26,D,AMI,JA,Portugal,(F),Eslovênia,2-0,90,0,1228,884
+2023/24,2024-03-30,V,D1,R25,Al-Nassr,(C),Al-Tai,5-1,90,3,1229,887
+2023/24,2024-04-02,V,D1,R26,Al-Nassr,(F),Abha Club,0-8,45,3,1230,890
+2023/24,2024-04-05,V,D1,R27,Al-Nassr,(F),Damac FC,0-1,24,0,1231,890
+2023/24,2024-04-08,D,SC,SF,Al-Nassr,(F),Al-Hilal,2-1,86,0,1232,890
+2023/24,2024-04-27,V,D1,R29,Al-Nassr,(F),Al-Khaleej,0-1,90,0,1233,890
+2023/24,2024-05-01,V,KCP,SF,Al-Nassr,(C),Al-Khaleej,3-1,90,2,1234,892
+2023/24,2024-05-04,V,D1,R30,Al-Nassr,(C),Al-Wehda,6-0,79,3,1235,895
+2023/24,2024-05-09,V,D1,R31,Al-Nassr,(F),Al-Akhdoud,2-3,90,1,1236,896
+2023/24,2024-05-17,E,D1,R32,Al-Nassr,(C),Al-Hilal,1-1,90,0,1237,896
+2023/24,2024-05-23,E,D1,R33,Al-Nassr,(F),Al-Riyadh,2-2,90,0,1238,896
+2023/24,2024-05-27,V,D1,R34,Al-Nassr,(C),Al-Ittihad Jeddah,4-2,74,2,1239,898
+2023/24,2024-05-31,E,KCP,F,Al-Nassr,(F),Al-Hilal,1-1 (5-4)g.p.,120,0,1240,898
+2023/24,2024-06-11,V,AMI,JA,Portugal,(C),Rep. Irlanda,3-0,90,2,1241,900
+2023/24,2024-06-18,V,EU,F,Portugal,(N),Rep. Tcheca,2-1,90,0,1242,900
+2023/24,2024-06-22,V,EU,F,Portugal,(N),Turquia,0-3,90,0,1243,900
+2023/24,2024-06-26,D,EU,F,Portugal,(N),Geórgia,2-0,65,0,1244,900
+2023/24,2024-07-01,E,EU,1/8,Portugal,(N),Eslovênia,0-0 (3-0)g.p.,120,0,1245,900
+2023/24,2024-07-05,E,EU,QF,Portugal,(N),França,0-0 (3-5)g.p.,120,0,1246,900
+2024/25,2024-08-14,V,SC,SF,Al-Nassr,(F),Al-Taawoun,0-2,81,1,1247,901
+2024/25,2024-08-17,D,SC,F,Al-Nassr,(C),Al-Hilal,1-4,90,1,1248,902
+2024/25,2024-08-22,E,D1,R1,Al-Nassr,(C),Al-Raed,1-1,90,1,1249,903
+2024/25,2024-08-27,V,D1,R2,Al-Nassr,(F),Al-Fayha,1-4,90,1,1250,904
+2024/25,2024-09-05,V,UNL,1,Portugal,(C),Croácia,2-1,87,1,1251,905
+2024/25,2024-09-08,V,UNL,1,Portugal,(C),Escócia,2-1,45,1,1252,906
+2024/25,2024-09-13,E,D1,R3,Al-Nassr,(C),Al-Ahli Jeddah,1-1,90,0,1253,906
+2024/25,2024-09-20,V,D1,R4,Al-Nassr,(F),Al-Ettifaq,0-3,90,1,1254,907
+2024/25,2024-09-27,V,D1,R5,Al-Nassr,(C),Al-Wehda,2-0,90,1,1255,908
+2024/25,2024-09-30,V,CLE,West,Al-Nassr,(C),Al-Rayyan,2-1,90,1,1256,909
+2024/25,2024-10-05,V,D1,R6,Al-Nassr,(C),Al-Orobah,3-0,81,1,1257,910
+2024/25,2024-10-12,V,UNL,1,Portugal,(F),Polônia,1-3,63,1,1258,911
+2024/25,2024-10-15,E,UNL,1,Portugal,(F),Escócia,0-0,90,0,1259,911
+2024/25,2024-10-18,V,D1,R7,Al-Nassr,(F),Al-Shabab,1-2,90,1,1260,912
+2024/25,2024-10-22,V,CLE,West,Al-Nassr,(F),Esteghlal Tehran,0-1,90,0,1261,912
+2024/25,2024-10-29,D,KCP,1/8,Al-Nassr,(C),Al-Taawoun,0-1,90,0,1262,912
+2024/25,2024-11-01,E,D1,R9,Al-Nassr,(C),Al-Hilal,1-1,90,0,1263,912
+2024/25,2024-11-05,V,CLE,West,Al-Nassr,(C),Al Ain,5-1,79,1,1264,913
+2024/25,2024-11-08,V,D1,R10,Al-Nassr,(F),Al-Riyadh,0-1,90,0,1265,913
+2024/25,2024-11-15,V,UNL,1,Portugal,(C),Polônia,5-1,90,2,1266,915
+2024/25,2024-11-22,D,D1,R11,Al-Nassr,(C),Al-Qadisiyah,1-2,90,1,1267,916
+2024/25,2024-11-25,V,CLE,West,Al-Nassr,(F),Al-Gharafa,1-3,74,2,1268,918
+2024/25,2024-11-29,V,D1,R12,Al-Nassr,(C),Damac FC,2-0,90,2,1269,920
+2024/25,2024-12-06,D,D1,R13,Al-Nassr,(F),Al-Ittihad Jeddah,2-1,90,1,1270,921
+2024/25,2025-01-09,V,D1,R14,Al-Nassr,(C),Al-Akhdoud,3-1,90,1,1271,922
+2024/25,2025-01-17,E,D1,R15,Al-Nassr,(F),Al-Taawoun,1-1,90,0,1272,922
+2024/25,2025-01-21,V,D1,R16,Al-Nassr,(F),Al-Khaleej,1-3,90,2,1273,924
+2024/25,2025-01-26,V,D1,R17,Al-Nassr,(C),Al-Fateh,3-1,90,1,1274,925
+2024/25,2025-01-30,V,D1,R18,Al-Nassr,(F),Al-Raed,1-2,90,1,1275,926
+2024/25,2025-02-03,V,CLE,R7,Al-Nassr,(C),Al Wasl,4-0,81,2,1276,928
+2024/25,2025-02-07,V,D1,R19,Al-Nassr,(C),Al-Fayha,3-0,84,1,1277,929
+2024/25,2025-02-13,V,D1,R20,Al-Nassr,(F),Al-Ahli Jeddah,2-3,76,0,1278,929
+2024/25,2025-02-21,D,D1,R21,Al-Nassr,(C),Al-Ettifaq,2-3,90,0,1279,929
+2024/25,2025-02-25,V,D1,R22,Al-Nassr,(F),Al-Wehda,0-2,90,1,1280,930
+2024/25,2025-02-28,V,D1,R23,Al-Nassr,(F),Al-Orobah,0-3,90,0,1281,930
+2024/25,2025-03-07,E,D1,R24,Al-Nassr,(C),Al-Shabab,2-2,71,1,1282,931
+2024/25,2025-03-10,V,CLE,1/8,Al-Nassr,(C),Esteghlal Tehran,3-0,90,1,1283,932
+2024/25,2025-03-14,V,D1,R25,Al-Nassr,(C),Al-Kholood,3-1,61,1,1284,933
+2024/25,2025-03-20,D,UNL,QF,Portugal,(F),Dinamarca,1-0,90,0,1285,933
+2024/25,2025-03-23,V,UNL,QF,Portugal,(C),Dinamarca,5-2 (a.p.),90,1,1286,934
+2024/25,2025-04-04,V,D1,R26,Al-Nassr,(F),Al-Hilal,1-3,90,2,1287,936
+2024/25,2025-04-12,V,D1,R27,Al-Nassr,(C),Al-Riyadh,2-1,90,2,1288,938
+2024/25,2025-04-18,D,D1,R28,Al-Nassr,(F),Al-Qadisiyah,2-1,90,0,1289,938
+2024/25,2025-04-26,V,CLE,QF,Al-Nassr,(N),Yokohama Marinos,1-4,67,1,1290,939
+2024/25,2025-04-30,D,CLE,SF,Al-Nassr,(N),Kawasaki Frontale,2-3,90,0,1291,939
+2024/25,2025-05-07,D,D1,R30,Al-Nassr,(C),Al-Ittihad Jeddah,2-3,90,0,1292,939
+2024/25,2025-05-21,V,D1,R33,Al-Nassr,(C),Al-Khaleej,2-0,90,1,1293,940
+2024/25,2025-05-26,D,D1,R34,Al-Nassr,(F),Al-Fateh,3-2,90,1,1294,941
+2024/25,2025-06-04,V,UNL,SF,Portugal,(N),Alemanha,1-2,90,1,1295,942
+2024/25,2025-06-08,E,UNL,F,Portugal,(N),Espanha,2-2 (5-3)g.p.,88,1,1296,943
+2025/26,2025-08-19,V,SC,SF,Al-Nassr,(N),Al-Ittihad Jeddah,2-1,90,0,1297,943
+2025/26,2025-08-23,E,SC,F,Al-Nassr,(N),Al-Ahli Jeddah,2-2 (3-5)g.p.,90,1,1298,944
+2025/26,2025-08-29,V,D1,R1,Al-Nassr,(F),Al-Taawoun,0-5,90,1,1299,945
+2025/26,2025-09-06,V,ECM,F,Portugal,(F),Armênia,0-5,58,2,1300,947
+2025/26,2025-09-09,V,ECM,F,Portugal,(F),Hungria,2-3,87,1,1301,948
+2025/26,2025-09-14,V,D1,R2,Al-Nassr,(C),Al-Kholood,2-0,90,0,1302,948
+2025/26,2025-09-20,V,D1,R3,Al-Nassr,(C),Al-Riyadh,5-1,90,2,1303,950
+2025/26,2025-09-26,V,D1,R4,Al-Nassr,(F),Al-Ittihad Jeddah,0-2,90,1,1304,951
+2025/26,2025-10-11,V,ECM,F,Portugal,(C),Rep. Irlanda,1-0,90,0,1305,951
+2025/26,2025-10-14,E,ECM,F,Portugal,(C),Hungria,2-2,78,2,1306,953
+2025/26,2025-10-18,V,D1,R5,Al-Nassr,(C),Al-Fateh,5-1,90,1,1307,954
+2025/26,2025-10-25,V,D1,R6,Al-Nassr,(F),Al-Hazm,0-2,90,1,1308,955
+2025/26,2025-10-28,D,KCP,1/8,Al-Nassr,(C),Al-Ittihad Jeddah,1-2,90,0,1309,955
+2025/26,2025-11-01,V,D1,R7,Al-Nassr,(C),Al-Fayha,2-1,90,2,1310,957
+2025/26,2025-11-08,V,D1,R8,Al-Nassr,(F),Neom SC,1-3,90,1,1311,958
+2025/26,2025-11-13,D,ECM,F,Portugal,(F),Rep. Irlanda,2-0,61,0,1312,958
+2025/26,2025-11-23,V,D1,R9,Al-Nassr,(C),Al-Khaleej,4-1,90,1,1313,959
+2025/26,2025-12-24,V,CL2,D,Al-Nassr,(C),Al-Zawra´a,5-1,45,0,1314,959
+2025/26,2025-12-27,V,D1,R11,Al-Nassr,(C),Al-Akhdoud,3-0,90,2,1315,961
+2025/26,2025-12-30,E,D1,R12,Al-Nassr,(F),Al-Ettifaq,2-2,90,1,1316,962
+2025/26,2026-01-02,D,D1,R13,Al-Nassr,(F),Al-Ahli Jeddah,3-2,90,0,1317,962
+2025/26,2026-01-08,D,D1,R14,Al-Nassr,(C),Al-Qadisiyah,1-2,90,1,1318,963
+2025/26,2026-01-12,D,D1,R15,Al-Nassr,(F),Al-Hilal,3-1,83,1,1319,964
+2025/26,2026-01-17,V,D1,R16,Al-Nassr,(C),Al-Shabab,3-2,90,0,1320,964
+2025/26,2026-01-21,V,D1,R17,Al-Nassr,(F),Damac FC,1-2,90,1,1321,965
+2025/26,2026-01-26,V,D1,R18,Al-Nassr,(C),Al-Taawoun,1-0,90,0,1322,965
+2025/26,2026-01-30,V,D1,R19,Al-Nassr,(F),Al-Kholood,0-3,79,1,1323,966
+2025/26,2026-02-14,V,D1,R22,Al-Nassr,(F),Al-Fateh,0-2,90,1,1324,967
+2025/26,2026-02-21,V,D1,R23,Al-Nassr,(C),Al-Hazm,4-0,90,2,1325,969
+2025/26,2026-02-25,V,D1,R10,Al-Nassr,(F),Al-Najma,0-5,57,1,1326,970
+2025/26,2026-02-28,V,D1,R24,Al-Nassr,(F),Al-Fayha,1-3,81,0,1327,970
+2025/26,2026-04-03,V,D1,R27,Al-Nassr,(C),Al-Najma,5-2,83,2,1328,972
+2025/26,2026-04-11,V,D1,R28,Al-Nassr,(F),Al-Akhdoud,0-2,82,1,1329,973
+2025/26,2026-04-15,V,D1,R29,Al-Nassr,(C),Al-Ettifaq,1-0,89,0,1330,973
+2025/26,2026-04-19,V,CL2,QF,Al-Nassr,(F),Al Wasl,0-4,67,1,1331,974
+2025/26,2026-04-22,V,CL2,SF,Al-Nassr,(N),Al Ahli,5-1,78,0,1332,974
+2025/26,2026-04-29,V,D1,R30,Al-Nassr,(C),Al-Ahli Jeddah,2-0,90,1,1333,975
+2025/26,2026-05-03,D,D1,R31,Al-Nassr,(F),Al-Qadisiyah,3-1,90,0,1334,975
+2025/26,2026-05-07,V,D1,R33,Al-Nassr,(F),Al-Shabab,2-4,90,1,1335,976
+2025/26,2026-05-12,E,D1,R32,Al-Nassr,(C),Al-Hilal,1-1,82,0,1336,976
+2025/26,2026-05-16,D,CL2,F,Al-Nassr,(N),Gamba Osaka,0-1,90,0,1337,976

@@ -30,46 +30,38 @@ class EstimadorGaussNewton:
 
     def estimar(self, parametros_iniciais):
 
-        # Converte os chutes iniciais em vetor numérico
         parametros = np.array(parametros_iniciais, dtype=float)
 
-        # Histórico da evolução dos parâmetros e do erro
         historico_beta = []
         historico_alpha = []
         historico_k = []
         historico_erro = []
+        historico_delta = []
 
-        # Loop principal do algoritmo
         for iteracao in range(self.max_iter):
 
-            # Calcula o vetor de resíduos
             residuo = self.calcular_residuo(parametros)
 
-            # Calcula a matriz Jacobiana numérica
             J = self.calcular_jacobiana_numerica(parametros, residuo_base=residuo)
 
-            # Calcula erro global atual
             erro = np.linalg.norm(residuo)
 
-            # Salva históricos para análise posterior
             historico_beta.append(parametros[0])
             historico_alpha.append(parametros[1])
             historico_k.append(parametros[2])
             historico_erro.append(erro)
 
-            # Resolve o sistema do Gauss-Newton:
-            # (JᵀJ)Δ = Jᵀr
             delta = np.linalg.lstsq(J.T @ J, J.T @ residuo, rcond=None)[0]
 
-            # Atualiza parâmetros com proteção numérica
+            historico_delta.append(np.linalg.norm(delta))
+
             parametros, parar = self.atualizar_parametros_com_protecao(parametros, delta)
 
-            # Para se convergiu ou se houve instabilidade numérica
             if parar:
                 break
 
-        # Retorna parâmetros estimados, históricos e número de iterações
-        return (parametros,historico_beta,historico_alpha,historico_k,historico_erro,iteracao + 1)
+        return (parametros, historico_beta, historico_alpha, historico_k, historico_erro, historico_delta, iteracao + 1)
+
 
     def calcular_residuo(self, parametros):
 
